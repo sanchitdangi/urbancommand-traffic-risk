@@ -1,0 +1,2001 @@
+Accident_ID,Location,Latitude,Longitude,Date,Time,Severity,Cause,Road_Type,Weather
+ID-1,Chennai,13.09183,80.105,2023-02-22,19:47,Minor,Signal Jumping,Rural Road,Clear
+ID-2,Pune,18.48438,73.70596,2023-10-15,07:01,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-3,Delhi,28.51128,77.23465,2023-03-21,20:17,Minor,Weather/Low Visibility,Highway,Fog
+ID-4,Jaipur,26.81934,75.8695,2023-10-02,04:29,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-5,Indore,22.76588,75.8237,2023-01-24,10:04,Serious,Signal Jumping,City Road,Rain
+ID-6,Mumbai,19.1566,72.9733,2023-07-06,15:53,Minor,Weather/Low Visibility,City Road,Fog
+ID-7,Bangalore,12.88009,77.68733,2023-10-01,23:10,Fatal,Drunk Driving,Highway,Rain
+ID-8,Bangalore,13.07762,77.63763,2023-01-17,14:14,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-9,Mumbai,19.17394,72.91344,2023-07-22,13:31,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-10,Delhi,28.49865,77.08068,2023-10-26,21:57,Serious,Weather/Low Visibility,Highway,Fog
+ID-11,Delhi,28.45533,77.04676,2023-12-15,23:10,Minor,Distracted Driving,City Road,Clear
+ID-12,Nagpur,21.09361,78.97542,2023-12-16,17:07,Fatal,Weather/Low Visibility,Rural Road,Fog
+ID-13,Jaipur,26.8587,75.73163,2023-04-02,17:32,Fatal,Potholes,Rural Road,Clear
+ID-14,Hyderabad,17.35969,78.42779,2023-03-24,04:48,Minor,Potholes,Rural Road,Clear
+ID-15,Mumbai,18.99725,72.8039,2023-10-18,18:15,Serious,Over-speeding,Rural Road,Clear
+ID-16,Hyderabad,17.3972,78.31384,2023-10-09,13:30,Serious,Drunk Driving,Rural Road,Fog
+ID-17,Varanasi,25.28463,82.94236,2023-06-09,19:45,Minor,Weather/Low Visibility,City Road,Fog
+ID-18,Nashik,19.9903,73.74958,2023-04-28,12:35,Minor,Weather/Low Visibility,Highway,Rain
+ID-19,Delhi,28.65244,76.91447,2023-05-23,08:15,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-20,Bangalore,13.01701,77.67648,2023-07-28,13:51,Serious,Drunk Driving,Highway,Clear
+ID-21,Indore,22.7318,75.77086,2023-12-01,17:43,Serious,Signal Jumping,Highway,Clear
+ID-22,Pune,18.48052,73.76786,2023-08-18,07:34,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-23,Delhi,28.49992,77.26163,2023-10-04,18:41,Fatal,Over-speeding,Highway,Clear
+ID-24,Mumbai,19.04569,72.84275,2023-07-19,03:00,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-25,Lucknow,26.89908,80.91115,2023-04-22,19:18,Fatal,Over-speeding,Rural Road,Clear
+ID-26,Bangalore,12.89408,77.51003,2023-09-18,10:03,Minor,Weather/Low Visibility,Highway,Rain
+ID-27,Kolkata,22.63504,88.34704,2023-01-21,13:38,Fatal,Potholes,City Road,Clear
+ID-28,Bangalore,12.99721,77.61305,2023-06-10,13:45,Serious,Weather/Low Visibility,City Road,Fog
+ID-29,Nashik,20.0291,73.79144,2023-02-21,15:36,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-30,Jaipur,26.98665,75.87617,2023-10-06,19:28,Minor,Signal Jumping,Rural Road,Fog
+ID-31,Nagpur,21.16142,79.05868,2023-03-10,14:06,Minor,Distracted Driving,Highway,Clear
+ID-32,Chennai,13.12273,80.13109,2023-04-15,02:21,Fatal,Weather/Low Visibility,Rural Road,Fog
+ID-33,Delhi,28.73844,76.84615,2023-03-08,18:21,Serious,Signal Jumping,Highway,Fog
+ID-34,Hyderabad,17.41034,78.38554,2023-03-18,23:57,Serious,Potholes,City Road,Clear
+ID-35,Chennai,12.94443,80.12549,2023-12-16,20:13,Serious,Drunk Driving,City Road,Clear
+ID-36,Delhi,28.71205,77.24207,2023-05-02,10:59,Serious,Weather/Low Visibility,City Road,Rain
+ID-37,Nagpur,21.14731,78.99966,2023-03-23,19:17,Minor,Signal Jumping,City Road,Clear
+ID-38,Nagpur,21.17443,79.15758,2023-04-27,07:19,Minor,Drunk Driving,Rural Road,Clear
+ID-39,Pune,18.43863,73.76565,2023-07-24,23:32,Minor,Weather/Low Visibility,Highway,Fog
+ID-40,Bangalore,12.85357,77.69251,2023-06-26,06:27,Serious,Signal Jumping,City Road,Fog
+ID-41,Chennai,13.05343,80.17704,2023-08-12,18:45,Minor,Weather/Low Visibility,City Road,Rain
+ID-42,Hyderabad,17.48977,78.48415,2023-06-03,17:46,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-43,Delhi,28.56096,76.94783,2023-12-13,15:24,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-44,Bangalore,12.92182,77.66675,2023-10-24,13:50,Minor,Weather/Low Visibility,City Road,Fog
+ID-45,Meerut,29.03513,77.70223,2023-09-21,18:18,Serious,Signal Jumping,Highway,Fog
+ID-46,Hyderabad,17.45023,78.43456,2023-05-06,13:02,Serious,Distracted Driving,City Road,Clear
+ID-47,Delhi,28.75445,77.08784,2023-05-05,21:25,Minor,Drunk Driving,Highway,Clear
+ID-48,Delhi,28.71137,76.90942,2023-05-08,10:35,Serious,Over-speeding,Highway,Dust Storm
+ID-49,Mumbai,19.19637,72.91909,2023-10-08,10:27,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-50,Meerut,28.99001,77.75036,2023-05-03,08:40,Minor,Distracted Driving,Highway,Dust Storm
+ID-51,Lucknow,26.7469,80.86717,2023-07-16,06:14,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-52,Bangalore,12.92446,77.56618,2023-08-04,19:53,Minor,Distracted Driving,Rural Road,Clear
+ID-53,Pune,18.4954,73.88855,2023-10-07,02:47,Minor,Weather/Low Visibility,City Road,Rain
+ID-54,Mumbai,18.90871,72.86723,2023-08-28,05:53,Minor,Drunk Driving,City Road,Clear
+ID-55,Jaipur,26.91838,75.8326,2023-08-25,00:55,Minor,Drunk Driving,City Road,Clear
+ID-56,Mumbai,18.9635,72.86537,2023-02-11,20:53,Serious,Signal Jumping,Rural Road,Clear
+ID-57,Jaipur,26.81042,75.89038,2023-01-16,12:02,Minor,Drunk Driving,Highway,Rain
+ID-58,Delhi,28.49542,77.03678,2023-05-12,13:44,Fatal,Distracted Driving,Rural Road,Rain
+ID-59,Madurai,9.94959,78.02291,2023-06-09,22:01,Serious,Drunk Driving,City Road,Dust Storm
+ID-60,Kolkata,22.61842,88.46611,2023-12-17,20:54,Minor,Potholes,Rural Road,Clear
+ID-61,Hyderabad,17.45653,78.36944,2023-11-28,11:32,Fatal,Distracted Driving,City Road,Clear
+ID-62,Nashik,20.06447,73.72111,2023-08-11,23:09,Minor,Drunk Driving,Rural Road,Fog
+ID-63,Bangalore,12.94505,77.58711,2023-05-06,14:54,Serious,Weather/Low Visibility,City Road,Fog
+ID-64,Nashik,19.99294,73.82207,2023-06-16,21:54,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-65,Delhi,28.50334,76.93983,2023-09-22,11:00,Minor,Drunk Driving,Highway,Clear
+ID-66,Kolkata,22.64401,88.39772,2023-09-09,01:45,Fatal,Drunk Driving,Highway,Clear
+ID-67,Kolkata,22.63836,88.36124,2023-06-26,04:33,Serious,Weather/Low Visibility,City Road,Fog
+ID-68,Pune,18.45418,73.75028,2023-10-02,20:07,Minor,Weather/Low Visibility,Highway,Rain
+ID-69,Mumbai,19.04526,72.94492,2023-04-10,18:53,Minor,Weather/Low Visibility,City Road,Rain
+ID-70,Lucknow,26.70283,80.90683,2023-12-24,22:18,Minor,Drunk Driving,Highway,Dust Storm
+ID-71,Kolkata,22.59388,88.38809,2023-02-03,14:07,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-72,Bangalore,13.00594,77.53035,2023-10-13,08:07,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-73,Meerut,29.0817,77.65947,2023-01-31,14:39,Minor,Distracted Driving,Highway,Clear
+ID-74,Kolkata,22.6251,88.35293,2023-02-08,19:35,Minor,Drunk Driving,City Road,Clear
+ID-75,Pune,18.4901,73.81876,2023-05-25,13:45,Serious,Signal Jumping,Highway,Dust Storm
+ID-76,Lucknow,26.88478,80.95757,2023-02-28,10:27,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-77,Kolkata,22.55313,88.32845,2023-10-19,07:47,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-78,Varanasi,25.26082,82.9805,2023-02-11,21:28,Serious,Potholes,City Road,Clear
+ID-79,Delhi,28.69381,77.10186,2023-10-22,23:53,Serious,Potholes,Rural Road,Clear
+ID-80,Varanasi,25.31525,83.05262,2023-05-23,23:28,Minor,Drunk Driving,Rural Road,Dust Storm
+ID-81,Bangalore,12.941,77.58167,2023-07-30,12:21,Minor,Signal Jumping,City Road,Dust Storm
+ID-82,Bangalore,12.92014,77.6521,2023-06-15,09:16,Minor,Over-speeding,Rural Road,Dust Storm
+ID-83,Varanasi,25.20023,83.07387,2023-07-05,19:33,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-84,Delhi,28.42064,76.93353,2023-03-04,23:31,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-85,Delhi,28.6209,76.8466,2023-03-20,12:53,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-86,Lucknow,26.7831,80.8965,2023-07-16,22:09,Minor,Weather/Low Visibility,Highway,Rain
+ID-87,Bangalore,12.92448,77.68685,2023-06-02,08:46,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-88,Nagpur,21.09687,78.99973,2023-04-07,20:55,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-89,Hyderabad,17.4712,78.38216,2023-07-15,15:58,Minor,Weather/Low Visibility,City Road,Rain
+ID-90,Kolkata,22.52525,88.49307,2023-08-22,18:33,Minor,Over-speeding,City Road,Rain
+ID-91,Nashik,20.09399,73.71497,2023-11-29,16:25,Serious,Over-speeding,Rural Road,Fog
+ID-92,Delhi,28.552,76.95833,2023-02-05,16:39,Fatal,Drunk Driving,Highway,Fog
+ID-93,Hyderabad,17.38679,78.31969,2023-12-22,12:10,Serious,Distracted Driving,Highway,Clear
+ID-94,Pune,18.46487,73.71122,2023-09-29,02:15,Fatal,Weather/Low Visibility,Highway,Rain
+ID-95,Indore,22.67651,75.83663,2023-11-23,13:29,Fatal,Distracted Driving,City Road,Dust Storm
+ID-96,Hyderabad,17.47978,78.39305,2023-08-15,19:04,Serious,Distracted Driving,Rural Road,Fog
+ID-97,Kolkata,22.63806,88.39137,2023-05-02,02:06,Fatal,Weather/Low Visibility,Rural Road,Fog
+ID-98,Pune,18.40439,73.86601,2023-12-18,12:55,Minor,Signal Jumping,Rural Road,Clear
+ID-99,Lucknow,26.84903,80.96657,2023-11-22,20:14,Minor,Drunk Driving,Rural Road,Fog
+ID-100,Bangalore,13.03024,77.63617,2023-01-21,23:41,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-101,Chennai,12.92704,80.15902,2023-10-04,05:08,Fatal,Weather/Low Visibility,Highway,Fog
+ID-102,Varanasi,25.36494,82.99637,2023-02-08,18:29,Minor,Drunk Driving,Rural Road,Rain
+ID-103,Chennai,13.19398,80.29345,2023-05-16,08:00,Serious,Potholes,City Road,Clear
+ID-104,Mumbai,19.01058,72.9498,2023-02-25,15:23,Serious,Weather/Low Visibility,City Road,Rain
+ID-105,Bangalore,13.06527,77.61228,2023-08-26,18:40,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-106,Pune,18.42796,73.88925,2023-10-03,18:15,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-107,Bangalore,13.08481,77.6393,2023-03-21,23:46,Fatal,Signal Jumping,City Road,Clear
+ID-108,Delhi,28.78061,76.81636,2023-07-05,02:15,Fatal,Over-speeding,Rural Road,Fog
+ID-109,Indore,22.61211,75.75518,2023-11-25,23:13,Serious,Signal Jumping,Highway,Clear
+ID-110,Delhi,28.49743,76.86296,2023-10-28,12:13,Serious,Drunk Driving,City Road,Rain
+ID-111,Mumbai,19.13659,72.9192,2023-03-31,13:16,Fatal,Over-speeding,Highway,Clear
+ID-112,Kolkata,22.658,88.34759,2023-03-06,20:03,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-113,Chennai,12.91907,80.18966,2023-09-15,18:28,Minor,Drunk Driving,Rural Road,Clear
+ID-114,Indore,22.75665,75.8734,2023-02-01,23:01,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-115,Delhi,28.76388,76.83675,2023-03-06,19:04,Fatal,Distracted Driving,City Road,Fog
+ID-116,Pune,18.50611,73.79074,2023-12-02,23:07,Serious,Drunk Driving,City Road,Rain
+ID-117,Kolkata,22.56779,88.3907,2023-06-10,12:27,Minor,Signal Jumping,City Road,Fog
+ID-118,Varanasi,25.33736,82.99485,2023-07-10,12:06,Minor,Drunk Driving,Rural Road,Clear
+ID-119,Madurai,9.99132,78.11234,2023-12-07,06:55,Fatal,Signal Jumping,City Road,Clear
+ID-120,Delhi,28.52498,76.8518,2023-04-25,04:30,Fatal,Weather/Low Visibility,Rural Road,Fog
+ID-121,Jaipur,26.95252,75.81482,2023-11-26,03:43,Serious,Potholes,Rural Road,Clear
+ID-122,Indore,22.76589,75.75349,2023-06-23,01:58,Minor,Distracted Driving,Highway,Clear
+ID-123,Bangalore,12.9699,77.58016,2023-09-29,11:05,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-124,Nashik,19.93148,73.76233,2023-01-27,18:56,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-125,Bangalore,12.82447,77.58862,2023-05-20,09:26,Minor,Drunk Driving,City Road,Clear
+ID-126,Nagpur,21.08598,78.98497,2023-06-07,22:42,Serious,Drunk Driving,City Road,Rain
+ID-127,Chennai,12.96133,80.28906,2023-01-04,20:07,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-128,Varanasi,25.30652,82.94602,2023-01-22,18:25,Serious,Over-speeding,City Road,Clear
+ID-129,Lucknow,26.87242,80.91515,2023-05-29,23:26,Fatal,Drunk Driving,Highway,Dust Storm
+ID-130,Madurai,9.98952,78.09202,2023-02-24,12:54,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-131,Bangalore,12.82359,77.6741,2023-03-28,20:49,Serious,Over-speeding,Rural Road,Clear
+ID-132,Delhi,28.60398,77.25296,2023-03-17,23:52,Fatal,Drunk Driving,Highway,Clear
+ID-133,Bangalore,12.85205,77.53057,2023-08-26,23:31,Minor,Potholes,Rural Road,Dust Storm
+ID-134,Pune,18.52706,73.8249,2023-08-29,21:04,Minor,Weather/Low Visibility,City Road,Fog
+ID-135,Bangalore,12.90558,77.51484,2023-05-27,18:23,Minor,Over-speeding,Rural Road,Clear
+ID-136,Nagpur,21.11882,79.01534,2023-10-20,18:28,Fatal,Signal Jumping,City Road,Rain
+ID-137,Hyderabad,17.40027,78.49154,2023-09-16,03:05,Minor,Weather/Low Visibility,Highway,Rain
+ID-138,Chennai,13.03183,80.20455,2023-07-29,20:24,Serious,Distracted Driving,Rural Road,Clear
+ID-139,Delhi,28.65892,76.83296,2023-05-10,10:18,Serious,Weather/Low Visibility,City Road,Rain
+ID-140,Delhi,28.66544,77.25837,2023-03-08,02:25,Minor,Potholes,City Road,Clear
+ID-141,Delhi,28.6574,76.96424,2023-09-27,23:43,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-142,Delhi,28.47211,76.9071,2023-02-09,03:09,Minor,Distracted Driving,Rural Road,Clear
+ID-143,Chennai,13.15054,80.27674,2023-11-02,14:08,Minor,Weather/Low Visibility,Highway,Rain
+ID-144,Varanasi,25.33857,83.02495,2023-07-06,18:26,Minor,Signal Jumping,City Road,Rain
+ID-145,Chennai,13.12572,80.25676,2023-08-29,01:51,Minor,Drunk Driving,Rural Road,Fog
+ID-146,Pune,18.49234,73.75635,2023-04-13,16:10,Minor,Weather/Low Visibility,City Road,Rain
+ID-147,Hyderabad,17.39612,78.37424,2023-02-12,00:18,Serious,Drunk Driving,City Road,Fog
+ID-148,Delhi,28.57499,77.27321,2023-01-28,09:26,Fatal,Weather/Low Visibility,Highway,Fog
+ID-149,Kolkata,22.51632,88.34491,2023-03-16,23:21,Minor,Drunk Driving,City Road,Clear
+ID-150,Varanasi,25.29449,83.06622,2023-02-10,15:00,Serious,Over-speeding,Highway,Fog
+ID-151,Nashik,20.04545,73.80555,2023-01-25,08:07,Minor,Drunk Driving,Rural Road,Dust Storm
+ID-152,Delhi,28.58285,76.85543,2023-09-21,18:40,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-153,Nashik,19.98585,73.82296,2023-12-09,15:42,Serious,Over-speeding,Highway,Fog
+ID-154,Delhi,28.71456,77.05381,2023-07-18,15:40,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-155,Hyderabad,17.4577,78.36896,2023-10-25,18:49,Minor,Weather/Low Visibility,Highway,Fog
+ID-156,Hyderabad,17.4092,78.4627,2023-11-20,23:30,Minor,Drunk Driving,Highway,Rain
+ID-157,Madurai,9.8074,78.04032,2023-07-23,01:32,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-158,Nashik,19.95722,73.87243,2023-07-08,14:07,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-159,Bangalore,13.08694,77.56781,2023-09-23,09:23,Serious,Distracted Driving,Rural Road,Clear
+ID-160,Bangalore,12.92735,77.58612,2023-02-10,14:06,Serious,Weather/Low Visibility,City Road,Fog
+ID-161,Meerut,29.04353,77.63333,2023-06-30,18:46,Minor,Potholes,City Road,Dust Storm
+ID-162,Bangalore,13.03744,77.51147,2023-12-14,20:32,Minor,Drunk Driving,Highway,Clear
+ID-163,Mumbai,19.1546,72.93562,2023-11-27,18:15,Minor,Distracted Driving,City Road,Fog
+ID-164,Varanasi,25.20648,82.93069,2023-02-09,21:48,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-165,Chennai,12.99432,80.15574,2023-09-23,19:31,Minor,Distracted Driving,City Road,Clear
+ID-166,Delhi,28.68162,76.90729,2023-03-04,04:12,Serious,Drunk Driving,City Road,Clear
+ID-167,Nagpur,21.03453,79.11401,2023-12-30,23:22,Serious,Over-speeding,City Road,Fog
+ID-168,Pune,18.58546,73.82754,2023-03-13,13:12,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-169,Indore,22.71446,75.79348,2023-06-08,18:04,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-170,Chennai,13.02283,80.21498,2023-08-27,08:28,Fatal,Signal Jumping,Highway,Fog
+ID-171,Nashik,20.05605,73.82796,2023-01-29,22:58,Serious,Drunk Driving,City Road,Rain
+ID-172,Pune,18.54187,73.7692,2023-11-22,20:12,Minor,Distracted Driving,Highway,Fog
+ID-173,Indore,22.72289,75.71869,2023-03-29,07:09,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-174,Delhi,28.74551,76.84061,2023-10-20,23:13,Minor,Signal Jumping,City Road,Clear
+ID-175,Mumbai,19.09257,72.86042,2023-02-07,20:29,Minor,Signal Jumping,Highway,Clear
+ID-176,Bangalore,12.93188,77.59685,2023-06-13,08:20,Minor,Weather/Low Visibility,City Road,Fog
+ID-177,Nagpur,21.07411,79.0685,2023-08-19,15:17,Minor,Weather/Low Visibility,Highway,Rain
+ID-178,Pune,18.58908,73.87283,2023-10-23,13:59,Minor,Signal Jumping,Highway,Fog
+ID-179,Chennai,13.04948,80.20294,2023-07-21,08:05,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-180,Lucknow,26.77058,80.81011,2023-05-27,23:30,Minor,Distracted Driving,Highway,Clear
+ID-181,Mumbai,19.16474,72.9455,2023-10-19,08:03,Minor,Weather/Low Visibility,City Road,Rain
+ID-182,Pune,18.41471,73.80085,2023-03-02,16:39,Serious,Drunk Driving,City Road,Clear
+ID-183,Madurai,9.87464,78.19736,2023-09-18,13:38,Fatal,Over-speeding,Highway,Clear
+ID-184,Nagpur,21.06661,79.04212,2023-06-17,16:08,Minor,Weather/Low Visibility,Highway,Fog
+ID-185,Nashik,20.0233,73.86852,2023-09-08,22:34,Fatal,Signal Jumping,City Road,Fog
+ID-186,Madurai,9.93476,78.19598,2023-01-14,17:40,Serious,Potholes,City Road,Dust Storm
+ID-187,Hyderabad,17.45658,78.45523,2023-09-03,18:37,Serious,Drunk Driving,Highway,Dust Storm
+ID-188,Bangalore,12.87266,77.61451,2023-06-10,18:28,Serious,Weather/Low Visibility,City Road,Rain
+ID-189,Delhi,28.56415,77.18749,2023-03-12,11:45,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-190,Mumbai,19.09867,72.9051,2023-10-07,07:21,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-191,Mumbai,19.1872,72.8558,2023-04-17,14:45,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-192,Kolkata,22.6121,88.4869,2023-12-13,08:36,Serious,Potholes,City Road,Dust Storm
+ID-193,Delhi,28.78184,77.20231,2023-06-27,06:05,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-194,Mumbai,18.96062,72.90772,2023-11-12,04:06,Fatal,Weather/Low Visibility,Highway,Rain
+ID-195,Hyderabad,17.48104,78.34513,2023-08-30,06:21,Serious,Over-speeding,Highway,Rain
+ID-196,Hyderabad,17.33159,78.43058,2023-05-28,19:48,Fatal,Weather/Low Visibility,Rural Road,Fog
+ID-197,Nagpur,21.15374,79.09569,2023-01-20,23:54,Fatal,Drunk Driving,Highway,Dust Storm
+ID-198,Nashik,20.06724,73.85759,2023-06-02,18:00,Fatal,Potholes,City Road,Clear
+ID-199,Bangalore,12.88537,77.69782,2023-09-16,19:54,Minor,Weather/Low Visibility,Highway,Fog
+ID-200,Mumbai,18.99921,72.94622,2023-06-22,08:00,Serious,Distracted Driving,Highway,Rain
+ID-201,Hyderabad,17.42775,78.3811,2023-12-09,18:25,Serious,Weather/Low Visibility,Highway,Rain
+ID-202,Hyderabad,17.48717,78.30137,2023-06-04,20:21,Fatal,Potholes,City Road,Clear
+ID-203,Mumbai,19.09611,72.93855,2023-03-23,21:19,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-204,Hyderabad,17.48323,78.35901,2023-03-20,13:30,Fatal,Weather/Low Visibility,City Road,Fog
+ID-205,Chennai,13.17384,80.25147,2023-11-02,13:48,Serious,Over-speeding,Rural Road,Dust Storm
+ID-206,Mumbai,18.92343,72.91283,2023-10-02,16:36,Fatal,Drunk Driving,City Road,Rain
+ID-207,Bangalore,12.93255,77.63606,2023-09-19,10:57,Serious,Over-speeding,City Road,Clear
+ID-208,Delhi,28.6053,77.0284,2023-06-07,23:51,Serious,Drunk Driving,City Road,Clear
+ID-209,Jaipur,26.8006,75.74358,2023-02-02,20:44,Serious,Distracted Driving,Highway,Clear
+ID-210,Delhi,28.79445,77.03604,2023-11-25,13:49,Minor,Signal Jumping,City Road,Dust Storm
+ID-211,Lucknow,26.7765,80.97392,2023-10-04,12:42,Fatal,Weather/Low Visibility,Highway,Fog
+ID-212,Bangalore,12.96118,77.60577,2023-08-26,12:19,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-213,Pune,18.44593,73.79213,2023-02-27,13:48,Minor,Over-speeding,Rural Road,Dust Storm
+ID-214,Kolkata,22.67675,88.30313,2023-08-17,06:02,Fatal,Distracted Driving,Highway,Clear
+ID-215,Mumbai,19.12216,72.88045,2023-09-15,10:08,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-216,Mumbai,19.07324,72.95451,2023-09-24,07:42,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-217,Delhi,28.62269,77.09583,2023-10-12,17:27,Serious,Signal Jumping,City Road,Clear
+ID-218,Meerut,29.03427,77.75716,2023-06-03,11:09,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-219,Varanasi,25.36987,82.96015,2023-07-31,18:35,Minor,Weather/Low Visibility,City Road,Rain
+ID-220,Mumbai,18.961,72.92934,2023-04-08,22:46,Minor,Over-speeding,City Road,Fog
+ID-221,Pune,18.57472,73.73763,2023-09-03,17:13,Serious,Drunk Driving,City Road,Fog
+ID-222,Lucknow,26.70307,80.98743,2023-05-05,06:58,Serious,Signal Jumping,City Road,Rain
+ID-223,Chennai,13.06562,80.2551,2023-06-07,16:22,Serious,Distracted Driving,Rural Road,Fog
+ID-224,Delhi,28.5864,77.20141,2023-06-10,19:23,Serious,Over-speeding,Rural Road,Clear
+ID-225,Pune,18.54825,73.70324,2023-06-01,10:26,Minor,Weather/Low Visibility,City Road,Rain
+ID-226,Delhi,28.62792,76.92287,2023-09-08,17:16,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-227,Meerut,29.059,77.63385,2023-10-05,15:58,Minor,Signal Jumping,Rural Road,Clear
+ID-228,Mumbai,18.91015,72.96934,2023-11-19,21:08,Minor,Drunk Driving,Rural Road,Clear
+ID-229,Pune,18.43021,73.74374,2023-12-08,12:40,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-230,Bangalore,12.80198,77.61033,2023-10-02,23:17,Minor,Distracted Driving,Rural Road,Clear
+ID-231,Varanasi,25.33481,83.06123,2023-05-04,06:09,Serious,Weather/Low Visibility,City Road,Fog
+ID-232,Mumbai,19.01907,72.87461,2023-04-26,03:44,Minor,Distracted Driving,Rural Road,Clear
+ID-233,Pune,18.52998,73.70634,2023-01-29,22:30,Serious,Drunk Driving,Rural Road,Clear
+ID-234,Nagpur,21.09997,79.03017,2023-01-22,10:58,Serious,Drunk Driving,Rural Road,Rain
+ID-235,Mumbai,19.04265,72.80931,2023-12-03,22:36,Serious,Drunk Driving,City Road,Rain
+ID-236,Bangalore,12.84326,77.66414,2023-05-04,19:36,Serious,Potholes,Rural Road,Dust Storm
+ID-237,Nagpur,21.06635,79.12668,2023-06-27,17:32,Serious,Over-speeding,City Road,Clear
+ID-238,Hyderabad,17.34643,78.3152,2023-06-17,16:49,Minor,Weather/Low Visibility,City Road,Fog
+ID-239,Mumbai,19.00674,72.98823,2023-07-14,22:42,Fatal,Drunk Driving,Highway,Fog
+ID-240,Pune,18.43084,73.84234,2023-07-04,21:20,Serious,Over-speeding,Highway,Clear
+ID-241,Delhi,28.57789,77.18067,2023-08-18,19:27,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-242,Bangalore,12.90617,77.51861,2023-07-31,08:18,Minor,Signal Jumping,Rural Road,Clear
+ID-243,Kolkata,22.68104,88.49563,2023-03-28,13:24,Serious,Weather/Low Visibility,City Road,Fog
+ID-244,Mumbai,18.94378,72.83344,2023-02-09,14:50,Serious,Distracted Driving,Highway,Fog
+ID-245,Lucknow,26.79916,80.92333,2023-07-22,03:00,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-246,Nashik,20.06471,73.83021,2023-12-22,14:38,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-247,Indore,22.67965,75.76383,2023-05-05,11:36,Serious,Distracted Driving,City Road,Dust Storm
+ID-248,Nagpur,21.07859,78.93417,2023-12-16,07:11,Serious,Potholes,Rural Road,Clear
+ID-249,Lucknow,26.79232,80.94167,2023-07-29,18:52,Minor,Signal Jumping,Highway,Dust Storm
+ID-250,Jaipur,26.8484,75.83173,2023-11-03,15:28,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-251,Bangalore,13.07612,77.63834,2023-10-02,06:57,Minor,Distracted Driving,Highway,Clear
+ID-252,Pune,18.55379,73.83152,2023-10-16,17:02,Serious,Signal Jumping,City Road,Dust Storm
+ID-253,Varanasi,25.28609,82.90211,2023-10-13,07:33,Minor,Weather/Low Visibility,City Road,Rain
+ID-254,Kolkata,22.59261,88.43591,2023-09-05,05:01,Minor,Over-speeding,City Road,Fog
+ID-255,Varanasi,25.21717,83.06626,2023-08-22,14:21,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-256,Jaipur,26.88763,75.83935,2023-12-30,06:51,Minor,Over-speeding,City Road,Clear
+ID-257,Kolkata,22.62959,88.43543,2023-10-10,13:11,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-258,Varanasi,25.29241,83.05955,2023-08-10,23:42,Serious,Signal Jumping,Rural Road,Clear
+ID-259,Delhi,28.57983,77.01478,2023-12-27,19:17,Minor,Over-speeding,Rural Road,Clear
+ID-260,Delhi,28.47478,76.96299,2023-09-08,23:55,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-261,Hyderabad,17.32285,78.3704,2023-06-02,13:45,Serious,Potholes,Rural Road,Clear
+ID-262,Delhi,28.45358,76.85893,2023-03-14,13:44,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-263,Bangalore,12.97244,77.58461,2023-11-27,16:58,Serious,Weather/Low Visibility,City Road,Rain
+ID-264,Bangalore,12.85613,77.6684,2023-03-11,14:31,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-265,Hyderabad,17.39899,78.43694,2023-02-12,11:10,Serious,Distracted Driving,Highway,Clear
+ID-266,Delhi,28.51684,76.93743,2023-09-11,08:36,Serious,Potholes,Rural Road,Clear
+ID-267,Chennai,12.93426,80.25502,2023-10-07,23:28,Serious,Drunk Driving,Highway,Dust Storm
+ID-268,Pune,18.44951,73.87496,2023-02-14,20:55,Serious,Over-speeding,Highway,Clear
+ID-269,Kolkata,22.61758,88.37013,2023-11-12,10:10,Minor,Drunk Driving,Highway,Rain
+ID-270,Delhi,28.62803,77.06614,2023-05-30,13:45,Fatal,Distracted Driving,Rural Road,Fog
+ID-271,Meerut,29.03586,77.61905,2023-12-26,14:08,Minor,Drunk Driving,Highway,Rain
+ID-272,Delhi,28.73139,77.18074,2023-11-20,19:36,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-273,Mumbai,19.09009,72.97603,2023-12-22,09:17,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-274,Pune,18.40049,73.85483,2023-12-07,05:40,Minor,Signal Jumping,Highway,Fog
+ID-275,Hyderabad,17.37954,78.49363,2023-05-26,14:53,Serious,Distracted Driving,Rural Road,Rain
+ID-276,Chennai,13.13649,80.27883,2023-08-24,12:50,Fatal,Over-speeding,Highway,Clear
+ID-277,Mumbai,18.9002,72.99161,2023-03-23,23:19,Minor,Distracted Driving,Rural Road,Clear
+ID-278,Chennai,12.92473,80.2329,2023-06-06,07:40,Minor,Signal Jumping,City Road,Rain
+ID-279,Chennai,13.11111,80.10022,2023-09-23,03:14,Fatal,Drunk Driving,Highway,Dust Storm
+ID-280,Jaipur,26.82412,75.87207,2023-07-16,18:14,Fatal,Over-speeding,Highway,Clear
+ID-281,Mumbai,19.1643,72.82743,2023-09-29,11:04,Minor,Potholes,Rural Road,Clear
+ID-282,Delhi,28.66001,77.02005,2023-07-30,07:09,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-283,Mumbai,18.93014,72.95049,2023-06-11,20:27,Serious,Drunk Driving,City Road,Rain
+ID-284,Delhi,28.49927,77.1005,2023-12-04,10:01,Minor,Distracted Driving,Rural Road,Rain
+ID-285,Indore,22.63773,75.77835,2023-02-27,21:24,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-286,Kolkata,22.60566,88.49554,2023-10-19,08:55,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-287,Nashik,20.05255,73.89089,2023-05-15,00:00,Fatal,Drunk Driving,Highway,Clear
+ID-288,Mumbai,19.01939,72.8573,2023-07-25,05:44,Minor,Weather/Low Visibility,City Road,Rain
+ID-289,Chennai,12.92371,80.28418,2023-11-21,21:37,Minor,Signal Jumping,City Road,Clear
+ID-290,Bangalore,13.0096,77.64599,2023-08-11,06:59,Serious,Over-speeding,Rural Road,Dust Storm
+ID-291,Pune,18.46186,73.84834,2023-03-12,07:45,Minor,Signal Jumping,Highway,Clear
+ID-292,Chennai,13.04892,80.16934,2023-03-06,14:23,Serious,Signal Jumping,Rural Road,Fog
+ID-293,Bangalore,13.03143,77.50587,2023-12-31,18:16,Minor,Potholes,City Road,Clear
+ID-294,Delhi,28.58208,76.98006,2023-05-11,20:10,Serious,Over-speeding,Highway,Clear
+ID-295,Nashik,19.90051,73.87174,2023-07-16,21:23,Serious,Weather/Low Visibility,Highway,Rain
+ID-296,Delhi,28.76558,77.17033,2023-06-13,07:26,Minor,Distracted Driving,Rural Road,Clear
+ID-297,Kolkata,22.57456,88.40041,2023-07-25,07:02,Fatal,Over-speeding,City Road,Dust Storm
+ID-298,Indore,22.66214,75.71728,2023-10-16,19:18,Minor,Weather/Low Visibility,City Road,Rain
+ID-299,Bangalore,13.09156,77.69956,2023-01-04,01:09,Fatal,Drunk Driving,Highway,Clear
+ID-300,Delhi,28.73583,77.2386,2023-06-07,17:54,Serious,Over-speeding,Rural Road,Rain
+ID-301,Pune,18.48396,73.89224,2023-04-29,18:02,Minor,Potholes,Rural Road,Dust Storm
+ID-302,Mumbai,19.03754,72.94958,2023-07-21,04:40,Fatal,Over-speeding,City Road,Clear
+ID-303,Madurai,9.93249,78.02614,2023-06-17,21:44,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-304,Kolkata,22.68871,88.32722,2023-08-19,06:10,Minor,Weather/Low Visibility,City Road,Fog
+ID-305,Chennai,13.00749,80.25407,2023-03-03,15:54,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-306,Mumbai,19.11141,72.92066,2023-05-08,18:45,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-307,Kolkata,22.55977,88.46402,2023-10-09,06:35,Serious,Drunk Driving,City Road,Clear
+ID-308,Bangalore,12.83057,77.65876,2023-04-12,12:08,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-309,Bangalore,12.99341,77.61646,2023-11-27,12:12,Serious,Weather/Low Visibility,Highway,Rain
+ID-310,Kolkata,22.66587,88.36631,2023-10-21,19:59,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-311,Delhi,28.67329,76.8864,2023-03-18,07:28,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-312,Delhi,28.5648,77.07534,2023-08-03,14:08,Minor,Drunk Driving,Rural Road,Rain
+ID-313,Bangalore,12.9631,77.50391,2023-09-06,21:34,Minor,Weather/Low Visibility,City Road,Fog
+ID-314,Lucknow,26.70521,80.91942,2023-07-03,12:33,Minor,Weather/Low Visibility,Highway,Rain
+ID-315,Chennai,13.09706,80.15331,2023-07-18,06:54,Minor,Weather/Low Visibility,Highway,Rain
+ID-316,Nagpur,21.0636,79.12143,2023-06-30,23:44,Serious,Potholes,Rural Road,Rain
+ID-317,Pune,18.59408,73.80842,2023-04-30,12:03,Fatal,Weather/Low Visibility,Highway,Rain
+ID-318,Madurai,9.80014,78.18358,2023-06-15,07:11,Serious,Over-speeding,Highway,Clear
+ID-319,Chennai,13.17517,80.25487,2023-12-06,08:45,Minor,Distracted Driving,City Road,Clear
+ID-320,Nashik,19.96452,73.89517,2023-06-12,21:41,Minor,Drunk Driving,Highway,Fog
+ID-321,Kolkata,22.66289,88.37568,2023-01-01,19:11,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-322,Mumbai,19.08072,72.98421,2023-09-12,17:06,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-323,Meerut,28.96936,77.6639,2023-06-21,23:40,Serious,Drunk Driving,City Road,Clear
+ID-324,Jaipur,26.81356,75.75133,2023-08-13,18:24,Serious,Signal Jumping,Highway,Dust Storm
+ID-325,Pune,18.49862,73.77574,2023-10-23,21:50,Fatal,Weather/Low Visibility,Highway,Rain
+ID-326,Jaipur,26.95984,75.70668,2023-06-25,08:04,Minor,Drunk Driving,Highway,Dust Storm
+ID-327,Meerut,29.00941,77.77962,2023-09-05,22:57,Serious,Signal Jumping,City Road,Clear
+ID-328,Nashik,19.933,73.87795,2023-04-08,20:13,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-329,Indore,22.64751,75.70993,2023-07-04,04:03,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-330,Mumbai,19.09861,72.92004,2023-11-23,06:10,Fatal,Distracted Driving,City Road,Clear
+ID-331,Jaipur,26.96875,75.76167,2023-02-16,15:16,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-332,Delhi,28.55258,76.89329,2023-04-26,15:16,Minor,Distracted Driving,Highway,Clear
+ID-333,Nagpur,21.15045,79.10024,2023-10-29,14:26,Minor,Drunk Driving,City Road,Clear
+ID-334,Nashik,20.06368,73.78373,2023-05-01,22:56,Serious,Weather/Low Visibility,Highway,Fog
+ID-335,Delhi,28.41389,77.08561,2023-03-03,22:09,Fatal,Weather/Low Visibility,Highway,Rain
+ID-336,Nashik,19.92524,73.78467,2023-11-01,13:09,Minor,Distracted Driving,Rural Road,Fog
+ID-337,Nagpur,21.0134,79.01643,2023-08-23,20:33,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-338,Lucknow,26.72964,80.91759,2023-05-27,16:50,Serious,Weather/Low Visibility,City Road,Fog
+ID-339,Nashik,20.03096,73.8144,2023-03-15,20:25,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-340,Chennai,13.16369,80.2381,2023-07-10,15:57,Minor,Weather/Low Visibility,City Road,Fog
+ID-341,Delhi,28.73714,77.22912,2023-08-15,13:19,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-342,Bangalore,12.99367,77.53759,2023-09-22,09:48,Fatal,Distracted Driving,Rural Road,Clear
+ID-343,Delhi,28.7166,76.83281,2023-09-26,19:49,Serious,Distracted Driving,Highway,Clear
+ID-344,Chennai,12.95783,80.26659,2023-07-04,21:03,Serious,Weather/Low Visibility,City Road,Rain
+ID-345,Nagpur,21.09284,79.01908,2023-09-08,00:23,Serious,Distracted Driving,Highway,Dust Storm
+ID-346,Nashik,20.01027,73.76885,2023-01-15,18:18,Serious,Signal Jumping,Highway,Clear
+ID-347,Kolkata,22.65597,88.34286,2023-05-18,11:13,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-348,Mumbai,19.13409,72.95351,2023-11-04,23:11,Minor,Over-speeding,City Road,Rain
+ID-349,Kolkata,22.64255,88.44187,2023-05-10,15:29,Serious,Drunk Driving,City Road,Dust Storm
+ID-350,Mumbai,19.14729,72.87943,2023-07-11,06:53,Serious,Potholes,City Road,Fog
+ID-351,Nagpur,21.09635,79.00089,2023-12-02,14:16,Fatal,Weather/Low Visibility,Highway,Fog
+ID-352,Varanasi,25.35309,83.07994,2023-03-13,20:43,Minor,Signal Jumping,Rural Road,Clear
+ID-353,Meerut,28.99947,77.65912,2023-10-26,09:02,Serious,Signal Jumping,City Road,Rain
+ID-354,Lucknow,26.74447,80.90693,2023-03-29,22:19,Serious,Drunk Driving,City Road,Rain
+ID-355,Mumbai,18.9776,72.96167,2023-04-24,11:05,Minor,Distracted Driving,Rural Road,Rain
+ID-356,Pune,18.48409,73.87737,2023-03-02,16:29,Fatal,Signal Jumping,Rural Road,Clear
+ID-357,Nashik,20.01606,73.82413,2023-12-15,07:55,Serious,Weather/Low Visibility,City Road,Fog
+ID-358,Varanasi,25.37085,82.92747,2023-08-23,22:57,Serious,Drunk Driving,Rural Road,Fog
+ID-359,Kolkata,22.56653,88.49733,2023-05-21,12:28,Fatal,Drunk Driving,Rural Road,Rain
+ID-360,Chennai,13.04687,80.25271,2023-08-08,16:40,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-361,Hyderabad,17.30755,78.33988,2023-01-10,02:12,Serious,Signal Jumping,Rural Road,Clear
+ID-362,Jaipur,26.84525,75.8754,2023-10-29,02:32,Fatal,Drunk Driving,Highway,Rain
+ID-363,Hyderabad,17.35817,78.44557,2023-12-18,14:56,Serious,Weather/Low Visibility,City Road,Fog
+ID-364,Bangalore,12.85653,77.68962,2023-03-09,19:46,Minor,Drunk Driving,Rural Road,Clear
+ID-365,Mumbai,19.05139,72.82463,2023-11-24,21:56,Minor,Distracted Driving,Rural Road,Clear
+ID-366,Kolkata,22.69894,88.43239,2023-08-02,23:07,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-367,Jaipur,26.83063,75.83904,2023-02-21,21:42,Minor,Signal Jumping,Rural Road,Fog
+ID-368,Jaipur,26.82743,75.86613,2023-05-25,22:07,Serious,Drunk Driving,City Road,Clear
+ID-369,Mumbai,18.95992,72.8526,2023-06-01,23:26,Minor,Drunk Driving,Rural Road,Clear
+ID-370,Delhi,28.48308,77.26656,2023-02-15,18:42,Serious,Over-speeding,Highway,Dust Storm
+ID-371,Bangalore,12.82251,77.64472,2023-05-16,21:18,Serious,Over-speeding,Highway,Clear
+ID-372,Nagpur,21.17045,79.00806,2023-02-18,23:07,Fatal,Over-speeding,Highway,Clear
+ID-373,Delhi,28.54301,77.01886,2023-06-25,08:23,Minor,Drunk Driving,City Road,Clear
+ID-374,Meerut,28.98005,77.69131,2023-03-27,21:41,Serious,Over-speeding,Rural Road,Rain
+ID-375,Kolkata,22.69631,88.46887,2023-10-19,16:51,Minor,Signal Jumping,Highway,Dust Storm
+ID-376,Delhi,28.71167,77.10568,2023-09-07,21:58,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-377,Bangalore,12.87848,77.56285,2023-10-17,23:36,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-378,Delhi,28.4381,77.13086,2023-11-25,23:43,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-379,Delhi,28.40466,77.26719,2023-09-09,15:04,Minor,Distracted Driving,City Road,Rain
+ID-380,Delhi,28.42014,76.91135,2023-08-24,15:05,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-381,Kolkata,22.58941,88.32374,2023-07-26,03:06,Serious,Drunk Driving,Rural Road,Clear
+ID-382,Meerut,28.91818,77.72084,2023-04-16,22:35,Serious,Drunk Driving,City Road,Dust Storm
+ID-383,Lucknow,26.74458,80.89089,2023-12-03,04:45,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-384,Bangalore,12.99767,77.50044,2023-07-11,14:33,Minor,Signal Jumping,Highway,Clear
+ID-385,Jaipur,26.97938,75.79848,2023-05-11,17:06,Serious,Weather/Low Visibility,Highway,Rain
+ID-386,Meerut,29.07044,77.64312,2023-08-01,14:48,Serious,Over-speeding,City Road,Clear
+ID-387,Mumbai,19.03722,72.91786,2023-01-25,18:33,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-388,Mumbai,19.0525,72.98423,2023-03-07,01:46,Minor,Over-speeding,Rural Road,Dust Storm
+ID-389,Kolkata,22.60082,88.37693,2023-06-25,11:25,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-390,Mumbai,19.08076,72.97729,2023-06-10,17:55,Minor,Weather/Low Visibility,Highway,Rain
+ID-391,Chennai,13.11432,80.23732,2023-09-15,23:11,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-392,Bangalore,12.94411,77.61413,2023-10-01,23:47,Fatal,Drunk Driving,Highway,Dust Storm
+ID-393,Nashik,19.92907,73.83405,2023-05-09,08:43,Serious,Drunk Driving,Rural Road,Clear
+ID-394,Delhi,28.71374,76.902,2023-11-12,21:06,Serious,Signal Jumping,Rural Road,Rain
+ID-395,Nashik,19.97778,73.80218,2023-07-15,17:03,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-396,Mumbai,19.06564,72.80259,2023-04-26,21:53,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-397,Nagpur,21.12068,79.13284,2023-02-08,19:43,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-398,Kolkata,22.57544,88.3857,2023-05-11,08:37,Fatal,Over-speeding,City Road,Fog
+ID-399,Madurai,9.83096,78.03074,2023-12-05,23:39,Serious,Drunk Driving,Rural Road,Dust Storm
+ID-400,Hyderabad,17.44154,78.40508,2023-08-01,10:10,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-401,Jaipur,26.97668,75.83267,2023-11-13,14:48,Serious,Potholes,Rural Road,Dust Storm
+ID-402,Hyderabad,17.49623,78.30176,2023-11-25,05:57,Minor,Distracted Driving,Highway,Rain
+ID-403,Mumbai,18.99628,72.98319,2023-05-25,22:46,Serious,Over-speeding,Rural Road,Fog
+ID-404,Hyderabad,17.30877,78.47966,2023-03-27,01:06,Serious,Drunk Driving,Rural Road,Clear
+ID-405,Chennai,13.1011,80.25472,2023-12-26,12:34,Minor,Signal Jumping,Rural Road,Dust Storm
+ID-406,Bangalore,12.82164,77.63721,2023-02-14,20:02,Serious,Over-speeding,Highway,Clear
+ID-407,Nagpur,21.11162,79.07249,2023-11-19,01:28,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-408,Mumbai,19.06045,72.92828,2023-12-25,22:02,Fatal,Weather/Low Visibility,Rural Road,Fog
+ID-409,Hyderabad,17.36027,78.3173,2023-08-31,23:01,Minor,Drunk Driving,Highway,Rain
+ID-410,Pune,18.56989,73.759,2023-11-28,05:56,Serious,Distracted Driving,Rural Road,Clear
+ID-411,Hyderabad,17.47495,78.32827,2023-10-03,00:25,Serious,Drunk Driving,City Road,Clear
+ID-412,Delhi,28.69657,77.16297,2023-03-24,01:09,Serious,Drunk Driving,Rural Road,Rain
+ID-413,Delhi,28.47254,77.19983,2023-02-07,15:35,Minor,Distracted Driving,City Road,Clear
+ID-414,Nagpur,21.01964,79.11768,2023-12-02,08:42,Serious,Drunk Driving,City Road,Clear
+ID-415,Delhi,28.64781,77.25006,2023-12-04,20:39,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-416,Delhi,28.72308,77.27933,2023-04-24,19:50,Fatal,Signal Jumping,City Road,Dust Storm
+ID-417,Pune,18.42686,73.84659,2023-06-06,20:49,Minor,Signal Jumping,Highway,Clear
+ID-418,Jaipur,26.92133,75.86836,2023-11-17,20:46,Serious,Over-speeding,Highway,Clear
+ID-419,Nagpur,21.12633,79.14379,2023-01-19,04:58,Minor,Potholes,Rural Road,Fog
+ID-420,Pune,18.50794,73.83078,2023-10-29,19:57,Serious,Weather/Low Visibility,Highway,Fog
+ID-421,Kolkata,22.60208,88.37936,2023-11-11,17:54,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-422,Delhi,28.46369,77.08318,2023-09-05,04:46,Serious,Distracted Driving,Highway,Clear
+ID-423,Mumbai,19.12844,72.84635,2023-04-16,18:42,Serious,Weather/Low Visibility,City Road,Fog
+ID-424,Bangalore,12.93639,77.50929,2023-11-21,08:33,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-425,Kolkata,22.53477,88.43074,2023-05-09,17:33,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-426,Jaipur,26.96345,75.76901,2023-03-13,10:56,Minor,Weather/Low Visibility,Highway,Rain
+ID-427,Meerut,29.0287,77.6423,2023-03-02,22:45,Serious,Signal Jumping,City Road,Rain
+ID-428,Jaipur,26.8963,75.79576,2023-07-30,01:53,Fatal,Weather/Low Visibility,Highway,Rain
+ID-429,Mumbai,18.94042,72.90253,2023-04-03,12:16,Minor,Potholes,Rural Road,Dust Storm
+ID-430,Lucknow,26.82752,80.9757,2023-08-18,18:13,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-431,Chennai,13.14911,80.22017,2023-05-16,23:32,Serious,Drunk Driving,City Road,Fog
+ID-432,Pune,18.47564,73.72644,2023-08-03,16:43,Minor,Drunk Driving,Highway,Clear
+ID-433,Hyderabad,17.39517,78.42295,2023-09-04,18:05,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-434,Chennai,12.90036,80.28755,2023-07-09,11:26,Fatal,Over-speeding,Highway,Dust Storm
+ID-435,Madurai,9.95373,78.0701,2023-03-10,11:27,Minor,Distracted Driving,Highway,Dust Storm
+ID-436,Kolkata,22.51676,88.41966,2023-12-30,19:00,Fatal,Signal Jumping,Rural Road,Clear
+ID-437,Jaipur,26.90451,75.80395,2023-06-11,23:51,Serious,Weather/Low Visibility,Highway,Fog
+ID-438,Mumbai,18.97609,72.971,2023-12-15,22:17,Serious,Weather/Low Visibility,City Road,Rain
+ID-439,Hyderabad,17.33574,78.41182,2023-12-28,08:22,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-440,Chennai,12.96893,80.25662,2023-06-23,13:25,Serious,Distracted Driving,Highway,Clear
+ID-441,Pune,18.47782,73.82718,2023-02-15,07:27,Serious,Weather/Low Visibility,Highway,Fog
+ID-442,Varanasi,25.32181,83.0449,2023-12-31,10:18,Minor,Distracted Driving,Highway,Clear
+ID-443,Bangalore,12.99209,77.58779,2023-01-18,20:12,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-444,Varanasi,25.20721,82.94785,2023-07-24,12:49,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-445,Mumbai,19.05532,72.94739,2023-10-14,16:46,Serious,Potholes,City Road,Fog
+ID-446,Indore,22.6553,75.82127,2023-05-14,15:00,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-447,Kolkata,22.51448,88.35885,2023-10-22,22:52,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-448,Delhi,28.70299,77.28062,2023-01-15,22:55,Minor,Over-speeding,City Road,Clear
+ID-449,Hyderabad,17.45773,78.34408,2023-09-22,21:22,Minor,Potholes,Rural Road,Clear
+ID-450,Pune,18.56644,73.74965,2023-06-25,23:52,Serious,Drunk Driving,City Road,Rain
+ID-451,Mumbai,19.07211,72.83656,2023-04-13,05:47,Serious,Weather/Low Visibility,City Road,Rain
+ID-452,Delhi,28.48111,76.92485,2023-02-10,08:07,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-453,Varanasi,25.37142,83.0916,2023-10-22,16:31,Minor,Distracted Driving,Highway,Dust Storm
+ID-454,Delhi,28.7664,76.94013,2023-08-05,10:33,Minor,Distracted Driving,Rural Road,Clear
+ID-455,Varanasi,25.27874,83.03727,2023-08-24,01:33,Minor,Distracted Driving,Highway,Clear
+ID-456,Kolkata,22.57589,88.32015,2023-05-15,19:35,Serious,Drunk Driving,City Road,Fog
+ID-457,Hyderabad,17.36862,78.33678,2023-07-10,15:48,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-458,Delhi,28.62856,77.28964,2023-05-01,12:17,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-459,Jaipur,26.96001,75.84771,2023-03-10,21:31,Serious,Weather/Low Visibility,City Road,Fog
+ID-460,Chennai,13.06864,80.21357,2023-04-21,19:03,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-461,Jaipur,26.94892,75.75195,2023-01-11,20:22,Minor,Signal Jumping,City Road,Clear
+ID-462,Jaipur,26.99262,75.73979,2023-05-26,17:11,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-463,Nashik,20.05495,73.78939,2023-11-20,16:29,Fatal,Drunk Driving,Rural Road,Rain
+ID-464,Varanasi,25.26748,83.02625,2023-06-25,18:10,Minor,Drunk Driving,City Road,Fog
+ID-465,Mumbai,19.11313,72.92108,2023-10-28,20:47,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-466,Delhi,28.74168,76.86252,2023-02-10,23:44,Serious,Drunk Driving,City Road,Rain
+ID-467,Meerut,29.07574,77.70969,2023-05-15,16:06,Minor,Distracted Driving,Highway,Rain
+ID-468,Nagpur,21.17709,78.99281,2023-03-06,14:40,Minor,Weather/Low Visibility,Highway,Rain
+ID-469,Nashik,19.97137,73.88305,2023-08-16,16:35,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-470,Kolkata,22.62621,88.42717,2023-10-01,23:40,Serious,Weather/Low Visibility,City Road,Fog
+ID-471,Chennai,13.03256,80.17316,2023-09-25,18:00,Minor,Weather/Low Visibility,City Road,Fog
+ID-472,Delhi,28.40333,77.26104,2023-05-30,12:51,Serious,Weather/Low Visibility,Highway,Rain
+ID-473,Chennai,12.95657,80.27643,2023-11-27,19:45,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-474,Chennai,13.02667,80.14791,2023-11-29,11:18,Minor,Weather/Low Visibility,City Road,Fog
+ID-475,Delhi,28.42739,76.86831,2023-05-20,22:28,Fatal,Drunk Driving,Highway,Dust Storm
+ID-476,Kolkata,22.69394,88.30443,2023-08-13,14:45,Serious,Signal Jumping,Highway,Clear
+ID-477,Nashik,19.91804,73.70294,2023-09-13,15:50,Serious,Distracted Driving,Rural Road,Dust Storm
+ID-478,Delhi,28.5321,77.22177,2023-10-06,14:04,Serious,Weather/Low Visibility,Highway,Rain
+ID-479,Chennai,12.97502,80.17632,2023-08-15,17:24,Minor,Drunk Driving,Highway,Clear
+ID-480,Kolkata,22.59217,88.4542,2023-12-15,21:24,Minor,Distracted Driving,Highway,Fog
+ID-481,Jaipur,26.80844,75.88748,2023-06-02,21:40,Fatal,Drunk Driving,Highway,Fog
+ID-482,Mumbai,18.96534,72.82259,2023-05-22,05:10,Minor,Potholes,City Road,Clear
+ID-483,Nashik,20.05783,73.70179,2023-11-02,10:44,Minor,Weather/Low Visibility,Highway,Fog
+ID-484,Delhi,28.59997,77.14297,2023-11-27,18:22,Serious,Drunk Driving,Highway,Clear
+ID-485,Delhi,28.59514,76.95837,2023-04-09,14:46,Serious,Over-speeding,City Road,Dust Storm
+ID-486,Bangalore,12.87521,77.5079,2023-12-23,16:34,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-487,Pune,18.46953,73.84648,2023-09-29,16:04,Minor,Drunk Driving,City Road,Dust Storm
+ID-488,Jaipur,26.90832,75.79082,2023-01-10,10:11,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-489,Delhi,28.6884,77.12914,2023-09-12,09:43,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-490,Mumbai,19.02294,72.8644,2023-03-08,17:02,Minor,Drunk Driving,Highway,Clear
+ID-491,Delhi,28.44282,76.89581,2023-09-08,17:42,Serious,Weather/Low Visibility,Highway,Fog
+ID-492,Varanasi,25.32119,82.91417,2023-11-24,15:29,Minor,Over-speeding,Rural Road,Fog
+ID-493,Pune,18.57809,73.86441,2023-01-21,05:33,Minor,Signal Jumping,City Road,Clear
+ID-494,Varanasi,25.21559,82.94318,2023-09-30,23:14,Fatal,Drunk Driving,Highway,Rain
+ID-495,Nashik,20.02507,73.73578,2023-11-23,10:06,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-496,Kolkata,22.63305,88.47656,2023-06-22,16:32,Minor,Signal Jumping,Rural Road,Rain
+ID-497,Madurai,9.8886,78.07046,2023-11-21,14:26,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-498,Nagpur,21.10913,79.01252,2023-08-18,11:28,Minor,Over-speeding,Rural Road,Clear
+ID-499,Chennai,13.19489,80.21915,2023-04-24,18:19,Fatal,Drunk Driving,Highway,Fog
+ID-500,Kolkata,22.68867,88.46447,2023-10-20,16:59,Minor,Drunk Driving,Highway,Clear
+ID-501,Mumbai,19.03811,72.83122,2023-05-12,19:14,Minor,Distracted Driving,Rural Road,Clear
+ID-502,Mumbai,19.01994,72.98358,2023-09-05,05:50,Fatal,Drunk Driving,Rural Road,Dust Storm
+ID-503,Kolkata,22.6639,88.31907,2023-10-23,23:51,Fatal,Drunk Driving,Highway,Clear
+ID-504,Mumbai,19.14514,72.8833,2023-11-05,17:54,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-505,Hyderabad,17.30824,78.40799,2023-03-20,23:14,Fatal,Over-speeding,City Road,Dust Storm
+ID-506,Jaipur,26.81802,75.78639,2023-09-01,13:05,Serious,Potholes,Rural Road,Clear
+ID-507,Jaipur,26.87984,75.71702,2023-03-11,19:48,Minor,Weather/Low Visibility,City Road,Rain
+ID-508,Delhi,28.62853,77.08058,2023-05-17,19:04,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-509,Bangalore,12.82688,77.63435,2023-06-26,03:20,Serious,Drunk Driving,City Road,Clear
+ID-510,Nashik,19.96994,73.86432,2023-04-30,10:02,Serious,Drunk Driving,Highway,Fog
+ID-511,Mumbai,19.15583,72.82247,2023-05-28,16:55,Fatal,Over-speeding,Rural Road,Fog
+ID-512,Hyderabad,17.36102,78.39424,2023-04-15,02:13,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-513,Mumbai,18.9424,72.93975,2023-01-23,16:33,Minor,Weather/Low Visibility,Highway,Rain
+ID-514,Kolkata,22.65784,88.42359,2023-07-18,17:04,Serious,Signal Jumping,Rural Road,Fog
+ID-515,Bangalore,12.99803,77.67286,2023-07-14,21:14,Minor,Potholes,City Road,Clear
+ID-516,Kolkata,22.59693,88.41942,2023-10-15,13:29,Minor,Signal Jumping,Highway,Clear
+ID-517,Hyderabad,17.34948,78.40588,2023-01-10,02:10,Serious,Drunk Driving,City Road,Fog
+ID-518,Varanasi,25.39565,83.00025,2023-01-16,11:56,Minor,Weather/Low Visibility,Highway,Fog
+ID-519,Mumbai,19.16915,72.93139,2023-11-10,15:43,Minor,Weather/Low Visibility,City Road,Rain
+ID-520,Lucknow,26.73055,80.99411,2023-04-16,15:08,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-521,Nagpur,21.16002,79.15878,2023-03-11,22:58,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-522,Chennai,12.99525,80.21147,2023-03-16,06:53,Minor,Signal Jumping,City Road,Clear
+ID-523,Madurai,9.97603,78.08281,2023-11-23,15:59,Minor,Signal Jumping,Highway,Fog
+ID-524,Hyderabad,17.32135,78.33695,2023-11-10,22:36,Fatal,Drunk Driving,Highway,Rain
+ID-525,Lucknow,26.83763,80.89532,2023-07-11,10:41,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-526,Jaipur,26.83276,75.74525,2023-12-10,03:14,Serious,Weather/Low Visibility,Highway,Rain
+ID-527,Mumbai,19.03179,72.92341,2023-07-27,15:27,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-528,Varanasi,25.3223,83.04849,2023-12-27,16:56,Serious,Over-speeding,City Road,Clear
+ID-529,Chennai,13.03707,80.27555,2023-01-21,16:47,Minor,Potholes,Rural Road,Dust Storm
+ID-530,Hyderabad,17.49252,78.33797,2023-03-27,20:29,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-531,Meerut,29.03799,77.78074,2023-09-14,18:46,Serious,Over-speeding,Rural Road,Rain
+ID-532,Varanasi,25.33922,82.92706,2023-08-21,08:11,Minor,Weather/Low Visibility,City Road,Rain
+ID-533,Nashik,19.96481,73.82972,2023-02-16,23:07,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-534,Nagpur,21.07682,79.13732,2023-07-14,13:35,Minor,Weather/Low Visibility,City Road,Rain
+ID-535,Mumbai,19.09786,72.83002,2023-06-07,18:26,Serious,Distracted Driving,City Road,Dust Storm
+ID-536,Meerut,28.92351,77.62631,2023-08-23,20:00,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-537,Delhi,28.64319,77.04673,2023-07-29,21:29,Minor,Signal Jumping,Rural Road,Clear
+ID-538,Hyderabad,17.30131,78.47643,2023-04-17,22:52,Fatal,Drunk Driving,Highway,Rain
+ID-539,Mumbai,18.94361,72.80649,2023-02-14,14:58,Serious,Over-speeding,City Road,Clear
+ID-540,Delhi,28.79749,76.88067,2023-11-01,17:44,Serious,Potholes,City Road,Rain
+ID-541,Delhi,28.41434,77.18426,2023-08-07,08:48,Minor,Potholes,City Road,Clear
+ID-542,Pune,18.49416,73.7244,2023-04-18,21:33,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-543,Bangalore,12.97141,77.69587,2023-11-06,15:44,Serious,Signal Jumping,City Road,Fog
+ID-544,Delhi,28.5266,77.0627,2023-09-12,22:36,Serious,Potholes,City Road,Dust Storm
+ID-545,Kolkata,22.54654,88.3581,2023-11-17,18:29,Serious,Over-speeding,Rural Road,Rain
+ID-546,Delhi,28.56562,76.9669,2023-04-14,18:40,Serious,Signal Jumping,City Road,Fog
+ID-547,Delhi,28.52311,77.05334,2023-06-24,23:21,Fatal,Drunk Driving,Highway,Clear
+ID-548,Jaipur,26.86759,75.83449,2023-03-21,19:30,Serious,Signal Jumping,Rural Road,Dust Storm
+ID-549,Delhi,28.58499,77.20708,2023-12-14,06:36,Serious,Distracted Driving,Highway,Clear
+ID-550,Delhi,28.63096,76.96586,2023-01-16,20:53,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-551,Hyderabad,17.33319,78.42114,2023-06-11,20:45,Minor,Signal Jumping,City Road,Clear
+ID-552,Kolkata,22.58277,88.39941,2023-09-26,15:13,Minor,Weather/Low Visibility,Highway,Rain
+ID-553,Hyderabad,17.30748,78.34042,2023-09-05,16:51,Fatal,Weather/Low Visibility,Highway,Rain
+ID-554,Nashik,19.99669,73.87478,2023-09-22,13:52,Serious,Signal Jumping,Highway,Rain
+ID-555,Bangalore,12.93781,77.64274,2023-01-23,12:59,Minor,Signal Jumping,City Road,Clear
+ID-556,Lucknow,26.79338,80.80923,2023-10-23,20:01,Minor,Weather/Low Visibility,City Road,Rain
+ID-557,Hyderabad,17.35731,78.40646,2023-03-22,03:09,Serious,Distracted Driving,Highway,Clear
+ID-558,Lucknow,26.81193,80.82048,2023-03-14,08:17,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-559,Mumbai,18.92137,72.92265,2023-01-15,02:08,Fatal,Drunk Driving,Highway,Clear
+ID-560,Meerut,28.98529,77.6358,2023-08-17,23:44,Serious,Drunk Driving,City Road,Fog
+ID-561,Delhi,28.70336,77.20465,2023-12-24,16:05,Serious,Distracted Driving,City Road,Clear
+ID-562,Indore,22.7369,75.84204,2023-11-12,03:09,Minor,Weather/Low Visibility,City Road,Fog
+ID-563,Bangalore,12.8991,77.67216,2023-09-01,18:04,Minor,Weather/Low Visibility,City Road,Fog
+ID-564,Chennai,12.95124,80.25359,2023-07-27,13:06,Minor,Signal Jumping,City Road,Clear
+ID-565,Nashik,20.01123,73.71418,2023-07-31,21:37,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-566,Bangalore,12.94471,77.51321,2023-08-11,21:50,Serious,Potholes,Rural Road,Fog
+ID-567,Mumbai,18.95193,72.93392,2023-10-31,21:07,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-568,Hyderabad,17.4644,78.33523,2023-11-02,18:43,Minor,Weather/Low Visibility,City Road,Fog
+ID-569,Nashik,19.9123,73.74352,2023-03-17,18:48,Minor,Weather/Low Visibility,City Road,Rain
+ID-570,Hyderabad,17.378,78.41559,2023-10-19,07:19,Minor,Signal Jumping,City Road,Fog
+ID-571,Hyderabad,17.48302,78.49806,2023-03-07,22:25,Fatal,Distracted Driving,City Road,Clear
+ID-572,Delhi,28.78716,76.80042,2023-01-16,20:55,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-573,Delhi,28.65009,77.15589,2023-12-06,03:13,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-574,Lucknow,26.8849,80.96799,2023-01-06,17:08,Serious,Over-speeding,Highway,Clear
+ID-575,Bangalore,12.94601,77.58735,2023-08-01,23:51,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-576,Mumbai,19.06562,72.89001,2023-01-04,07:38,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-577,Kolkata,22.60035,88.38217,2023-10-18,18:02,Serious,Weather/Low Visibility,Highway,Fog
+ID-578,Delhi,28.7847,76.84003,2023-09-22,05:29,Fatal,Over-speeding,Highway,Clear
+ID-579,Bangalore,13.02251,77.69208,2023-10-24,22:51,Minor,Distracted Driving,City Road,Clear
+ID-580,Chennai,12.90324,80.19081,2023-06-30,10:26,Fatal,Weather/Low Visibility,Highway,Fog
+ID-581,Kolkata,22.68457,88.44989,2023-08-31,18:40,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-582,Pune,18.59807,73.86178,2023-03-06,04:05,Minor,Potholes,City Road,Clear
+ID-583,Nagpur,21.05041,79.08474,2023-11-06,08:07,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-584,Kolkata,22.66157,88.35225,2023-09-28,15:51,Serious,Over-speeding,Highway,Fog
+ID-585,Nagpur,21.16434,79.15128,2023-11-23,23:28,Serious,Drunk Driving,Rural Road,Rain
+ID-586,Bangalore,12.99268,77.6511,2023-09-01,21:25,Serious,Distracted Driving,Rural Road,Dust Storm
+ID-587,Chennai,13.17674,80.14673,2023-03-16,15:16,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-588,Kolkata,22.65946,88.3764,2023-09-30,18:06,Serious,Signal Jumping,City Road,Fog
+ID-589,Delhi,28.66083,76.9363,2023-10-27,08:41,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-590,Kolkata,22.64686,88.41774,2023-04-03,10:44,Minor,Distracted Driving,Rural Road,Clear
+ID-591,Nashik,19.9017,73.71359,2023-08-17,18:43,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-592,Mumbai,18.95792,72.80474,2023-04-22,23:57,Serious,Potholes,Rural Road,Clear
+ID-593,Indore,22.61728,75.82094,2023-04-05,22:51,Serious,Weather/Low Visibility,City Road,Rain
+ID-594,Mumbai,18.92271,72.89069,2023-06-15,17:49,Minor,Weather/Low Visibility,Highway,Rain
+ID-595,Varanasi,25.21248,82.97772,2023-02-05,00:28,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-596,Delhi,28.44337,77.07032,2023-08-15,23:06,Fatal,Drunk Driving,Highway,Fog
+ID-597,Mumbai,19.11826,72.95545,2023-01-01,13:40,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-598,Pune,18.46597,73.77827,2023-08-12,17:30,Minor,Over-speeding,Rural Road,Clear
+ID-599,Bangalore,12.80099,77.69083,2023-07-03,16:59,Serious,Weather/Low Visibility,City Road,Fog
+ID-600,Kolkata,22.6994,88.42941,2023-08-24,18:53,Serious,Weather/Low Visibility,Highway,Rain
+ID-601,Hyderabad,17.4935,78.43215,2023-12-19,02:40,Serious,Distracted Driving,Highway,Dust Storm
+ID-602,Lucknow,26.73789,80.80714,2023-07-19,19:31,Minor,Weather/Low Visibility,City Road,Fog
+ID-603,Nagpur,21.16685,79.03479,2023-01-22,06:21,Minor,Signal Jumping,Highway,Clear
+ID-604,Lucknow,26.83346,80.89167,2023-04-30,23:37,Serious,Drunk Driving,Rural Road,Clear
+ID-605,Bangalore,12.99615,77.59424,2023-03-08,23:41,Serious,Drunk Driving,Rural Road,Rain
+ID-606,Delhi,28.71748,77.02809,2023-09-12,18:07,Fatal,Distracted Driving,Highway,Rain
+ID-607,Lucknow,26.78524,80.9623,2023-12-17,11:07,Minor,Potholes,City Road,Rain
+ID-608,Bangalore,13.02927,77.61862,2023-08-01,12:09,Fatal,Weather/Low Visibility,Rural Road,Fog
+ID-609,Bangalore,12.87309,77.6164,2023-03-22,22:24,Fatal,Drunk Driving,Highway,Dust Storm
+ID-610,Bangalore,12.82674,77.63035,2023-03-06,17:44,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-611,Nashik,19.99008,73.74785,2023-04-03,17:38,Serious,Signal Jumping,Rural Road,Dust Storm
+ID-612,Chennai,13.08816,80.25652,2023-04-09,22:15,Fatal,Over-speeding,Rural Road,Clear
+ID-613,Kolkata,22.65223,88.40794,2023-05-22,17:13,Serious,Over-speeding,Highway,Rain
+ID-614,Delhi,28.78743,77.03721,2023-11-27,17:03,Serious,Weather/Low Visibility,Highway,Fog
+ID-615,Kolkata,22.56686,88.46103,2023-10-03,03:03,Fatal,Drunk Driving,Highway,Rain
+ID-616,Pune,18.57902,73.84428,2023-12-13,14:12,Minor,Weather/Low Visibility,Highway,Rain
+ID-617,Jaipur,26.81961,75.84755,2023-10-27,18:30,Serious,Over-speeding,City Road,Clear
+ID-618,Indore,22.64323,75.82189,2023-04-10,14:29,Minor,Weather/Low Visibility,City Road,Fog
+ID-619,Bangalore,12.83816,77.63844,2023-08-27,18:54,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-620,Nagpur,21.04397,78.98855,2023-10-11,16:36,Serious,Drunk Driving,City Road,Clear
+ID-621,Delhi,28.74279,77.04461,2023-01-08,15:17,Serious,Signal Jumping,Rural Road,Dust Storm
+ID-622,Delhi,28.49913,77.01712,2023-01-03,10:57,Minor,Distracted Driving,Highway,Clear
+ID-623,Lucknow,26.8467,80.90084,2023-12-23,21:51,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-624,Chennai,13.06755,80.10248,2023-06-01,19:22,Minor,Drunk Driving,Highway,Clear
+ID-625,Delhi,28.59191,76.95242,2023-01-13,16:37,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-626,Chennai,13.02161,80.25797,2023-01-01,15:40,Minor,Signal Jumping,City Road,Clear
+ID-627,Mumbai,19.16803,72.86658,2023-11-10,15:44,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-628,Delhi,28.75234,77.16788,2023-01-27,00:56,Serious,Drunk Driving,City Road,Dust Storm
+ID-629,Hyderabad,17.37329,78.42963,2023-04-15,06:49,Minor,Weather/Low Visibility,Highway,Fog
+ID-630,Mumbai,19.09471,72.94748,2023-04-26,13:48,Serious,Weather/Low Visibility,City Road,Fog
+ID-631,Mumbai,19.02688,72.81089,2023-09-27,21:32,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-632,Hyderabad,17.46508,78.47989,2023-02-03,10:44,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-633,Lucknow,26.87959,80.85767,2023-12-23,13:07,Serious,Drunk Driving,Highway,Dust Storm
+ID-634,Lucknow,26.80414,80.92546,2023-03-09,22:59,Serious,Weather/Low Visibility,City Road,Fog
+ID-635,Delhi,28.51661,76.83147,2023-10-24,20:26,Serious,Weather/Low Visibility,City Road,Fog
+ID-636,Delhi,28.67875,77.22095,2023-06-06,03:08,Serious,Weather/Low Visibility,Highway,Fog
+ID-637,Mumbai,19.13092,72.80946,2023-03-24,08:39,Minor,Signal Jumping,Highway,Fog
+ID-638,Mumbai,19.1518,72.93857,2023-01-22,07:07,Minor,Weather/Low Visibility,City Road,Rain
+ID-639,Nagpur,21.0369,79.06875,2023-07-10,00:09,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-640,Delhi,28.56182,77.04971,2023-10-07,01:00,Minor,Potholes,Rural Road,Fog
+ID-641,Delhi,28.51593,77.272,2023-08-15,13:46,Serious,Distracted Driving,Rural Road,Clear
+ID-642,Bangalore,12.94369,77.50802,2023-07-25,20:01,Serious,Weather/Low Visibility,City Road,Rain
+ID-643,Varanasi,25.26527,83.02163,2023-05-23,16:50,Minor,Drunk Driving,Highway,Clear
+ID-644,Delhi,28.61536,77.02273,2023-09-09,16:12,Serious,Distracted Driving,Rural Road,Clear
+ID-645,Lucknow,26.77221,80.82959,2023-05-26,20:00,Serious,Distracted Driving,City Road,Fog
+ID-646,Kolkata,22.67486,88.31752,2023-08-15,09:51,Minor,Distracted Driving,Rural Road,Rain
+ID-647,Hyderabad,17.38477,78.47929,2023-04-17,18:09,Minor,Distracted Driving,Rural Road,Dust Storm
+ID-648,Bangalore,12.81983,77.69202,2023-05-20,06:40,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-649,Mumbai,19.07037,72.98297,2023-09-09,07:35,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-650,Pune,18.51186,73.79269,2023-11-24,13:19,Fatal,Signal Jumping,Highway,Dust Storm
+ID-651,Nashik,20.07854,73.78343,2023-03-03,19:01,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-652,Jaipur,26.87235,75.7961,2023-12-22,17:30,Fatal,Over-speeding,Rural Road,Fog
+ID-653,Hyderabad,17.30351,78.35191,2023-12-21,13:29,Serious,Weather/Low Visibility,Highway,Fog
+ID-654,Varanasi,25.27223,83.02725,2023-11-24,20:33,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-655,Hyderabad,17.3189,78.45053,2023-06-04,14:51,Minor,Weather/Low Visibility,Highway,Fog
+ID-656,Pune,18.47033,73.72874,2023-09-06,01:49,Fatal,Drunk Driving,Highway,Fog
+ID-657,Nagpur,21.04422,78.95653,2023-09-30,17:54,Fatal,Signal Jumping,City Road,Clear
+ID-658,Nagpur,21.0921,78.92292,2023-12-20,06:19,Serious,Distracted Driving,City Road,Rain
+ID-659,Mumbai,19.07929,72.95272,2023-03-02,17:01,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-660,Hyderabad,17.34531,78.32507,2023-02-27,06:48,Minor,Over-speeding,City Road,Clear
+ID-661,Nashik,20.05147,73.7085,2023-01-31,22:37,Serious,Drunk Driving,City Road,Clear
+ID-662,Hyderabad,17.43352,78.45091,2023-04-13,22:57,Minor,Weather/Low Visibility,Highway,Fog
+ID-663,Delhi,28.77674,77.2744,2023-11-10,02:49,Serious,Drunk Driving,Highway,Clear
+ID-664,Madurai,9.95265,78.10577,2023-10-03,14:57,Serious,Over-speeding,Highway,Clear
+ID-665,Delhi,28.74052,77.03736,2023-02-24,21:43,Minor,Weather/Low Visibility,City Road,Fog
+ID-666,Nagpur,21.10285,79.02227,2023-03-11,18:33,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-667,Hyderabad,17.44443,78.31645,2023-11-04,06:29,Minor,Signal Jumping,Rural Road,Fog
+ID-668,Pune,18.48879,73.81078,2023-09-01,18:57,Minor,Weather/Low Visibility,Highway,Fog
+ID-669,Chennai,13.10225,80.23442,2023-02-13,23:43,Minor,Weather/Low Visibility,City Road,Rain
+ID-670,Jaipur,26.82034,75.88506,2023-04-13,19:21,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-671,Indore,22.68494,75.79982,2023-11-26,20:48,Serious,Weather/Low Visibility,City Road,Fog
+ID-672,Meerut,29.09003,77.7975,2023-03-04,08:06,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-673,Nashik,20.08848,73.70594,2023-01-14,21:43,Serious,Drunk Driving,Rural Road,Dust Storm
+ID-674,Chennai,12.94582,80.22439,2023-09-10,22:49,Fatal,Weather/Low Visibility,City Road,Rain
+ID-675,Nashik,19.95233,73.76872,2023-03-02,18:27,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-676,Varanasi,25.28851,82.9072,2023-12-28,17:56,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-677,Kolkata,22.64314,88.39749,2023-10-11,10:42,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-678,Mumbai,18.94689,72.81115,2023-12-13,02:39,Minor,Weather/Low Visibility,City Road,Fog
+ID-679,Jaipur,26.82564,75.77328,2023-07-14,23:21,Fatal,Over-speeding,City Road,Dust Storm
+ID-680,Lucknow,26.71129,80.84885,2023-12-19,11:05,Minor,Weather/Low Visibility,Highway,Fog
+ID-681,Nagpur,21.00394,78.99784,2023-08-04,15:32,Minor,Distracted Driving,Rural Road,Clear
+ID-682,Bangalore,12.94091,77.50445,2023-10-21,16:20,Fatal,Over-speeding,Highway,Dust Storm
+ID-683,Hyderabad,17.39935,78.46229,2023-07-06,13:19,Serious,Weather/Low Visibility,City Road,Rain
+ID-684,Indore,22.79482,75.71506,2023-06-02,14:03,Serious,Distracted Driving,Highway,Dust Storm
+ID-685,Jaipur,26.99159,75.84354,2023-02-04,20:17,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-686,Delhi,28.71826,77.12577,2023-10-04,14:42,Serious,Weather/Low Visibility,City Road,Rain
+ID-687,Kolkata,22.62499,88.39065,2023-09-22,23:45,Serious,Drunk Driving,Highway,Dust Storm
+ID-688,Indore,22.78762,75.75359,2023-10-17,16:59,Minor,Signal Jumping,Rural Road,Clear
+ID-689,Kolkata,22.54013,88.3925,2023-06-03,07:48,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-690,Bangalore,13.07334,77.62679,2023-05-12,23:10,Serious,Drunk Driving,City Road,Rain
+ID-691,Indore,22.60554,75.85941,2023-08-05,09:27,Minor,Signal Jumping,Highway,Clear
+ID-692,Bangalore,12.84781,77.52729,2023-11-26,22:11,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-693,Hyderabad,17.36278,78.3596,2023-02-16,14:42,Serious,Weather/Low Visibility,Highway,Rain
+ID-694,Delhi,28.69379,77.26647,2023-09-12,16:16,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-695,Varanasi,25.36134,82.96586,2023-05-01,23:47,Fatal,Drunk Driving,Highway,Rain
+ID-696,Nagpur,21.05491,79.02251,2023-12-25,22:23,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-697,Madurai,9.99266,78.17589,2023-06-07,23:23,Minor,Over-speeding,Rural Road,Clear
+ID-698,Delhi,28.77634,77.14534,2023-06-08,14:24,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-699,Nashik,20.07339,73.87153,2023-02-16,15:19,Serious,Drunk Driving,Highway,Fog
+ID-700,Meerut,28.93205,77.68777,2023-02-11,11:17,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-701,Delhi,28.73647,77.15869,2023-02-03,20:32,Minor,Distracted Driving,Rural Road,Dust Storm
+ID-702,Bangalore,12.96432,77.56535,2023-04-05,23:41,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-703,Madurai,9.92566,78.06274,2023-11-29,19:33,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-704,Varanasi,25.3747,82.9267,2023-05-25,20:51,Serious,Drunk Driving,City Road,Clear
+ID-705,Indore,22.67352,75.7787,2023-10-13,10:01,Minor,Signal Jumping,Highway,Rain
+ID-706,Delhi,28.47931,77.15063,2023-11-04,22:27,Fatal,Drunk Driving,Highway,Rain
+ID-707,Delhi,28.6269,76.80706,2023-03-02,09:31,Fatal,Drunk Driving,Highway,Rain
+ID-708,Hyderabad,17.46268,78.35324,2023-04-16,15:27,Serious,Potholes,City Road,Rain
+ID-709,Bangalore,12.85411,77.65849,2023-08-19,08:39,Minor,Drunk Driving,Rural Road,Fog
+ID-710,Delhi,28.58327,76.80516,2023-04-19,21:43,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-711,Kolkata,22.61944,88.31461,2023-05-01,12:59,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-712,Mumbai,19.19016,72.91965,2023-11-14,05:32,Serious,Weather/Low Visibility,City Road,Fog
+ID-713,Nagpur,21.02645,79.16767,2023-09-15,00:10,Serious,Drunk Driving,City Road,Fog
+ID-714,Indore,22.70608,75.72836,2023-05-24,12:31,Serious,Weather/Low Visibility,City Road,Fog
+ID-715,Pune,18.57539,73.82259,2023-03-26,10:57,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-716,Madurai,9.98457,78.12733,2023-04-28,19:03,Minor,Drunk Driving,City Road,Clear
+ID-717,Nashik,19.95204,73.84119,2023-07-02,15:28,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-718,Bangalore,13.05375,77.67338,2023-05-26,12:55,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-719,Kolkata,22.55456,88.47818,2023-10-20,18:33,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-720,Kolkata,22.59962,88.31886,2023-03-04,23:43,Serious,Drunk Driving,Rural Road,Fog
+ID-721,Jaipur,26.86471,75.70577,2023-11-18,11:29,Minor,Distracted Driving,City Road,Clear
+ID-722,Delhi,28.78791,77.12809,2023-10-19,17:58,Serious,Drunk Driving,Highway,Rain
+ID-723,Kolkata,22.55659,88.45963,2023-02-17,22:24,Minor,Weather/Low Visibility,Highway,Fog
+ID-724,Lucknow,26.77978,80.8041,2023-11-28,15:18,Minor,Weather/Low Visibility,Highway,Rain
+ID-725,Delhi,28.72044,77.16794,2023-12-07,11:22,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-726,Hyderabad,17.38909,78.37762,2023-08-05,02:05,Serious,Drunk Driving,City Road,Rain
+ID-727,Bangalore,12.954,77.69465,2023-03-21,23:45,Serious,Distracted Driving,City Road,Clear
+ID-728,Hyderabad,17.48144,78.39552,2023-05-08,07:53,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-729,Mumbai,19.0653,72.98346,2023-02-18,16:26,Minor,Weather/Low Visibility,City Road,Fog
+ID-730,Mumbai,18.92453,72.90069,2023-04-04,00:11,Fatal,Distracted Driving,Highway,Clear
+ID-731,Bangalore,12.88929,77.61744,2023-05-16,22:51,Minor,Weather/Low Visibility,Highway,Rain
+ID-732,Hyderabad,17.42081,78.47432,2023-07-22,09:00,Serious,Over-speeding,Highway,Clear
+ID-733,Chennai,13.03805,80.18102,2023-06-05,05:31,Minor,Potholes,Rural Road,Fog
+ID-734,Delhi,28.67612,76.9975,2023-04-08,13:00,Minor,Over-speeding,Rural Road,Clear
+ID-735,Nashik,20.0941,73.8718,2023-05-04,17:41,Minor,Weather/Low Visibility,Highway,Rain
+ID-736,Meerut,28.99269,77.6948,2023-12-26,06:47,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-737,Chennai,13.03485,80.14853,2023-01-05,15:21,Minor,Over-speeding,City Road,Dust Storm
+ID-738,Jaipur,26.94742,75.81917,2023-09-06,21:25,Serious,Distracted Driving,Highway,Dust Storm
+ID-739,Indore,22.70566,75.7844,2023-11-28,20:57,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-740,Delhi,28.77559,76.97338,2023-04-09,19:18,Minor,Weather/Low Visibility,City Road,Fog
+ID-741,Delhi,28.48788,77.25454,2023-03-09,23:29,Minor,Distracted Driving,City Road,Dust Storm
+ID-742,Delhi,28.69383,77.19799,2023-02-14,13:44,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-743,Bangalore,12.84689,77.59844,2023-10-13,09:13,Serious,Over-speeding,City Road,Clear
+ID-744,Lucknow,26.87618,80.87141,2023-02-02,01:51,Fatal,Drunk Driving,Highway,Dust Storm
+ID-745,Bangalore,12.86723,77.55156,2023-03-19,22:17,Serious,Drunk Driving,Rural Road,Clear
+ID-746,Jaipur,26.98925,75.8598,2023-02-22,16:50,Minor,Potholes,Rural Road,Clear
+ID-747,Delhi,28.44216,77.11496,2023-12-29,23:18,Serious,Drunk Driving,Rural Road,Dust Storm
+ID-748,Kolkata,22.57275,88.46383,2023-01-04,21:49,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-749,Madurai,9.83425,78.0532,2023-05-06,05:42,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-750,Delhi,28.57153,77.25901,2023-08-15,03:01,Serious,Drunk Driving,Rural Road,Clear
+ID-751,Bangalore,13.08309,77.51696,2023-07-21,13:03,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-752,Delhi,28.65264,77.15668,2023-12-15,10:25,Minor,Signal Jumping,Rural Road,Fog
+ID-753,Bangalore,13.07277,77.50158,2023-07-26,19:44,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-754,Indore,22.72364,75.78843,2023-06-04,19:56,Serious,Over-speeding,Rural Road,Clear
+ID-755,Jaipur,26.8669,75.84502,2023-04-20,07:18,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-756,Nagpur,21.12714,78.90703,2023-06-05,14:53,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-757,Indore,22.61199,75.7746,2023-11-30,18:03,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-758,Bangalore,12.80156,77.5678,2023-11-18,16:45,Serious,Weather/Low Visibility,City Road,Rain
+ID-759,Jaipur,26.93338,75.86302,2023-09-24,23:24,Serious,Weather/Low Visibility,Highway,Rain
+ID-760,Mumbai,19.14685,72.87225,2023-07-30,17:53,Fatal,Over-speeding,Highway,Clear
+ID-761,Nashik,19.92601,73.74296,2023-10-29,17:25,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-762,Kolkata,22.62729,88.4993,2023-03-25,21:52,Serious,Drunk Driving,City Road,Rain
+ID-763,Delhi,28.45175,77.15226,2023-08-31,17:29,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-764,Jaipur,26.99036,75.82032,2023-05-29,20:36,Serious,Weather/Low Visibility,Highway,Rain
+ID-765,Mumbai,19.19731,72.86065,2023-10-29,19:50,Serious,Distracted Driving,City Road,Clear
+ID-766,Jaipur,26.84312,75.86383,2023-02-04,06:22,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-767,Hyderabad,17.41315,78.48006,2023-03-12,22:08,Serious,Drunk Driving,City Road,Dust Storm
+ID-768,Delhi,28.69115,76.84466,2023-04-30,04:24,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-769,Mumbai,19.10113,72.88862,2023-01-13,02:45,Minor,Potholes,Rural Road,Fog
+ID-770,Hyderabad,17.31703,78.49103,2023-04-07,10:33,Minor,Signal Jumping,Highway,Clear
+ID-771,Delhi,28.77447,76.88987,2023-12-28,19:53,Serious,Distracted Driving,Highway,Dust Storm
+ID-772,Nashik,20.02137,73.78036,2023-04-03,20:27,Minor,Distracted Driving,Rural Road,Clear
+ID-773,Meerut,28.9764,77.61821,2023-04-04,10:09,Minor,Distracted Driving,Highway,Clear
+ID-774,Chennai,12.99204,80.18146,2023-01-14,16:11,Serious,Signal Jumping,City Road,Clear
+ID-775,Pune,18.47799,73.76401,2023-03-03,08:52,Serious,Over-speeding,Highway,Rain
+ID-776,Pune,18.4986,73.85048,2023-08-26,18:20,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-777,Chennai,13.02225,80.14675,2023-02-21,16:43,Minor,Weather/Low Visibility,City Road,Rain
+ID-778,Delhi,28.57839,77.22314,2023-03-28,13:34,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-779,Varanasi,25.2002,82.99293,2023-01-31,17:00,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-780,Pune,18.536,73.89985,2023-01-24,07:18,Serious,Drunk Driving,City Road,Clear
+ID-781,Kolkata,22.51794,88.43969,2023-08-10,16:56,Serious,Drunk Driving,Rural Road,Fog
+ID-782,Meerut,29.02703,77.79593,2023-06-14,19:42,Minor,Distracted Driving,City Road,Rain
+ID-783,Pune,18.46569,73.8828,2023-01-03,22:30,Minor,Weather/Low Visibility,City Road,Rain
+ID-784,Delhi,28.59559,76.9964,2023-01-16,17:34,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-785,Mumbai,19.19161,72.87528,2023-12-23,19:53,Minor,Over-speeding,City Road,Clear
+ID-786,Lucknow,26.7741,80.8386,2023-05-24,17:48,Minor,Weather/Low Visibility,Highway,Fog
+ID-787,Delhi,28.64538,76.95159,2023-01-19,21:23,Fatal,Distracted Driving,Rural Road,Dust Storm
+ID-788,Nagpur,21.04182,78.95883,2023-09-14,09:36,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-789,Varanasi,25.34776,83.03444,2023-03-07,10:37,Serious,Signal Jumping,Highway,Clear
+ID-790,Meerut,28.95192,77.71398,2023-12-14,17:12,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-791,Pune,18.49079,73.88758,2023-06-15,17:54,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-792,Lucknow,26.80366,80.89911,2023-05-23,17:03,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-793,Pune,18.43892,73.71636,2023-08-05,19:44,Minor,Weather/Low Visibility,Highway,Rain
+ID-794,Chennai,12.99324,80.2252,2023-01-13,21:51,Minor,Weather/Low Visibility,City Road,Fog
+ID-795,Varanasi,25.29472,83.09176,2023-11-04,08:04,Fatal,Distracted Driving,Highway,Dust Storm
+ID-796,Indore,22.71579,75.71711,2023-12-22,15:56,Fatal,Over-speeding,Highway,Rain
+ID-797,Nashik,19.96029,73.82524,2023-01-27,00:35,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-798,Hyderabad,17.34662,78.41992,2023-08-26,21:24,Minor,Signal Jumping,City Road,Clear
+ID-799,Delhi,28.77503,77.19146,2023-02-25,14:12,Minor,Over-speeding,Rural Road,Clear
+ID-800,Lucknow,26.84266,80.91858,2023-05-12,23:32,Fatal,Distracted Driving,City Road,Dust Storm
+ID-801,Bangalore,12.87295,77.65941,2023-09-20,14:27,Minor,Weather/Low Visibility,City Road,Fog
+ID-802,Mumbai,19.06234,72.82912,2023-07-08,20:18,Fatal,Weather/Low Visibility,Highway,Rain
+ID-803,Meerut,29.06384,77.71189,2023-11-24,19:12,Minor,Drunk Driving,City Road,Clear
+ID-804,Bangalore,12.85681,77.59515,2023-10-24,05:21,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-805,Indore,22.66572,75.72097,2023-04-25,18:40,Fatal,Signal Jumping,City Road,Rain
+ID-806,Lucknow,26.7478,80.94692,2023-04-05,19:25,Minor,Weather/Low Visibility,Highway,Fog
+ID-807,Lucknow,26.706,80.82304,2023-07-04,23:37,Fatal,Drunk Driving,Highway,Clear
+ID-808,Delhi,28.46966,77.24269,2023-04-02,14:15,Fatal,Drunk Driving,Highway,Clear
+ID-809,Chennai,13.15286,80.28213,2023-02-26,13:41,Minor,Weather/Low Visibility,City Road,Rain
+ID-810,Delhi,28.54786,76.98618,2023-12-31,21:56,Serious,Over-speeding,Highway,Clear
+ID-811,Delhi,28.45232,76.89482,2023-11-03,20:20,Minor,Weather/Low Visibility,Highway,Rain
+ID-812,Bangalore,12.9762,77.67089,2023-11-19,02:03,Minor,Distracted Driving,Rural Road,Rain
+ID-813,Nagpur,21.04185,78.92442,2023-09-18,18:10,Minor,Weather/Low Visibility,City Road,Fog
+ID-814,Chennai,12.9537,80.2425,2023-08-31,11:31,Serious,Distracted Driving,Rural Road,Dust Storm
+ID-815,Bangalore,12.97519,77.50732,2023-04-22,19:25,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-816,Madurai,9.9871,78.07482,2023-08-16,13:18,Serious,Weather/Low Visibility,Highway,Fog
+ID-817,Mumbai,19.03958,72.92423,2023-07-08,21:26,Serious,Weather/Low Visibility,City Road,Fog
+ID-818,Bangalore,12.85387,77.54676,2023-09-14,18:18,Fatal,Potholes,City Road,Clear
+ID-819,Nashik,20.08532,73.71968,2023-06-20,12:12,Minor,Weather/Low Visibility,City Road,Fog
+ID-820,Kolkata,22.66311,88.43671,2023-10-06,02:08,Serious,Drunk Driving,City Road,Clear
+ID-821,Mumbai,19.00399,72.99937,2023-12-01,18:30,Serious,Weather/Low Visibility,City Road,Rain
+ID-822,Pune,18.54467,73.74198,2023-08-28,16:48,Fatal,Signal Jumping,City Road,Dust Storm
+ID-823,Nagpur,21.06261,78.95635,2023-10-13,09:28,Serious,Weather/Low Visibility,Highway,Fog
+ID-824,Bangalore,12.8385,77.68867,2023-04-26,09:21,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-825,Delhi,28.70514,77.14526,2023-01-17,18:36,Minor,Weather/Low Visibility,City Road,Rain
+ID-826,Hyderabad,17.45983,78.48275,2023-02-02,04:25,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-827,Jaipur,26.86577,75.89239,2023-12-12,05:06,Minor,Distracted Driving,Highway,Rain
+ID-828,Delhi,28.64135,76.81342,2023-04-30,06:13,Minor,Distracted Driving,City Road,Clear
+ID-829,Bangalore,12.81724,77.60371,2023-02-26,08:10,Serious,Drunk Driving,City Road,Dust Storm
+ID-830,Bangalore,12.9167,77.68072,2023-12-30,20:27,Serious,Signal Jumping,Highway,Dust Storm
+ID-831,Nagpur,21.18783,79.07625,2023-04-14,21:17,Serious,Weather/Low Visibility,City Road,Rain
+ID-832,Chennai,13.01977,80.26151,2023-08-25,21:29,Fatal,Potholes,Rural Road,Clear
+ID-833,Jaipur,26.81822,75.82926,2023-06-02,17:50,Serious,Weather/Low Visibility,City Road,Rain
+ID-834,Jaipur,26.97999,75.84665,2023-10-19,03:44,Serious,Drunk Driving,Rural Road,Dust Storm
+ID-835,Jaipur,26.97411,75.75476,2023-02-04,23:58,Serious,Weather/Low Visibility,City Road,Rain
+ID-836,Varanasi,25.22425,82.97375,2023-03-26,21:28,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-837,Delhi,28.41069,77.11943,2023-07-24,21:21,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-838,Delhi,28.44587,77.25857,2023-08-25,17:31,Minor,Over-speeding,Rural Road,Clear
+ID-839,Hyderabad,17.4314,78.44272,2023-03-24,15:53,Serious,Drunk Driving,Rural Road,Clear
+ID-840,Mumbai,18.93015,72.85883,2023-12-10,15:04,Serious,Weather/Low Visibility,Highway,Fog
+ID-841,Delhi,28.47118,77.15721,2023-01-25,21:44,Serious,Signal Jumping,City Road,Clear
+ID-842,Indore,22.73807,75.7888,2023-04-14,21:49,Serious,Weather/Low Visibility,Highway,Fog
+ID-843,Kolkata,22.50321,88.30559,2023-02-02,13:42,Minor,Drunk Driving,Rural Road,Clear
+ID-844,Mumbai,18.95036,72.83341,2023-10-15,20:20,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-845,Bangalore,12.96251,77.68778,2023-06-15,07:22,Minor,Drunk Driving,City Road,Clear
+ID-846,Lucknow,26.8308,80.8024,2023-05-23,13:42,Minor,Weather/Low Visibility,Highway,Fog
+ID-847,Chennai,12.96557,80.16031,2023-10-19,23:34,Serious,Weather/Low Visibility,Highway,Fog
+ID-848,Nashik,20.03926,73.83558,2023-12-19,07:40,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-849,Delhi,28.64341,77.09252,2023-09-15,10:14,Minor,Distracted Driving,Highway,Clear
+ID-850,Mumbai,18.90636,72.95179,2023-05-05,23:27,Fatal,Drunk Driving,Highway,Clear
+ID-851,Chennai,13.04962,80.1404,2023-11-03,17:15,Fatal,Weather/Low Visibility,Highway,Fog
+ID-852,Delhi,28.65744,77.18025,2023-01-13,17:48,Minor,Weather/Low Visibility,City Road,Fog
+ID-853,Pune,18.50786,73.88133,2023-04-24,17:46,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-854,Hyderabad,17.38847,78.30121,2023-03-14,18:40,Minor,Weather/Low Visibility,Highway,Rain
+ID-855,Jaipur,26.90977,75.85905,2023-08-28,16:27,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-856,Nagpur,21.0848,79.08176,2023-04-14,16:40,Minor,Distracted Driving,Highway,Dust Storm
+ID-857,Delhi,28.54383,76.98886,2023-08-10,03:39,Minor,Drunk Driving,Highway,Dust Storm
+ID-858,Nagpur,21.01665,79.17194,2023-03-31,10:35,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-859,Bangalore,12.88497,77.61243,2023-08-29,19:45,Minor,Weather/Low Visibility,Highway,Rain
+ID-860,Bangalore,13.0585,77.64607,2023-07-11,15:25,Fatal,Weather/Low Visibility,City Road,Dust Storm
+ID-861,Bangalore,12.97649,77.58176,2023-04-10,22:10,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-862,Indore,22.727,75.77364,2023-05-07,00:47,Minor,Drunk Driving,Highway,Dust Storm
+ID-863,Nagpur,21.14131,78.90848,2023-08-22,20:38,Minor,Weather/Low Visibility,City Road,Rain
+ID-864,Bangalore,12.9735,77.63252,2023-12-31,01:41,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-865,Mumbai,19.05556,72.83776,2023-06-04,15:44,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-866,Hyderabad,17.38232,78.47528,2023-06-26,05:36,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-867,Varanasi,25.34966,83.0398,2023-02-05,18:06,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-868,Pune,18.45767,73.78619,2023-04-12,23:08,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-869,Bangalore,13.04431,77.53713,2023-07-29,11:16,Serious,Over-speeding,Rural Road,Clear
+ID-870,Delhi,28.43192,76.84285,2023-10-27,20:01,Minor,Drunk Driving,City Road,Dust Storm
+ID-871,Pune,18.42016,73.71221,2023-04-19,11:06,Minor,Potholes,City Road,Clear
+ID-872,Kolkata,22.6206,88.49738,2023-08-08,15:38,Minor,Distracted Driving,Rural Road,Fog
+ID-873,Mumbai,19.19983,72.96337,2023-01-30,15:39,Minor,Weather/Low Visibility,Highway,Fog
+ID-874,Bangalore,13.06116,77.58036,2023-09-29,16:55,Serious,Weather/Low Visibility,City Road,Rain
+ID-875,Delhi,28.67447,77.23493,2023-11-23,09:00,Fatal,Distracted Driving,Rural Road,Clear
+ID-876,Kolkata,22.57204,88.30915,2023-11-07,17:14,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-877,Varanasi,25.21627,82.98558,2023-07-17,17:46,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-878,Hyderabad,17.40401,78.41438,2023-02-14,19:31,Fatal,Distracted Driving,Highway,Dust Storm
+ID-879,Bangalore,13.08652,77.59643,2023-12-04,19:10,Serious,Signal Jumping,Highway,Clear
+ID-880,Pune,18.48698,73.84315,2023-05-12,15:14,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-881,Mumbai,18.94073,72.90691,2023-04-25,12:21,Serious,Potholes,Rural Road,Clear
+ID-882,Delhi,28.53729,77.25508,2023-11-25,21:41,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-883,Nagpur,21.02314,78.9263,2023-04-07,22:59,Serious,Signal Jumping,Rural Road,Clear
+ID-884,Varanasi,25.37067,83.09081,2023-10-30,11:03,Serious,Potholes,City Road,Rain
+ID-885,Meerut,28.973,77.73586,2023-04-24,22:37,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-886,Pune,18.42894,73.88858,2023-11-04,09:09,Serious,Distracted Driving,Rural Road,Rain
+ID-887,Pune,18.56026,73.84059,2023-03-05,04:44,Minor,Distracted Driving,Rural Road,Dust Storm
+ID-888,Meerut,28.99901,77.74083,2023-04-18,06:52,Minor,Signal Jumping,Rural Road,Rain
+ID-889,Madurai,9.98463,78.15521,2023-12-04,20:52,Minor,Drunk Driving,Rural Road,Clear
+ID-890,Hyderabad,17.37846,78.38449,2023-09-28,21:04,Minor,Signal Jumping,City Road,Fog
+ID-891,Mumbai,18.95853,72.97125,2023-10-25,13:48,Minor,Over-speeding,City Road,Fog
+ID-892,Mumbai,19.07315,72.88838,2023-04-11,19:13,Minor,Signal Jumping,City Road,Clear
+ID-893,Mumbai,19.11779,72.91514,2023-03-28,15:43,Minor,Over-speeding,City Road,Clear
+ID-894,Hyderabad,17.49483,78.33593,2023-10-31,00:21,Serious,Drunk Driving,Rural Road,Rain
+ID-895,Bangalore,12.83564,77.57933,2023-07-12,19:41,Serious,Signal Jumping,City Road,Clear
+ID-896,Kolkata,22.67298,88.43006,2023-01-06,11:23,Fatal,Over-speeding,Highway,Clear
+ID-897,Indore,22.72828,75.8817,2023-09-03,22:36,Serious,Drunk Driving,Rural Road,Clear
+ID-898,Chennai,13.04526,80.22892,2023-06-16,03:06,Serious,Drunk Driving,City Road,Rain
+ID-899,Kolkata,22.61121,88.40728,2023-10-27,09:53,Serious,Distracted Driving,Highway,Clear
+ID-900,Chennai,13.1897,80.27952,2023-10-12,19:00,Minor,Weather/Low Visibility,Highway,Fog
+ID-901,Delhi,28.63003,77.12632,2023-03-05,18:05,Serious,Potholes,City Road,Fog
+ID-902,Chennai,12.95148,80.29542,2023-09-23,20:02,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-903,Varanasi,25.33902,83.00453,2023-12-19,16:13,Fatal,Over-speeding,Highway,Clear
+ID-904,Nagpur,21.02833,79.15683,2023-10-30,07:13,Minor,Distracted Driving,Highway,Fog
+ID-905,Bangalore,12.9266,77.60997,2023-08-22,19:25,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-906,Mumbai,19.10835,72.90718,2023-12-23,20:40,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-907,Hyderabad,17.43146,78.4641,2023-08-11,07:20,Fatal,Over-speeding,Rural Road,Clear
+ID-908,Delhi,28.43101,76.86231,2023-06-18,11:04,Minor,Signal Jumping,City Road,Clear
+ID-909,Bangalore,13.07277,77.65561,2023-07-13,18:06,Minor,Drunk Driving,Highway,Dust Storm
+ID-910,Chennai,12.93705,80.2053,2023-06-28,15:33,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-911,Lucknow,26.71981,80.80959,2023-12-14,09:51,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-912,Varanasi,25.25181,83.03733,2023-07-13,19:09,Serious,Distracted Driving,Highway,Fog
+ID-913,Nagpur,21.12784,79.01105,2023-08-23,16:45,Serious,Drunk Driving,City Road,Dust Storm
+ID-914,Mumbai,19.05067,72.85516,2023-11-22,17:19,Serious,Over-speeding,City Road,Fog
+ID-915,Bangalore,13.05357,77.62694,2023-10-22,18:10,Serious,Over-speeding,Rural Road,Clear
+ID-916,Delhi,28.51434,77.26479,2023-03-11,00:59,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-917,Hyderabad,17.40648,78.32494,2023-08-06,13:00,Minor,Signal Jumping,Highway,Fog
+ID-918,Indore,22.73223,75.88409,2023-08-18,16:38,Minor,Weather/Low Visibility,Highway,Rain
+ID-919,Nagpur,21.16788,79.05411,2023-07-11,21:10,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-920,Nashik,20.00782,73.85328,2023-05-16,14:18,Serious,Drunk Driving,Rural Road,Clear
+ID-921,Chennai,13.08935,80.17872,2023-08-26,02:59,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-922,Lucknow,26.76571,80.87078,2023-07-01,00:25,Serious,Over-speeding,City Road,Clear
+ID-923,Hyderabad,17.31695,78.40286,2023-03-21,01:00,Minor,Weather/Low Visibility,Highway,Fog
+ID-924,Mumbai,19.00935,72.97844,2023-08-13,12:42,Serious,Drunk Driving,City Road,Rain
+ID-925,Mumbai,18.90174,72.97672,2023-01-21,05:18,Minor,Drunk Driving,City Road,Dust Storm
+ID-926,Varanasi,25.3802,82.93206,2023-08-04,09:07,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-927,Lucknow,26.76498,80.95288,2023-07-19,23:53,Serious,Drunk Driving,Highway,Clear
+ID-928,Bangalore,12.83784,77.56882,2023-06-25,13:43,Minor,Distracted Driving,City Road,Clear
+ID-929,Nagpur,21.05789,79.04578,2023-09-19,07:46,Serious,Drunk Driving,City Road,Rain
+ID-930,Madurai,9.97283,78.19885,2023-12-28,19:30,Serious,Over-speeding,Highway,Rain
+ID-931,Lucknow,26.8269,80.84588,2023-03-16,12:12,Minor,Over-speeding,Rural Road,Clear
+ID-932,Kolkata,22.51819,88.31019,2023-04-29,03:40,Serious,Weather/Low Visibility,City Road,Fog
+ID-933,Mumbai,19.09316,72.86086,2023-08-03,20:45,Minor,Weather/Low Visibility,Highway,Fog
+ID-934,Varanasi,25.20011,83.03209,2023-11-07,02:17,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-935,Kolkata,22.56686,88.32231,2023-03-08,06:49,Minor,Distracted Driving,Rural Road,Fog
+ID-936,Lucknow,26.84859,80.91778,2023-04-18,08:17,Minor,Distracted Driving,Highway,Dust Storm
+ID-937,Hyderabad,17.3261,78.44852,2023-04-08,16:52,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-938,Indore,22.70932,75.76858,2023-03-20,22:46,Minor,Weather/Low Visibility,Highway,Rain
+ID-939,Hyderabad,17.47832,78.45187,2023-03-02,21:40,Minor,Distracted Driving,City Road,Clear
+ID-940,Lucknow,26.80475,80.99049,2023-03-08,20:44,Serious,Distracted Driving,Rural Road,Clear
+ID-941,Nagpur,21.01216,79.19174,2023-09-30,11:43,Serious,Distracted Driving,Highway,Clear
+ID-942,Bangalore,12.93132,77.60186,2023-04-16,22:17,Minor,Drunk Driving,Highway,Clear
+ID-943,Jaipur,26.91842,75.70177,2023-09-26,23:46,Fatal,Drunk Driving,Highway,Fog
+ID-944,Varanasi,25.22382,82.94479,2023-03-17,14:40,Serious,Distracted Driving,City Road,Rain
+ID-945,Mumbai,18.91546,72.996,2023-06-27,18:41,Minor,Weather/Low Visibility,City Road,Fog
+ID-946,Delhi,28.68218,77.07464,2023-06-16,22:18,Serious,Drunk Driving,City Road,Clear
+ID-947,Jaipur,26.99305,75.73535,2023-12-19,22:06,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-948,Mumbai,19.14505,72.84413,2023-07-22,23:51,Minor,Drunk Driving,Highway,Dust Storm
+ID-949,Pune,18.42967,73.7958,2023-04-01,19:52,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-950,Hyderabad,17.35641,78.36203,2023-02-05,22:12,Serious,Drunk Driving,City Road,Clear
+ID-951,Mumbai,19.17274,72.99408,2023-01-07,19:46,Minor,Potholes,City Road,Clear
+ID-952,Chennai,13.0152,80.12201,2023-02-12,11:15,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-953,Mumbai,19.13772,72.80188,2023-12-29,17:54,Serious,Weather/Low Visibility,Highway,Rain
+ID-954,Nashik,20.01257,73.78887,2023-05-05,21:09,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-955,Mumbai,18.90636,72.80891,2023-08-01,22:56,Fatal,Drunk Driving,Highway,Clear
+ID-956,Indore,22.68543,75.72948,2023-12-18,23:24,Serious,Drunk Driving,City Road,Clear
+ID-957,Jaipur,26.82203,75.72035,2023-03-02,02:21,Minor,Distracted Driving,Highway,Clear
+ID-958,Bangalore,12.85342,77.6061,2023-12-08,17:09,Serious,Signal Jumping,Rural Road,Fog
+ID-959,Kolkata,22.56968,88.32078,2023-12-31,14:51,Serious,Over-speeding,Highway,Clear
+ID-960,Chennai,12.94398,80.12956,2023-10-23,03:07,Minor,Weather/Low Visibility,Highway,Fog
+ID-961,Bangalore,12.85456,77.577,2023-07-31,15:44,Minor,Distracted Driving,Highway,Fog
+ID-962,Bangalore,12.99619,77.54918,2023-09-10,03:34,Serious,Weather/Low Visibility,City Road,Rain
+ID-963,Kolkata,22.60539,88.45532,2023-07-05,18:15,Minor,Weather/Low Visibility,Highway,Rain
+ID-964,Mumbai,19.04218,72.82672,2023-03-13,14:54,Minor,Distracted Driving,Highway,Dust Storm
+ID-965,Delhi,28.6206,77.26567,2023-03-12,07:03,Serious,Over-speeding,City Road,Rain
+ID-966,Chennai,13.10884,80.18494,2023-02-07,23:37,Fatal,Drunk Driving,Highway,Rain
+ID-967,Hyderabad,17.34901,78.3025,2023-03-13,07:47,Minor,Weather/Low Visibility,City Road,Fog
+ID-968,Chennai,13.0012,80.25628,2023-01-31,18:09,Minor,Signal Jumping,Rural Road,Clear
+ID-969,Chennai,13.12534,80.20066,2023-08-21,15:56,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-970,Mumbai,19.11281,72.88473,2023-03-06,08:24,Serious,Signal Jumping,City Road,Rain
+ID-971,Mumbai,18.96567,72.83674,2023-12-21,10:52,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-972,Varanasi,25.28102,82.97609,2023-05-19,21:12,Fatal,Over-speeding,Highway,Clear
+ID-973,Delhi,28.71152,76.96774,2023-02-03,22:06,Serious,Drunk Driving,City Road,Clear
+ID-974,Delhi,28.48069,77.2646,2023-01-23,12:36,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-975,Kolkata,22.51864,88.36172,2023-06-11,08:12,Fatal,Weather/Low Visibility,Highway,Fog
+ID-976,Varanasi,25.21948,82.98146,2023-03-18,10:51,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-977,Kolkata,22.67041,88.35802,2023-11-17,15:56,Serious,Over-speeding,Highway,Rain
+ID-978,Pune,18.55377,73.73221,2023-09-25,22:41,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-979,Delhi,28.74238,77.01545,2023-11-09,11:13,Minor,Distracted Driving,Highway,Clear
+ID-980,Lucknow,26.81338,80.99888,2023-02-14,20:35,Serious,Distracted Driving,City Road,Clear
+ID-981,Pune,18.43394,73.75912,2023-02-15,20:22,Minor,Over-speeding,Rural Road,Rain
+ID-982,Chennai,12.97738,80.19465,2023-10-19,02:07,Minor,Distracted Driving,City Road,Clear
+ID-983,Mumbai,19.1571,72.98343,2023-11-16,14:54,Minor,Distracted Driving,Highway,Fog
+ID-984,Chennai,13.05178,80.15257,2023-05-06,23:03,Serious,Signal Jumping,Highway,Clear
+ID-985,Jaipur,26.85813,75.73164,2023-08-25,21:55,Fatal,Signal Jumping,City Road,Clear
+ID-986,Delhi,28.58635,77.12124,2023-02-25,12:46,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-987,Lucknow,26.71289,80.86848,2023-09-01,23:47,Serious,Drunk Driving,City Road,Fog
+ID-988,Chennai,13.04099,80.22804,2023-07-14,22:49,Serious,Drunk Driving,City Road,Fog
+ID-989,Pune,18.4423,73.70459,2023-04-01,20:40,Minor,Weather/Low Visibility,Highway,Rain
+ID-990,Mumbai,18.92451,72.97476,2023-05-13,19:42,Fatal,Drunk Driving,Highway,Clear
+ID-991,Mumbai,19.16849,72.88571,2023-09-04,20:26,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-992,Delhi,28.76504,77.08516,2023-12-08,10:04,Serious,Potholes,City Road,Rain
+ID-993,Bangalore,13.02031,77.66505,2023-08-23,08:57,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-994,Lucknow,26.894,80.88128,2023-03-06,21:53,Minor,Signal Jumping,Rural Road,Dust Storm
+ID-995,Delhi,28.43898,76.90931,2023-03-27,22:49,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-996,Nagpur,21.19435,79.07305,2023-06-07,18:19,Minor,Potholes,Rural Road,Clear
+ID-997,Pune,18.49983,73.89981,2023-10-05,09:53,Minor,Weather/Low Visibility,Highway,Fog
+ID-998,Lucknow,26.79176,80.87462,2023-07-15,22:27,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-999,Delhi,28.77005,77.2285,2023-11-12,12:01,Minor,Signal Jumping,City Road,Clear
+ID-1000,Pune,18.55035,73.88545,2023-01-17,15:37,Minor,Weather/Low Visibility,City Road,Fog
+ID-1001,Nashik,20.05538,73.81032,2023-08-26,18:22,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1002,Hyderabad,17.45644,78.40151,2023-08-01,20:53,Serious,Signal Jumping,Highway,Rain
+ID-1003,Jaipur,26.88291,75.70311,2023-06-12,16:38,Serious,Distracted Driving,Rural Road,Rain
+ID-1004,Kolkata,22.54837,88.4947,2023-01-27,21:53,Fatal,Distracted Driving,Highway,Dust Storm
+ID-1005,Indore,22.67808,75.84562,2023-04-29,08:27,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-1006,Delhi,28.63077,76.99601,2023-04-15,16:20,Fatal,Over-speeding,Highway,Clear
+ID-1007,Delhi,28.65156,77.09664,2023-02-10,17:58,Minor,Distracted Driving,Highway,Dust Storm
+ID-1008,Delhi,28.45222,77.02685,2023-04-24,19:41,Serious,Distracted Driving,Rural Road,Rain
+ID-1009,Kolkata,22.64526,88.46142,2023-02-12,08:17,Serious,Drunk Driving,Rural Road,Clear
+ID-1010,Mumbai,19.19544,72.97339,2023-03-14,00:06,Serious,Weather/Low Visibility,Highway,Fog
+ID-1011,Kolkata,22.57228,88.46766,2023-02-07,18:26,Minor,Signal Jumping,Highway,Clear
+ID-1012,Jaipur,26.88398,75.87794,2023-01-06,09:19,Serious,Drunk Driving,Highway,Clear
+ID-1013,Bangalore,13.09277,77.69875,2023-03-23,10:00,Minor,Weather/Low Visibility,Highway,Fog
+ID-1014,Pune,18.40591,73.70461,2023-04-22,13:07,Serious,Weather/Low Visibility,Highway,Fog
+ID-1015,Indore,22.74555,75.88797,2023-06-28,19:05,Serious,Signal Jumping,City Road,Fog
+ID-1016,Madurai,9.89916,78.10253,2023-12-18,19:12,Minor,Weather/Low Visibility,City Road,Fog
+ID-1017,Hyderabad,17.45863,78.41752,2023-08-17,21:27,Minor,Weather/Low Visibility,City Road,Fog
+ID-1018,Delhi,28.64292,77.01466,2023-02-02,14:52,Minor,Weather/Low Visibility,Highway,Rain
+ID-1019,Hyderabad,17.35061,78.38196,2023-01-16,11:25,Serious,Weather/Low Visibility,City Road,Rain
+ID-1020,Indore,22.63718,75.74906,2023-06-10,20:09,Minor,Over-speeding,City Road,Clear
+ID-1021,Chennai,13.10649,80.24336,2023-04-30,20:57,Serious,Potholes,City Road,Clear
+ID-1022,Jaipur,26.85672,75.74244,2023-11-08,06:45,Minor,Signal Jumping,Rural Road,Clear
+ID-1023,Mumbai,19.1678,72.88435,2023-01-26,08:12,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1024,Delhi,28.56849,76.86205,2023-05-02,22:24,Serious,Drunk Driving,City Road,Clear
+ID-1025,Hyderabad,17.45666,78.41515,2023-07-26,09:53,Fatal,Over-speeding,City Road,Clear
+ID-1026,Delhi,28.65791,76.83473,2023-06-12,09:17,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1027,Mumbai,18.99395,72.92246,2023-11-25,17:31,Fatal,Weather/Low Visibility,Rural Road,Fog
+ID-1028,Mumbai,18.9672,72.96509,2023-08-12,14:46,Minor,Weather/Low Visibility,Highway,Rain
+ID-1029,Mumbai,19.17068,72.87378,2023-01-23,04:16,Serious,Over-speeding,City Road,Clear
+ID-1030,Mumbai,18.92251,72.86587,2023-03-12,09:10,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1031,Kolkata,22.67238,88.45061,2023-09-25,15:07,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-1032,Chennai,13.04703,80.15611,2023-06-01,13:16,Minor,Signal Jumping,City Road,Clear
+ID-1033,Jaipur,26.9117,75.87457,2023-02-09,11:44,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1034,Chennai,13.10115,80.19363,2023-04-17,18:21,Minor,Potholes,City Road,Fog
+ID-1035,Pune,18.53106,73.86956,2023-08-20,07:24,Minor,Weather/Low Visibility,City Road,Rain
+ID-1036,Bangalore,12.88335,77.53284,2023-08-25,10:09,Fatal,Over-speeding,Highway,Clear
+ID-1037,Mumbai,19.03825,72.85335,2023-05-16,16:22,Minor,Over-speeding,City Road,Clear
+ID-1038,Mumbai,19.02944,72.83012,2023-08-14,16:03,Serious,Weather/Low Visibility,Highway,Fog
+ID-1039,Delhi,28.55301,77.26401,2023-11-01,21:11,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1040,Hyderabad,17.43623,78.42927,2023-01-19,12:57,Minor,Weather/Low Visibility,Highway,Fog
+ID-1041,Jaipur,26.82021,75.74529,2023-07-21,11:25,Fatal,Over-speeding,Rural Road,Rain
+ID-1042,Lucknow,26.83834,80.89903,2023-12-28,14:18,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1043,Indore,22.63702,75.88156,2023-12-19,20:54,Serious,Drunk Driving,City Road,Rain
+ID-1044,Bangalore,12.84999,77.56643,2023-08-08,23:30,Serious,Distracted Driving,Highway,Clear
+ID-1045,Mumbai,19.16438,72.83415,2023-01-01,21:37,Minor,Weather/Low Visibility,City Road,Rain
+ID-1046,Delhi,28.72757,77.08363,2023-03-17,16:10,Minor,Over-speeding,City Road,Clear
+ID-1047,Madurai,9.96078,78.06714,2023-12-06,11:16,Serious,Weather/Low Visibility,City Road,Fog
+ID-1048,Chennai,13.14832,80.16023,2023-02-27,17:30,Minor,Distracted Driving,Highway,Clear
+ID-1049,Delhi,28.79145,77.22813,2023-05-06,21:01,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1050,Nagpur,21.01785,79.17619,2023-11-17,12:56,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1051,Pune,18.58207,73.76977,2023-06-08,16:17,Serious,Drunk Driving,Rural Road,Clear
+ID-1052,Bangalore,12.95602,77.56865,2023-06-27,15:36,Fatal,Distracted Driving,Highway,Clear
+ID-1053,Bangalore,12.94968,77.63711,2023-11-16,13:18,Serious,Weather/Low Visibility,City Road,Rain
+ID-1054,Jaipur,26.81292,75.75895,2023-10-31,03:52,Serious,Drunk Driving,City Road,Clear
+ID-1055,Kolkata,22.58606,88.43205,2023-05-26,14:22,Fatal,Distracted Driving,Highway,Rain
+ID-1056,Nagpur,21.02853,79.11992,2023-01-17,20:14,Minor,Weather/Low Visibility,Highway,Fog
+ID-1057,Delhi,28.65482,77.01128,2023-03-30,22:19,Minor,Potholes,Rural Road,Dust Storm
+ID-1058,Nagpur,21.02784,79.1303,2023-06-04,22:12,Minor,Distracted Driving,City Road,Clear
+ID-1059,Hyderabad,17.42566,78.40917,2023-08-15,09:33,Minor,Signal Jumping,Rural Road,Fog
+ID-1060,Kolkata,22.64252,88.39368,2023-01-15,21:29,Serious,Potholes,City Road,Clear
+ID-1061,Mumbai,18.92653,72.82812,2023-03-07,22:23,Minor,Distracted Driving,Highway,Fog
+ID-1062,Madurai,9.88059,78.00119,2023-05-19,18:03,Minor,Signal Jumping,City Road,Clear
+ID-1063,Kolkata,22.61887,88.46439,2023-02-01,20:55,Minor,Over-speeding,Rural Road,Clear
+ID-1064,Kolkata,22.54101,88.32883,2023-12-12,09:57,Serious,Signal Jumping,City Road,Rain
+ID-1065,Jaipur,26.94383,75.88731,2023-02-04,10:07,Serious,Over-speeding,Rural Road,Rain
+ID-1066,Bangalore,12.95595,77.54944,2023-07-20,09:28,Serious,Over-speeding,City Road,Clear
+ID-1067,Chennai,13.02137,80.29654,2023-08-13,22:43,Serious,Drunk Driving,City Road,Clear
+ID-1068,Mumbai,18.9065,72.82834,2023-12-25,05:32,Minor,Weather/Low Visibility,City Road,Rain
+ID-1069,Indore,22.65789,75.72,2023-07-20,23:17,Minor,Distracted Driving,City Road,Clear
+ID-1070,Bangalore,12.84445,77.55668,2023-06-05,18:37,Fatal,Over-speeding,Highway,Dust Storm
+ID-1071,Varanasi,25.22786,83.07648,2023-09-14,19:22,Serious,Potholes,City Road,Rain
+ID-1072,Mumbai,19.05391,72.8349,2023-06-23,08:36,Minor,Weather/Low Visibility,City Road,Rain
+ID-1073,Mumbai,19.09753,72.9847,2023-11-07,15:30,Serious,Signal Jumping,Rural Road,Rain
+ID-1074,Kolkata,22.6014,88.43178,2023-10-25,20:37,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1075,Lucknow,26.87041,80.83184,2023-12-14,11:59,Fatal,Weather/Low Visibility,Highway,Fog
+ID-1076,Jaipur,26.96171,75.84653,2023-07-16,13:57,Serious,Signal Jumping,Highway,Clear
+ID-1077,Delhi,28.50019,76.81871,2023-11-20,06:38,Serious,Weather/Low Visibility,City Road,Rain
+ID-1078,Mumbai,19.03485,72.82664,2023-05-10,16:12,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1079,Kolkata,22.54024,88.33242,2023-11-19,12:01,Minor,Signal Jumping,Highway,Clear
+ID-1080,Nashik,19.90665,73.72811,2023-02-06,15:34,Minor,Distracted Driving,Rural Road,Rain
+ID-1081,Meerut,29.0822,77.72845,2023-08-31,22:52,Minor,Potholes,City Road,Fog
+ID-1082,Mumbai,18.94136,72.81343,2023-02-10,15:36,Fatal,Weather/Low Visibility,Highway,Fog
+ID-1083,Delhi,28.49223,77.10074,2023-05-09,20:59,Serious,Weather/Low Visibility,Highway,Fog
+ID-1084,Lucknow,26.73157,80.85761,2023-11-09,22:59,Minor,Potholes,City Road,Fog
+ID-1085,Meerut,29.07836,77.71655,2023-08-04,11:21,Fatal,Distracted Driving,City Road,Rain
+ID-1086,Chennai,12.91782,80.14085,2023-09-10,08:15,Fatal,Over-speeding,City Road,Clear
+ID-1087,Bangalore,13.09432,77.68998,2023-10-10,18:56,Minor,Weather/Low Visibility,City Road,Rain
+ID-1088,Bangalore,12.83122,77.59932,2023-06-05,21:30,Serious,Drunk Driving,Highway,Clear
+ID-1089,Delhi,28.41054,77.19091,2023-12-17,21:43,Minor,Signal Jumping,Rural Road,Clear
+ID-1090,Lucknow,26.79643,80.87742,2023-08-07,03:44,Minor,Weather/Low Visibility,Highway,Rain
+ID-1091,Kolkata,22.69651,88.37354,2023-04-29,15:15,Fatal,Over-speeding,Highway,Clear
+ID-1092,Nashik,20.05051,73.86155,2023-05-08,12:55,Fatal,Over-speeding,Highway,Clear
+ID-1093,Meerut,28.93612,77.60874,2023-03-08,19:18,Serious,Potholes,City Road,Dust Storm
+ID-1094,Jaipur,26.93132,75.71528,2023-07-02,15:47,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1095,Pune,18.47339,73.81028,2023-12-24,20:20,Minor,Distracted Driving,Highway,Clear
+ID-1096,Bangalore,12.90399,77.58217,2023-03-12,14:13,Serious,Potholes,City Road,Rain
+ID-1097,Meerut,28.97448,77.76328,2023-11-29,23:28,Minor,Distracted Driving,Highway,Clear
+ID-1098,Nagpur,21.05406,79.07647,2023-11-09,20:54,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1099,Delhi,28.55387,76.82221,2023-09-30,13:27,Minor,Weather/Low Visibility,Highway,Fog
+ID-1100,Jaipur,26.86956,75.7052,2023-01-15,14:13,Minor,Distracted Driving,City Road,Dust Storm
+ID-1101,Mumbai,19.17857,72.95048,2023-12-14,15:59,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1102,Kolkata,22.61366,88.40378,2023-05-02,09:59,Serious,Drunk Driving,City Road,Clear
+ID-1103,Kolkata,22.65992,88.49019,2023-10-20,16:21,Serious,Distracted Driving,Rural Road,Clear
+ID-1104,Jaipur,26.87234,75.83185,2023-10-19,12:19,Minor,Signal Jumping,City Road,Fog
+ID-1105,Indore,22.68876,75.70345,2023-11-23,09:30,Serious,Weather/Low Visibility,City Road,Rain
+ID-1106,Kolkata,22.68777,88.35529,2023-04-03,18:28,Minor,Distracted Driving,City Road,Fog
+ID-1107,Nagpur,21.02544,79.0891,2023-02-28,18:14,Minor,Signal Jumping,Highway,Clear
+ID-1108,Hyderabad,17.43689,78.47211,2023-04-27,12:45,Minor,Weather/Low Visibility,City Road,Fog
+ID-1109,Bangalore,13.05348,77.66988,2023-06-29,22:15,Minor,Over-speeding,Rural Road,Clear
+ID-1110,Pune,18.50221,73.7474,2023-02-06,14:26,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1111,Chennai,12.99796,80.25763,2023-05-31,02:30,Minor,Distracted Driving,Highway,Clear
+ID-1112,Nashik,19.95817,73.73001,2023-06-10,22:13,Minor,Weather/Low Visibility,Highway,Fog
+ID-1113,Mumbai,19.09712,72.83001,2023-09-15,19:36,Minor,Potholes,Rural Road,Dust Storm
+ID-1114,Mumbai,19.15428,72.90555,2023-09-24,23:33,Serious,Weather/Low Visibility,City Road,Fog
+ID-1115,Meerut,29.08221,77.66574,2023-03-01,02:47,Minor,Signal Jumping,City Road,Rain
+ID-1116,Kolkata,22.57238,88.3704,2023-11-06,23:30,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1117,Delhi,28.7947,77.26286,2023-03-12,17:42,Serious,Weather/Low Visibility,City Road,Fog
+ID-1118,Nagpur,21.02359,79.02255,2023-04-12,21:40,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1119,Delhi,28.56745,77.18275,2023-01-18,17:08,Fatal,Over-speeding,Rural Road,Clear
+ID-1120,Mumbai,19.19698,72.82648,2023-07-25,09:08,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-1121,Mumbai,19.00104,72.96494,2023-01-24,10:06,Serious,Over-speeding,City Road,Fog
+ID-1122,Delhi,28.65233,77.17035,2023-04-04,23:08,Minor,Signal Jumping,Highway,Clear
+ID-1123,Varanasi,25.31871,82.97397,2023-04-01,15:28,Serious,Weather/Low Visibility,Highway,Fog
+ID-1124,Nagpur,21.09866,78.91449,2023-08-07,16:54,Minor,Weather/Low Visibility,City Road,Fog
+ID-1125,Delhi,28.47137,76.8716,2023-05-23,11:33,Serious,Weather/Low Visibility,Highway,Fog
+ID-1126,Jaipur,26.83312,75.75757,2023-05-13,03:18,Serious,Distracted Driving,Highway,Clear
+ID-1127,Nagpur,21.0282,78.96205,2023-01-21,07:57,Serious,Weather/Low Visibility,Highway,Rain
+ID-1128,Nashik,20.06448,73.77391,2023-09-24,10:28,Fatal,Drunk Driving,City Road,Dust Storm
+ID-1129,Hyderabad,17.44325,78.48384,2023-02-14,15:16,Minor,Drunk Driving,Rural Road,Fog
+ID-1130,Nagpur,21.19369,79.14109,2023-03-22,07:20,Minor,Weather/Low Visibility,City Road,Fog
+ID-1131,Delhi,28.69421,77.13604,2023-01-20,20:57,Serious,Signal Jumping,Rural Road,Clear
+ID-1132,Hyderabad,17.36351,78.46829,2023-01-05,05:40,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-1133,Bangalore,13.08295,77.63467,2023-04-06,21:52,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1134,Hyderabad,17.42695,78.31774,2023-08-11,19:00,Minor,Over-speeding,Rural Road,Dust Storm
+ID-1135,Kolkata,22.642,88.30776,2023-10-26,21:40,Minor,Weather/Low Visibility,City Road,Fog
+ID-1136,Pune,18.59087,73.87558,2023-11-19,21:31,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1137,Nashik,19.91931,73.72247,2023-12-06,15:15,Serious,Distracted Driving,Highway,Clear
+ID-1138,Hyderabad,17.49126,78.43212,2023-09-05,23:08,Serious,Drunk Driving,Rural Road,Dust Storm
+ID-1139,Hyderabad,17.4015,78.47796,2023-12-12,20:16,Serious,Distracted Driving,City Road,Dust Storm
+ID-1140,Indore,22.68504,75.75214,2023-06-23,15:14,Serious,Signal Jumping,City Road,Clear
+ID-1141,Hyderabad,17.38953,78.34426,2023-11-11,23:07,Fatal,Drunk Driving,Highway,Fog
+ID-1142,Mumbai,19.11667,72.96048,2023-10-11,20:49,Serious,Over-speeding,Rural Road,Clear
+ID-1143,Pune,18.44209,73.80709,2023-05-29,15:14,Serious,Weather/Low Visibility,City Road,Fog
+ID-1144,Mumbai,19.06589,72.84974,2023-09-14,12:06,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1145,Kolkata,22.56029,88.346,2023-03-05,07:47,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1146,Mumbai,19.16299,72.9724,2023-08-01,06:45,Serious,Over-speeding,Rural Road,Clear
+ID-1147,Mumbai,19.14908,72.92097,2023-07-20,22:50,Serious,Weather/Low Visibility,City Road,Fog
+ID-1148,Varanasi,25.26043,82.99178,2023-07-12,17:30,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-1149,Chennai,13.0219,80.15571,2023-07-15,22:15,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1150,Delhi,28.61863,76.85415,2023-04-29,12:49,Serious,Weather/Low Visibility,City Road,Fog
+ID-1151,Mumbai,19.09285,72.86649,2023-04-17,22:10,Serious,Weather/Low Visibility,Highway,Rain
+ID-1152,Mumbai,19.04205,72.94461,2023-07-30,21:16,Serious,Weather/Low Visibility,Highway,Fog
+ID-1153,Mumbai,19.1067,72.91975,2023-10-15,00:48,Serious,Drunk Driving,City Road,Dust Storm
+ID-1154,Nagpur,21.09227,79.0449,2023-02-23,18:58,Minor,Over-speeding,City Road,Clear
+ID-1155,Mumbai,19.12707,72.83242,2023-02-28,13:28,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1156,Hyderabad,17.46063,78.39744,2023-06-01,21:00,Fatal,Over-speeding,City Road,Dust Storm
+ID-1157,Bangalore,13.06407,77.55422,2023-03-26,10:41,Serious,Drunk Driving,Rural Road,Fog
+ID-1158,Madurai,9.96056,78.1904,2023-08-25,16:30,Serious,Drunk Driving,Rural Road,Fog
+ID-1159,Lucknow,26.87048,80.82707,2023-08-02,11:20,Minor,Weather/Low Visibility,City Road,Rain
+ID-1160,Pune,18.5954,73.76237,2023-08-23,18:34,Minor,Distracted Driving,Highway,Clear
+ID-1161,Chennai,13.08749,80.21889,2023-04-26,22:56,Fatal,Drunk Driving,Highway,Clear
+ID-1162,Delhi,28.7283,77.23405,2023-07-26,11:39,Serious,Weather/Low Visibility,Highway,Rain
+ID-1163,Hyderabad,17.3206,78.34329,2023-09-25,18:08,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1164,Hyderabad,17.47068,78.42096,2023-03-28,05:13,Fatal,Weather/Low Visibility,Highway,Rain
+ID-1165,Pune,18.56067,73.7293,2023-01-27,12:04,Minor,Drunk Driving,City Road,Dust Storm
+ID-1166,Mumbai,18.99813,72.90008,2023-07-17,00:24,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1167,Delhi,28.61227,77.24164,2023-03-15,20:45,Fatal,Weather/Low Visibility,City Road,Dust Storm
+ID-1168,Kolkata,22.55011,88.32405,2023-07-07,11:01,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1169,Chennai,13.08509,80.27526,2023-01-06,19:59,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1170,Delhi,28.40225,76.9552,2023-01-07,22:58,Serious,Distracted Driving,Highway,Fog
+ID-1171,Jaipur,26.87966,75.89915,2023-10-20,14:03,Minor,Over-speeding,Rural Road,Dust Storm
+ID-1172,Chennai,13.04709,80.19469,2023-01-15,05:23,Fatal,Potholes,Rural Road,Rain
+ID-1173,Indore,22.62633,75.78391,2023-02-01,15:45,Minor,Distracted Driving,Rural Road,Clear
+ID-1174,Mumbai,18.98324,72.97052,2023-12-11,17:21,Fatal,Distracted Driving,Rural Road,Rain
+ID-1175,Varanasi,25.27325,82.90283,2023-02-01,23:42,Serious,Drunk Driving,Rural Road,Rain
+ID-1176,Mumbai,18.95178,72.8089,2023-03-30,22:26,Serious,Drunk Driving,City Road,Clear
+ID-1177,Bangalore,12.90521,77.56829,2023-08-26,22:59,Fatal,Drunk Driving,Highway,Clear
+ID-1178,Nashik,19.91728,73.7635,2023-11-23,18:13,Serious,Distracted Driving,Highway,Dust Storm
+ID-1179,Bangalore,13.08297,77.56156,2023-03-09,23:48,Fatal,Distracted Driving,City Road,Clear
+ID-1180,Jaipur,26.8356,75.72809,2023-04-13,19:17,Minor,Drunk Driving,City Road,Fog
+ID-1181,Meerut,28.95291,77.69798,2023-08-19,14:33,Serious,Signal Jumping,Highway,Rain
+ID-1182,Delhi,28.63409,76.87785,2023-11-27,17:22,Serious,Weather/Low Visibility,Highway,Fog
+ID-1183,Bangalore,13.09055,77.61032,2023-04-18,22:49,Minor,Weather/Low Visibility,City Road,Rain
+ID-1184,Chennai,13.05511,80.22622,2023-07-10,22:20,Serious,Drunk Driving,Rural Road,Dust Storm
+ID-1185,Delhi,28.68052,77.11474,2023-06-22,07:21,Minor,Signal Jumping,Highway,Clear
+ID-1186,Mumbai,19.17394,72.86126,2023-11-12,18:28,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1187,Hyderabad,17.46682,78.35051,2023-07-25,10:43,Serious,Distracted Driving,Highway,Clear
+ID-1188,Kolkata,22.65263,88.48017,2023-05-18,21:49,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1189,Pune,18.50244,73.88447,2023-03-13,19:36,Minor,Drunk Driving,Highway,Fog
+ID-1190,Lucknow,26.76185,80.95316,2023-01-01,02:29,Fatal,Drunk Driving,Highway,Rain
+ID-1191,Mumbai,18.92411,72.84724,2023-03-20,23:15,Fatal,Drunk Driving,Highway,Fog
+ID-1192,Chennai,13.04124,80.23736,2023-08-26,23:24,Fatal,Drunk Driving,Highway,Rain
+ID-1193,Madurai,9.98705,78.07998,2023-08-06,17:55,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1194,Bangalore,12.94649,77.64809,2023-05-01,06:11,Minor,Weather/Low Visibility,City Road,Fog
+ID-1195,Chennai,12.90048,80.21983,2023-09-13,19:08,Fatal,Drunk Driving,Highway,Clear
+ID-1196,Lucknow,26.76039,80.81857,2023-05-26,13:09,Serious,Distracted Driving,Rural Road,Dust Storm
+ID-1197,Hyderabad,17.30697,78.4917,2023-09-22,07:43,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1198,Chennai,13.1198,80.23117,2023-10-22,06:08,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1199,Pune,18.49723,73.89198,2023-05-13,20:27,Serious,Signal Jumping,Rural Road,Clear
+ID-1200,Lucknow,26.86143,80.98164,2023-10-01,23:21,Minor,Distracted Driving,Highway,Clear
+ID-1201,Indore,22.70634,75.77669,2023-12-29,13:21,Minor,Weather/Low Visibility,Highway,Fog
+ID-1202,Nashik,20.0229,73.87444,2023-03-04,15:02,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1203,Indore,22.71987,75.77386,2023-01-13,20:49,Fatal,Weather/Low Visibility,Highway,Fog
+ID-1204,Pune,18.48341,73.78935,2023-07-02,12:07,Fatal,Signal Jumping,Rural Road,Clear
+ID-1205,Meerut,29.04774,77.64973,2023-03-16,10:46,Fatal,Signal Jumping,City Road,Dust Storm
+ID-1206,Pune,18.46908,73.79161,2023-08-23,22:36,Fatal,Over-speeding,City Road,Clear
+ID-1207,Kolkata,22.52935,88.49537,2023-02-10,15:46,Minor,Weather/Low Visibility,City Road,Fog
+ID-1208,Pune,18.43679,73.84935,2023-08-10,11:53,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1209,Nagpur,21.06064,79.05421,2023-08-31,20:36,Serious,Drunk Driving,City Road,Dust Storm
+ID-1210,Varanasi,25.35566,82.95537,2023-04-03,16:58,Minor,Weather/Low Visibility,City Road,Fog
+ID-1211,Delhi,28.48285,77.19103,2023-11-03,20:29,Serious,Weather/Low Visibility,Highway,Fog
+ID-1212,Mumbai,18.90542,72.86492,2023-11-08,23:45,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1213,Pune,18.49512,73.81153,2023-08-16,14:52,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1214,Indore,22.70645,75.734,2023-10-20,15:42,Serious,Over-speeding,Rural Road,Dust Storm
+ID-1215,Bangalore,12.82493,77.6496,2023-06-11,20:48,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1216,Mumbai,19.07548,72.92485,2023-05-26,04:48,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1217,Hyderabad,17.40752,78.37569,2023-02-26,19:13,Serious,Distracted Driving,Highway,Fog
+ID-1218,Chennai,13.13006,80.29688,2023-04-22,20:48,Minor,Weather/Low Visibility,City Road,Fog
+ID-1219,Chennai,13.08908,80.23285,2023-10-02,17:32,Serious,Distracted Driving,Highway,Dust Storm
+ID-1220,Varanasi,25.29897,82.99278,2023-01-02,07:18,Minor,Potholes,City Road,Fog
+ID-1221,Jaipur,26.93667,75.71966,2023-04-07,15:26,Fatal,Signal Jumping,Rural Road,Clear
+ID-1222,Hyderabad,17.34484,78.42194,2023-07-29,16:46,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1223,Kolkata,22.61386,88.39438,2023-12-01,23:38,Minor,Weather/Low Visibility,Highway,Rain
+ID-1224,Jaipur,26.84786,75.79443,2023-02-03,05:18,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-1225,Delhi,28.49802,77.10162,2023-02-26,22:41,Minor,Weather/Low Visibility,Highway,Fog
+ID-1226,Kolkata,22.51397,88.44972,2023-07-17,05:30,Serious,Over-speeding,City Road,Dust Storm
+ID-1227,Pune,18.50747,73.84316,2023-08-13,16:01,Minor,Distracted Driving,City Road,Clear
+ID-1228,Nagpur,21.16566,79.11755,2023-09-19,23:59,Serious,Drunk Driving,City Road,Dust Storm
+ID-1229,Mumbai,19.15412,72.95159,2023-07-31,06:23,Serious,Signal Jumping,Highway,Fog
+ID-1230,Chennai,13.13867,80.14202,2023-08-23,23:04,Fatal,Drunk Driving,Highway,Dust Storm
+ID-1231,Delhi,28.67568,76.96533,2023-11-01,14:17,Serious,Weather/Low Visibility,Highway,Rain
+ID-1232,Mumbai,18.90778,72.97603,2023-03-23,20:19,Fatal,Potholes,City Road,Fog
+ID-1233,Chennai,13.10198,80.13089,2023-07-16,07:18,Minor,Distracted Driving,Highway,Rain
+ID-1234,Pune,18.51665,73.72967,2023-09-22,08:32,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1235,Lucknow,26.89448,80.92877,2023-07-13,22:23,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-1236,Nashik,19.97597,73.83375,2023-04-25,20:13,Minor,Drunk Driving,Rural Road,Fog
+ID-1237,Kolkata,22.65785,88.43,2023-11-23,22:58,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-1238,Lucknow,26.7797,80.81977,2023-10-01,12:35,Minor,Signal Jumping,Highway,Clear
+ID-1239,Chennai,13.03399,80.20459,2023-11-30,19:44,Minor,Drunk Driving,Rural Road,Rain
+ID-1240,Delhi,28.47097,77.28969,2023-04-08,18:47,Minor,Signal Jumping,Highway,Clear
+ID-1241,Indore,22.70451,75.71217,2023-08-26,16:30,Serious,Over-speeding,City Road,Clear
+ID-1242,Madurai,9.958,78.01461,2023-04-12,06:30,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1243,Hyderabad,17.41387,78.41634,2023-10-29,15:12,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1244,Pune,18.48143,73.75415,2023-09-21,14:30,Fatal,Distracted Driving,City Road,Fog
+ID-1245,Bangalore,12.87471,77.55506,2023-02-27,04:28,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1246,Varanasi,25.39487,82.9941,2023-06-05,12:43,Minor,Over-speeding,City Road,Dust Storm
+ID-1247,Bangalore,12.96158,77.53653,2023-06-06,20:32,Minor,Distracted Driving,Highway,Dust Storm
+ID-1248,Varanasi,25.38551,82.94206,2023-07-22,14:12,Minor,Drunk Driving,Rural Road,Rain
+ID-1249,Mumbai,18.9977,72.90329,2023-05-18,21:49,Fatal,Drunk Driving,City Road,Fog
+ID-1250,Kolkata,22.66689,88.37416,2023-06-11,20:53,Minor,Weather/Low Visibility,City Road,Fog
+ID-1251,Varanasi,25.35254,82.90113,2023-03-13,06:41,Minor,Weather/Low Visibility,Highway,Fog
+ID-1252,Mumbai,18.96066,72.93241,2023-08-07,14:20,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1253,Chennai,12.95984,80.143,2023-05-05,09:04,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1254,Chennai,13.11638,80.19397,2023-12-28,23:58,Minor,Weather/Low Visibility,City Road,Rain
+ID-1255,Delhi,28.42373,76.82806,2023-05-26,16:28,Fatal,Over-speeding,Highway,Dust Storm
+ID-1256,Delhi,28.79087,77.16622,2023-04-13,20:36,Minor,Potholes,City Road,Clear
+ID-1257,Mumbai,18.97357,72.91455,2023-05-30,08:52,Fatal,Signal Jumping,Highway,Clear
+ID-1258,Indore,22.75442,75.7136,2023-07-04,20:54,Fatal,Weather/Low Visibility,Highway,Rain
+ID-1259,Mumbai,18.9683,72.87244,2023-11-06,20:16,Minor,Signal Jumping,Highway,Clear
+ID-1260,Chennai,12.93576,80.18216,2023-09-20,03:03,Fatal,Distracted Driving,Rural Road,Clear
+ID-1261,Pune,18.40642,73.80084,2023-06-20,15:36,Fatal,Signal Jumping,Rural Road,Clear
+ID-1262,Pune,18.41511,73.71843,2023-09-20,04:51,Minor,Over-speeding,Rural Road,Dust Storm
+ID-1263,Bangalore,12.85727,77.51462,2023-03-19,05:28,Minor,Weather/Low Visibility,Highway,Fog
+ID-1264,Chennai,13.07257,80.19081,2023-10-22,18:25,Minor,Distracted Driving,Rural Road,Clear
+ID-1265,Bangalore,13.04847,77.50377,2023-04-25,19:16,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1266,Madurai,9.93308,78.15399,2023-04-07,17:09,Minor,Weather/Low Visibility,City Road,Rain
+ID-1267,Chennai,12.90787,80.22038,2023-06-17,20:04,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1268,Mumbai,18.99088,72.88486,2023-03-12,07:01,Minor,Over-speeding,City Road,Clear
+ID-1269,Varanasi,25.28879,83.04879,2023-08-13,05:28,Serious,Weather/Low Visibility,Highway,Rain
+ID-1270,Bangalore,12.97707,77.52493,2023-03-04,23:33,Fatal,Drunk Driving,Highway,Rain
+ID-1271,Mumbai,19.00752,72.99907,2023-09-17,18:51,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1272,Chennai,13.18347,80.10323,2023-07-04,15:22,Serious,Distracted Driving,City Road,Clear
+ID-1273,Hyderabad,17.48919,78.4304,2023-07-19,11:41,Minor,Signal Jumping,City Road,Clear
+ID-1274,Nagpur,21.12947,78.99698,2023-03-07,22:00,Serious,Distracted Driving,Highway,Rain
+ID-1275,Delhi,28.42447,77.20119,2023-08-01,11:39,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1276,Chennai,13.05558,80.13028,2023-03-25,18:50,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-1277,Delhi,28.65012,77.25449,2023-01-14,14:50,Minor,Distracted Driving,City Road,Clear
+ID-1278,Mumbai,18.91027,72.97441,2023-11-03,21:48,Serious,Weather/Low Visibility,Highway,Rain
+ID-1279,Nashik,19.96973,73.74454,2023-08-01,21:29,Serious,Distracted Driving,Highway,Dust Storm
+ID-1280,Mumbai,19.14283,72.80014,2023-12-03,14:20,Serious,Potholes,Rural Road,Fog
+ID-1281,Jaipur,26.81928,75.79856,2023-03-08,19:32,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1282,Indore,22.61896,75.78077,2023-04-05,13:16,Serious,Signal Jumping,City Road,Fog
+ID-1283,Lucknow,26.79243,80.91816,2023-08-05,14:20,Minor,Distracted Driving,Rural Road,Rain
+ID-1284,Bangalore,13.05522,77.64959,2023-01-08,03:11,Fatal,Drunk Driving,Highway,Clear
+ID-1285,Mumbai,18.99676,72.91442,2023-10-23,23:55,Fatal,Drunk Driving,Highway,Dust Storm
+ID-1286,Nagpur,21.08797,79.12349,2023-04-06,20:57,Minor,Distracted Driving,City Road,Fog
+ID-1287,Nashik,19.99126,73.7193,2023-07-07,10:50,Serious,Over-speeding,Rural Road,Clear
+ID-1288,Kolkata,22.51892,88.49502,2023-03-06,16:18,Minor,Weather/Low Visibility,City Road,Fog
+ID-1289,Pune,18.59686,73.71659,2023-03-14,22:12,Serious,Weather/Low Visibility,Highway,Rain
+ID-1290,Varanasi,25.30511,83.05599,2023-09-30,18:51,Minor,Distracted Driving,Rural Road,Rain
+ID-1291,Pune,18.50617,73.77489,2023-11-13,23:40,Fatal,Drunk Driving,Rural Road,Rain
+ID-1292,Nagpur,21.17166,78.98353,2023-09-01,03:26,Fatal,Drunk Driving,Highway,Fog
+ID-1293,Meerut,28.91497,77.74167,2023-11-01,08:39,Serious,Over-speeding,City Road,Clear
+ID-1294,Lucknow,26.72806,80.89619,2023-08-03,07:41,Minor,Weather/Low Visibility,Highway,Rain
+ID-1295,Delhi,28.42821,77.28168,2023-10-27,07:46,Minor,Weather/Low Visibility,Highway,Rain
+ID-1296,Jaipur,26.93445,75.85212,2023-09-26,22:19,Fatal,Drunk Driving,Highway,Dust Storm
+ID-1297,Jaipur,26.82497,75.84858,2023-05-20,12:21,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1298,Pune,18.49331,73.817,2023-09-25,15:14,Serious,Over-speeding,Rural Road,Clear
+ID-1299,Lucknow,26.82066,80.91981,2023-12-26,07:53,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1300,Mumbai,19.15955,72.85604,2023-09-18,20:40,Minor,Distracted Driving,Rural Road,Dust Storm
+ID-1301,Mumbai,19.19493,72.81662,2023-09-11,00:37,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1302,Kolkata,22.66525,88.39757,2023-12-08,22:33,Fatal,Over-speeding,Rural Road,Clear
+ID-1303,Lucknow,26.85872,80.99081,2023-10-25,12:23,Serious,Signal Jumping,City Road,Dust Storm
+ID-1304,Madurai,9.80797,78.12942,2023-07-24,16:02,Serious,Signal Jumping,Rural Road,Dust Storm
+ID-1305,Delhi,28.48642,76.89037,2023-07-31,05:58,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1306,Kolkata,22.6366,88.37048,2023-08-23,15:20,Minor,Weather/Low Visibility,Highway,Fog
+ID-1307,Mumbai,19.13124,72.90946,2023-03-30,11:49,Minor,Distracted Driving,City Road,Clear
+ID-1308,Varanasi,25.32328,83.04797,2023-02-16,01:58,Minor,Signal Jumping,City Road,Dust Storm
+ID-1309,Pune,18.55131,73.74043,2023-08-13,14:51,Minor,Weather/Low Visibility,Highway,Rain
+ID-1310,Delhi,28.44459,77.09092,2023-10-14,04:18,Serious,Potholes,City Road,Rain
+ID-1311,Bangalore,12.82801,77.64233,2023-06-24,19:45,Minor,Weather/Low Visibility,City Road,Fog
+ID-1312,Jaipur,26.87705,75.869,2023-06-15,08:05,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1313,Jaipur,26.831,75.89854,2023-05-06,23:14,Serious,Drunk Driving,Rural Road,Dust Storm
+ID-1314,Jaipur,26.85936,75.89292,2023-10-10,21:35,Minor,Weather/Low Visibility,City Road,Rain
+ID-1315,Delhi,28.60743,76.99981,2023-07-06,09:45,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1316,Kolkata,22.6851,88.34694,2023-06-14,12:08,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-1317,Lucknow,26.71932,80.9835,2023-02-23,15:20,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1318,Pune,18.54043,73.8953,2023-01-28,14:53,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1319,Indore,22.61293,75.89916,2023-01-30,22:41,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1320,Delhi,28.42617,77.15943,2023-11-03,17:45,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1321,Nagpur,21.02667,79.01887,2023-12-12,09:44,Fatal,Weather/Low Visibility,Highway,Fog
+ID-1322,Jaipur,26.97519,75.88925,2023-01-04,17:20,Serious,Potholes,Rural Road,Clear
+ID-1323,Delhi,28.70179,77.09372,2023-03-24,12:26,Minor,Signal Jumping,Highway,Rain
+ID-1324,Varanasi,25.35475,83.09792,2023-03-03,17:46,Minor,Distracted Driving,Highway,Clear
+ID-1325,Delhi,28.77846,77.087,2023-08-31,15:44,Serious,Weather/Low Visibility,Highway,Fog
+ID-1326,Kolkata,22.57103,88.44145,2023-07-25,12:16,Serious,Drunk Driving,City Road,Rain
+ID-1327,Delhi,28.6532,76.96986,2023-11-07,14:56,Fatal,Over-speeding,Rural Road,Clear
+ID-1328,Mumbai,19.01194,72.8337,2023-06-06,20:24,Fatal,Over-speeding,Highway,Fog
+ID-1329,Pune,18.52417,73.73636,2023-03-21,23:58,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1330,Pune,18.56919,73.8544,2023-01-20,18:39,Serious,Potholes,City Road,Clear
+ID-1331,Bangalore,13.08051,77.52155,2023-02-21,16:10,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1332,Jaipur,26.92264,75.76748,2023-08-18,16:50,Fatal,Over-speeding,City Road,Clear
+ID-1333,Kolkata,22.54924,88.32828,2023-01-31,07:22,Minor,Over-speeding,Rural Road,Clear
+ID-1334,Jaipur,26.9327,75.76411,2023-09-25,23:34,Serious,Weather/Low Visibility,City Road,Rain
+ID-1335,Hyderabad,17.33961,78.48885,2023-09-09,21:05,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1336,Mumbai,19.04523,72.87776,2023-09-28,03:03,Serious,Weather/Low Visibility,Highway,Rain
+ID-1337,Chennai,13.17008,80.20856,2023-01-15,18:34,Minor,Weather/Low Visibility,City Road,Fog
+ID-1338,Delhi,28.78567,76.82622,2023-04-02,22:33,Fatal,Potholes,Rural Road,Fog
+ID-1339,Hyderabad,17.31973,78.48999,2023-04-15,14:45,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1340,Delhi,28.40624,77.26104,2023-05-04,01:00,Fatal,Signal Jumping,Highway,Fog
+ID-1341,Pune,18.47436,73.86756,2023-11-15,13:15,Serious,Signal Jumping,City Road,Fog
+ID-1342,Kolkata,22.64203,88.48042,2023-05-20,23:58,Fatal,Distracted Driving,City Road,Clear
+ID-1343,Hyderabad,17.46853,78.3379,2023-12-21,18:40,Serious,Distracted Driving,Rural Road,Clear
+ID-1344,Bangalore,12.83867,77.6379,2023-09-08,18:10,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1345,Nagpur,21.1887,78.97695,2023-10-02,17:18,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1346,Bangalore,13.0283,77.57898,2023-03-07,21:12,Serious,Potholes,City Road,Clear
+ID-1347,Mumbai,19.04365,72.82228,2023-12-22,18:48,Minor,Over-speeding,City Road,Rain
+ID-1348,Bangalore,12.93143,77.52855,2023-04-07,22:49,Fatal,Weather/Low Visibility,Highway,Fog
+ID-1349,Bangalore,12.9024,77.69008,2023-11-26,01:57,Serious,Drunk Driving,City Road,Dust Storm
+ID-1350,Bangalore,12.81909,77.53679,2023-01-13,23:28,Serious,Signal Jumping,Highway,Clear
+ID-1351,Lucknow,26.81137,80.82867,2023-07-29,12:04,Serious,Potholes,Rural Road,Clear
+ID-1352,Varanasi,25.3441,83.04482,2023-02-23,08:57,Fatal,Weather/Low Visibility,Highway,Rain
+ID-1353,Pune,18.51254,73.86274,2023-10-16,23:02,Serious,Distracted Driving,Highway,Clear
+ID-1354,Delhi,28.76432,77.26861,2023-07-18,14:39,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1355,Mumbai,18.97501,72.99603,2023-10-02,19:29,Minor,Weather/Low Visibility,Highway,Rain
+ID-1356,Hyderabad,17.4462,78.49261,2023-01-11,13:47,Serious,Weather/Low Visibility,Highway,Fog
+ID-1357,Delhi,28.56415,77.2399,2023-04-17,23:22,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1358,Kolkata,22.69047,88.3927,2023-09-29,17:08,Minor,Drunk Driving,Highway,Rain
+ID-1359,Delhi,28.62735,77.274,2023-08-26,20:57,Minor,Potholes,City Road,Dust Storm
+ID-1360,Kolkata,22.5427,88.32827,2023-11-16,21:19,Fatal,Over-speeding,Highway,Clear
+ID-1361,Hyderabad,17.47798,78.43193,2023-12-22,21:01,Minor,Drunk Driving,Rural Road,Dust Storm
+ID-1362,Chennai,12.982,80.24919,2023-04-12,17:36,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1363,Mumbai,19.16041,72.82611,2023-11-18,22:33,Fatal,Drunk Driving,Highway,Clear
+ID-1364,Delhi,28.40347,77.23112,2023-07-02,12:59,Minor,Weather/Low Visibility,Highway,Rain
+ID-1365,Nashik,19.9132,73.82465,2023-12-27,15:21,Serious,Weather/Low Visibility,City Road,Fog
+ID-1366,Pune,18.51238,73.88016,2023-11-13,01:34,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1367,Madurai,9.99666,78.13799,2023-08-16,17:58,Serious,Over-speeding,Highway,Clear
+ID-1368,Delhi,28.58913,77.03844,2023-08-14,10:59,Serious,Potholes,City Road,Rain
+ID-1369,Pune,18.58932,73.81336,2023-03-11,02:11,Serious,Drunk Driving,Rural Road,Fog
+ID-1370,Lucknow,26.89858,80.95819,2023-12-31,17:18,Minor,Over-speeding,Rural Road,Fog
+ID-1371,Delhi,28.5979,77.11093,2023-05-10,13:54,Minor,Drunk Driving,Rural Road,Fog
+ID-1372,Indore,22.60469,75.76371,2023-06-06,19:44,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1373,Delhi,28.50913,77.29755,2023-10-10,18:21,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1374,Mumbai,19.0721,72.86054,2023-12-22,21:02,Fatal,Weather/Low Visibility,Rural Road,Fog
+ID-1375,Chennai,13.01004,80.20252,2023-06-27,17:08,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1376,Varanasi,25.25633,82.91666,2023-06-13,23:58,Serious,Distracted Driving,Highway,Clear
+ID-1377,Nagpur,21.16125,78.93211,2023-10-20,18:09,Fatal,Drunk Driving,Highway,Clear
+ID-1378,Meerut,28.90193,77.60269,2023-11-17,02:37,Serious,Drunk Driving,Rural Road,Fog
+ID-1379,Bangalore,13.01124,77.5399,2023-02-16,06:45,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1380,Kolkata,22.51,88.31588,2023-04-12,16:30,Fatal,Signal Jumping,Rural Road,Dust Storm
+ID-1381,Pune,18.49384,73.84631,2023-01-04,19:32,Serious,Weather/Low Visibility,Highway,Rain
+ID-1382,Mumbai,19.16345,72.91509,2023-02-08,12:48,Fatal,Drunk Driving,City Road,Rain
+ID-1383,Indore,22.64554,75.77893,2023-11-24,21:32,Minor,Weather/Low Visibility,City Road,Rain
+ID-1384,Nagpur,21.06895,78.97223,2023-03-24,17:18,Fatal,Over-speeding,Highway,Clear
+ID-1385,Kolkata,22.68054,88.31208,2023-01-07,23:28,Minor,Signal Jumping,City Road,Clear
+ID-1386,Chennai,13.1749,80.1723,2023-05-15,18:36,Serious,Weather/Low Visibility,City Road,Fog
+ID-1387,Mumbai,19.14329,72.87409,2023-04-08,22:47,Minor,Drunk Driving,Highway,Rain
+ID-1388,Mumbai,19.16399,72.86487,2023-03-14,03:09,Minor,Signal Jumping,City Road,Dust Storm
+ID-1389,Lucknow,26.85765,80.87629,2023-08-11,15:00,Serious,Weather/Low Visibility,Highway,Rain
+ID-1390,Kolkata,22.53678,88.31897,2023-04-12,03:21,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1391,Mumbai,19.15614,72.85553,2023-08-10,09:31,Serious,Weather/Low Visibility,City Road,Rain
+ID-1392,Delhi,28.4239,77.28072,2023-05-29,17:38,Minor,Drunk Driving,Rural Road,Rain
+ID-1393,Hyderabad,17.46072,78.38327,2023-11-19,17:21,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1394,Delhi,28.45177,76.94095,2023-10-17,17:23,Fatal,Distracted Driving,Highway,Clear
+ID-1395,Delhi,28.548,76.92305,2023-09-01,13:40,Minor,Distracted Driving,Rural Road,Fog
+ID-1396,Nashik,20.03967,73.88037,2023-10-31,16:45,Minor,Weather/Low Visibility,Highway,Rain
+ID-1397,Delhi,28.5879,76.8097,2023-06-14,04:39,Fatal,Over-speeding,City Road,Dust Storm
+ID-1398,Mumbai,19.16727,72.99165,2023-04-09,15:49,Minor,Distracted Driving,City Road,Rain
+ID-1399,Delhi,28.42361,76.92329,2023-11-14,20:52,Minor,Weather/Low Visibility,City Road,Rain
+ID-1400,Bangalore,12.94541,77.56283,2023-11-02,04:59,Serious,Potholes,City Road,Clear
+ID-1401,Delhi,28.69337,77.16775,2023-07-12,10:15,Minor,Distracted Driving,City Road,Clear
+ID-1402,Mumbai,18.96127,72.85922,2023-07-08,17:05,Minor,Weather/Low Visibility,City Road,Rain
+ID-1403,Jaipur,26.91105,75.81877,2023-04-12,21:17,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1404,Pune,18.42571,73.89122,2023-07-08,00:30,Serious,Drunk Driving,Rural Road,Fog
+ID-1405,Jaipur,26.88685,75.76478,2023-05-25,18:41,Serious,Distracted Driving,Rural Road,Clear
+ID-1406,Hyderabad,17.31117,78.44345,2023-03-19,12:08,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-1407,Bangalore,13.0264,77.69446,2023-02-05,06:48,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1408,Varanasi,25.28327,83.05795,2023-04-17,16:52,Minor,Weather/Low Visibility,Highway,Rain
+ID-1409,Bangalore,13.0606,77.54548,2023-01-27,17:01,Minor,Weather/Low Visibility,City Road,Rain
+ID-1410,Mumbai,18.9657,72.84653,2023-07-18,20:20,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1411,Pune,18.45793,73.7047,2023-01-21,15:04,Minor,Drunk Driving,Highway,Clear
+ID-1412,Delhi,28.4918,77.04573,2023-07-08,11:56,Serious,Weather/Low Visibility,City Road,Rain
+ID-1413,Meerut,29.00725,77.78304,2023-07-11,10:35,Minor,Distracted Driving,Highway,Dust Storm
+ID-1414,Indore,22.75083,75.75126,2023-11-30,08:07,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1415,Chennai,13.19032,80.23437,2023-07-18,18:02,Serious,Over-speeding,Highway,Rain
+ID-1416,Nagpur,21.05972,79.10692,2023-01-28,14:29,Minor,Signal Jumping,Rural Road,Rain
+ID-1417,Chennai,13.15307,80.14336,2023-04-03,12:53,Minor,Distracted Driving,City Road,Rain
+ID-1418,Nagpur,21.07771,78.99821,2023-10-15,21:30,Fatal,Potholes,Rural Road,Fog
+ID-1419,Jaipur,26.8497,75.82327,2023-01-06,06:54,Serious,Distracted Driving,City Road,Clear
+ID-1420,Pune,18.48901,73.84575,2023-11-27,12:13,Minor,Drunk Driving,Rural Road,Dust Storm
+ID-1421,Meerut,28.91522,77.6835,2023-03-14,08:19,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1422,Chennai,13.09101,80.29048,2023-02-14,09:07,Serious,Signal Jumping,City Road,Rain
+ID-1423,Varanasi,25.31596,83.01149,2023-02-02,22:30,Minor,Weather/Low Visibility,Highway,Rain
+ID-1424,Meerut,28.90598,77.69948,2023-01-23,09:36,Serious,Signal Jumping,City Road,Clear
+ID-1425,Kolkata,22.64198,88.44377,2023-04-07,12:17,Serious,Drunk Driving,Highway,Dust Storm
+ID-1426,Bangalore,12.81324,77.61264,2023-04-29,17:50,Minor,Signal Jumping,City Road,Clear
+ID-1427,Mumbai,19.00921,72.91961,2023-12-04,16:23,Minor,Distracted Driving,City Road,Rain
+ID-1428,Pune,18.46936,73.73479,2023-05-30,08:49,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1429,Delhi,28.54413,77.01586,2023-07-03,13:59,Minor,Signal Jumping,City Road,Dust Storm
+ID-1430,Pune,18.57236,73.73286,2023-11-03,08:09,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1431,Pune,18.56325,73.74116,2023-02-27,21:56,Minor,Potholes,Rural Road,Clear
+ID-1432,Kolkata,22.52076,88.30081,2023-12-17,13:14,Minor,Weather/Low Visibility,City Road,Fog
+ID-1433,Chennai,13.11956,80.25938,2023-07-21,16:52,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1434,Bangalore,13.02547,77.52129,2023-12-22,05:53,Serious,Drunk Driving,Rural Road,Clear
+ID-1435,Bangalore,13.03998,77.59904,2023-07-27,19:48,Fatal,Distracted Driving,Rural Road,Rain
+ID-1436,Pune,18.59031,73.7382,2023-04-06,18:13,Serious,Signal Jumping,Highway,Clear
+ID-1437,Hyderabad,17.35069,78.4902,2023-12-24,03:00,Serious,Drunk Driving,City Road,Fog
+ID-1438,Chennai,13.02856,80.21794,2023-12-14,16:02,Minor,Distracted Driving,City Road,Clear
+ID-1439,Mumbai,19.00545,72.85116,2023-12-19,03:27,Serious,Drunk Driving,Rural Road,Fog
+ID-1440,Pune,18.40773,73.79749,2023-02-12,22:05,Minor,Drunk Driving,City Road,Clear
+ID-1441,Nagpur,21.06748,79.08108,2023-12-27,14:35,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1442,Madurai,9.80206,78.02568,2023-09-15,16:04,Serious,Drunk Driving,City Road,Dust Storm
+ID-1443,Mumbai,19.01645,72.985,2023-03-02,11:37,Serious,Signal Jumping,Highway,Dust Storm
+ID-1444,Bangalore,12.88802,77.53255,2023-12-18,14:07,Minor,Drunk Driving,Highway,Clear
+ID-1445,Chennai,13.04464,80.14981,2023-07-12,19:49,Fatal,Weather/Low Visibility,Highway,Fog
+ID-1446,Delhi,28.74623,77.09178,2023-12-25,07:51,Fatal,Over-speeding,Highway,Clear
+ID-1447,Mumbai,19.12211,72.98933,2023-12-24,06:23,Serious,Signal Jumping,Rural Road,Clear
+ID-1448,Nagpur,21.17954,79.01049,2023-05-23,04:02,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1449,Kolkata,22.55256,88.48973,2023-05-05,22:58,Fatal,Drunk Driving,Highway,Clear
+ID-1450,Delhi,28.62817,77.13232,2023-05-15,11:35,Minor,Over-speeding,Rural Road,Clear
+ID-1451,Hyderabad,17.41642,78.32317,2023-03-10,13:19,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1452,Jaipur,26.90204,75.70243,2023-01-05,22:33,Minor,Distracted Driving,City Road,Rain
+ID-1453,Lucknow,26.86025,80.83773,2023-03-30,09:06,Minor,Signal Jumping,Highway,Clear
+ID-1454,Delhi,28.45078,77.05493,2023-03-26,09:36,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1455,Mumbai,18.9676,72.85249,2023-07-22,09:49,Fatal,Over-speeding,Rural Road,Rain
+ID-1456,Indore,22.67474,75.78997,2023-09-18,13:39,Minor,Weather/Low Visibility,Highway,Rain
+ID-1457,Mumbai,18.98629,72.95462,2023-10-15,21:04,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1458,Bangalore,12.88322,77.55617,2023-06-17,14:38,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1459,Meerut,29.05148,77.7679,2023-11-03,23:38,Minor,Weather/Low Visibility,City Road,Rain
+ID-1460,Nagpur,21.19505,79.05982,2023-05-18,20:40,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1461,Varanasi,25.26261,83.08116,2023-04-09,13:19,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1462,Lucknow,26.78477,80.93182,2023-12-18,17:12,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1463,Hyderabad,17.36423,78.45961,2023-05-30,13:46,Serious,Weather/Low Visibility,Highway,Rain
+ID-1464,Kolkata,22.62669,88.36747,2023-09-05,19:25,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1465,Chennai,13.00242,80.15095,2023-10-09,08:52,Serious,Over-speeding,Highway,Clear
+ID-1466,Nagpur,21.05096,79.04852,2023-08-04,22:36,Serious,Drunk Driving,Highway,Fog
+ID-1467,Lucknow,26.79791,80.82162,2023-04-03,18:08,Minor,Weather/Low Visibility,Highway,Fog
+ID-1468,Mumbai,18.92108,72.82149,2023-12-18,18:59,Serious,Weather/Low Visibility,Highway,Rain
+ID-1469,Bangalore,12.96997,77.50197,2023-08-09,02:18,Serious,Drunk Driving,Highway,Rain
+ID-1470,Delhi,28.50669,77.07631,2023-06-12,07:37,Serious,Weather/Low Visibility,City Road,Rain
+ID-1471,Nashik,20.02326,73.89089,2023-09-06,17:17,Serious,Over-speeding,Highway,Clear
+ID-1472,Indore,22.64419,75.7919,2023-01-02,20:06,Serious,Weather/Low Visibility,City Road,Fog
+ID-1473,Varanasi,25.31994,82.97734,2023-12-31,18:26,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1474,Hyderabad,17.3769,78.42301,2023-12-11,20:13,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1475,Delhi,28.40829,77.05378,2023-03-15,16:23,Minor,Signal Jumping,Rural Road,Clear
+ID-1476,Nashik,20.06739,73.83666,2023-06-30,09:20,Minor,Weather/Low Visibility,Highway,Fog
+ID-1477,Bangalore,13.06954,77.57589,2023-11-27,22:15,Minor,Signal Jumping,City Road,Clear
+ID-1478,Nagpur,21.00438,79.0715,2023-08-17,21:27,Serious,Distracted Driving,City Road,Clear
+ID-1479,Indore,22.66965,75.75382,2023-10-27,09:14,Minor,Signal Jumping,Highway,Rain
+ID-1480,Lucknow,26.77291,80.95214,2023-12-23,18:39,Serious,Potholes,City Road,Clear
+ID-1481,Nashik,19.91585,73.8864,2023-08-12,07:54,Fatal,Weather/Low Visibility,Highway,Rain
+ID-1482,Jaipur,26.83333,75.71336,2023-04-01,12:41,Minor,Distracted Driving,City Road,Dust Storm
+ID-1483,Chennai,12.97087,80.26155,2023-02-21,10:04,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1484,Pune,18.49251,73.85217,2023-04-06,07:59,Minor,Drunk Driving,City Road,Clear
+ID-1485,Hyderabad,17.47108,78.45327,2023-01-30,22:57,Fatal,Drunk Driving,Highway,Rain
+ID-1486,Indore,22.62646,75.87234,2023-08-21,21:15,Minor,Drunk Driving,Rural Road,Clear
+ID-1487,Delhi,28.49929,77.12007,2023-05-28,19:00,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1488,Jaipur,26.91006,75.84525,2023-11-07,17:22,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1489,Delhi,28.56307,77.05158,2023-11-04,12:04,Minor,Distracted Driving,Highway,Fog
+ID-1490,Delhi,28.56497,76.98797,2023-01-09,21:12,Minor,Drunk Driving,Rural Road,Dust Storm
+ID-1491,Kolkata,22.58999,88.41809,2023-05-06,07:25,Serious,Drunk Driving,Highway,Clear
+ID-1492,Varanasi,25.38073,82.95058,2023-04-15,09:23,Minor,Weather/Low Visibility,City Road,Rain
+ID-1493,Chennai,12.97361,80.12911,2023-06-29,06:03,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1494,Pune,18.41562,73.75879,2023-09-03,18:59,Minor,Weather/Low Visibility,City Road,Fog
+ID-1495,Bangalore,13.0766,77.53319,2023-05-19,17:35,Serious,Over-speeding,Rural Road,Clear
+ID-1496,Nashik,19.94374,73.80422,2023-11-10,15:51,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1497,Delhi,28.54719,77.20061,2023-09-21,21:27,Serious,Over-speeding,Highway,Clear
+ID-1498,Delhi,28.55117,77.13031,2023-03-15,23:17,Fatal,Drunk Driving,Highway,Rain
+ID-1499,Chennai,12.96607,80.1088,2023-04-10,13:36,Minor,Weather/Low Visibility,City Road,Rain
+ID-1500,Indore,22.65103,75.88321,2023-09-05,18:16,Serious,Over-speeding,City Road,Rain
+ID-1501,Hyderabad,17.33312,78.43452,2023-06-25,06:51,Minor,Potholes,City Road,Fog
+ID-1502,Hyderabad,17.35162,78.41171,2023-09-27,17:20,Minor,Drunk Driving,Rural Road,Fog
+ID-1503,Meerut,28.94906,77.76299,2023-06-03,14:32,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1504,Bangalore,12.8901,77.67263,2023-04-23,00:54,Serious,Drunk Driving,Highway,Dust Storm
+ID-1505,Chennai,13.05175,80.18253,2023-02-11,09:19,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-1506,Madurai,9.98568,78.01326,2023-08-10,21:52,Minor,Drunk Driving,City Road,Dust Storm
+ID-1507,Mumbai,19.00014,72.87408,2023-07-22,07:59,Serious,Weather/Low Visibility,City Road,Rain
+ID-1508,Madurai,9.84702,78.04865,2023-10-31,13:20,Fatal,Over-speeding,Highway,Clear
+ID-1509,Hyderabad,17.44749,78.33001,2023-03-19,12:41,Serious,Over-speeding,City Road,Clear
+ID-1510,Kolkata,22.53551,88.3267,2023-12-08,23:22,Fatal,Drunk Driving,Highway,Clear
+ID-1511,Delhi,28.52391,76.84999,2023-04-09,22:00,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1512,Mumbai,19.08463,72.90522,2023-11-07,04:29,Serious,Distracted Driving,Rural Road,Rain
+ID-1513,Nagpur,21.10298,79.04892,2023-06-23,14:25,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-1514,Jaipur,26.8905,75.89034,2023-07-25,17:52,Minor,Weather/Low Visibility,City Road,Rain
+ID-1515,Nashik,19.94211,73.79226,2023-10-28,05:03,Fatal,Over-speeding,Highway,Rain
+ID-1516,Hyderabad,17.44455,78.3565,2023-09-04,22:15,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1517,Meerut,29.03433,77.74588,2023-01-18,21:41,Minor,Weather/Low Visibility,City Road,Rain
+ID-1518,Meerut,28.91321,77.60628,2023-12-04,21:29,Serious,Weather/Low Visibility,City Road,Fog
+ID-1519,Bangalore,12.89807,77.69334,2023-12-25,03:55,Serious,Drunk Driving,Highway,Clear
+ID-1520,Mumbai,19.02474,72.89738,2023-09-20,19:15,Serious,Potholes,City Road,Dust Storm
+ID-1521,Indore,22.74416,75.78357,2023-11-11,00:21,Serious,Weather/Low Visibility,Highway,Fog
+ID-1522,Mumbai,19.19078,72.84034,2023-09-16,08:54,Fatal,Distracted Driving,Rural Road,Dust Storm
+ID-1523,Mumbai,19.08374,72.92244,2023-10-30,12:46,Serious,Potholes,Rural Road,Fog
+ID-1524,Chennai,13.03693,80.1569,2023-02-02,16:50,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1525,Madurai,9.92175,78.04619,2023-06-03,13:16,Serious,Signal Jumping,Highway,Clear
+ID-1526,Delhi,28.66737,77.08978,2023-01-21,22:14,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-1527,Bangalore,13.08759,77.66048,2023-09-14,10:01,Serious,Signal Jumping,Rural Road,Fog
+ID-1528,Mumbai,19.04899,72.91604,2023-03-01,20:49,Fatal,Drunk Driving,Rural Road,Dust Storm
+ID-1529,Kolkata,22.53545,88.43122,2023-11-28,11:21,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-1530,Madurai,9.98622,78.1462,2023-08-01,11:16,Minor,Drunk Driving,Highway,Dust Storm
+ID-1531,Pune,18.47229,73.85302,2023-11-24,02:35,Serious,Over-speeding,Highway,Clear
+ID-1532,Mumbai,18.901,72.84791,2023-03-04,21:21,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1533,Indore,22.7336,75.75566,2023-07-18,00:11,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1534,Lucknow,26.86088,80.95866,2023-03-24,19:21,Minor,Potholes,City Road,Rain
+ID-1535,Nagpur,21.07028,79.00205,2023-07-26,22:49,Serious,Drunk Driving,Highway,Rain
+ID-1536,Bangalore,12.97591,77.63947,2023-08-23,07:35,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1537,Chennai,13.16999,80.10728,2023-12-07,16:01,Serious,Distracted Driving,City Road,Fog
+ID-1538,Jaipur,26.80149,75.76303,2023-09-24,06:38,Serious,Potholes,Rural Road,Clear
+ID-1539,Hyderabad,17.32715,78.39887,2023-01-17,18:39,Minor,Weather/Low Visibility,Highway,Fog
+ID-1540,Kolkata,22.66443,88.35869,2023-12-23,06:08,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1541,Delhi,28.73989,77.29066,2023-06-03,12:19,Serious,Distracted Driving,Highway,Clear
+ID-1542,Delhi,28.5311,77.1559,2023-02-21,10:54,Minor,Distracted Driving,Highway,Clear
+ID-1543,Varanasi,25.39493,83.0536,2023-10-26,13:13,Fatal,Weather/Low Visibility,Highway,Rain
+ID-1544,Mumbai,19.15244,72.91004,2023-10-23,17:59,Minor,Signal Jumping,Rural Road,Fog
+ID-1545,Delhi,28.44017,77.00182,2023-06-20,18:42,Fatal,Distracted Driving,Highway,Clear
+ID-1546,Meerut,28.91375,77.7898,2023-08-29,12:02,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1547,Bangalore,12.84764,77.68793,2023-11-29,19:11,Serious,Potholes,Rural Road,Clear
+ID-1548,Delhi,28.7249,77.03516,2023-12-16,19:47,Serious,Weather/Low Visibility,City Road,Rain
+ID-1549,Kolkata,22.6046,88.35466,2023-01-31,22:15,Serious,Drunk Driving,Rural Road,Rain
+ID-1550,Bangalore,12.95833,77.56885,2023-05-18,15:18,Minor,Drunk Driving,Rural Road,Clear
+ID-1551,Bangalore,12.92607,77.62967,2023-04-08,06:37,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1552,Nagpur,21.03687,79.09225,2023-01-21,13:45,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-1553,Mumbai,18.92166,72.87894,2023-11-30,08:00,Serious,Drunk Driving,Rural Road,Clear
+ID-1554,Kolkata,22.50275,88.32139,2023-11-28,19:46,Minor,Over-speeding,City Road,Fog
+ID-1555,Bangalore,12.91362,77.60377,2023-11-22,19:54,Minor,Weather/Low Visibility,City Road,Rain
+ID-1556,Nagpur,21.17399,79.15743,2023-08-12,07:17,Fatal,Weather/Low Visibility,Highway,Fog
+ID-1557,Nashik,19.93172,73.85628,2023-04-15,15:18,Minor,Over-speeding,City Road,Clear
+ID-1558,Delhi,28.51338,76.88853,2023-08-21,18:37,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1559,Delhi,28.48037,77.23192,2023-04-23,19:30,Serious,Weather/Low Visibility,Highway,Rain
+ID-1560,Chennai,13.09357,80.17692,2023-05-18,04:07,Fatal,Weather/Low Visibility,Rural Road,Fog
+ID-1561,Bangalore,12.82965,77.6724,2023-02-02,04:01,Minor,Distracted Driving,Highway,Clear
+ID-1562,Delhi,28.75951,76.92605,2023-09-29,16:36,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1563,Bangalore,13.08759,77.56548,2023-01-01,22:21,Fatal,Drunk Driving,Highway,Rain
+ID-1564,Varanasi,25.35283,82.95023,2023-12-09,10:25,Minor,Weather/Low Visibility,Highway,Fog
+ID-1565,Pune,18.52492,73.87805,2023-05-04,20:30,Minor,Weather/Low Visibility,City Road,Fog
+ID-1566,Mumbai,19.18725,72.80329,2023-07-30,06:14,Minor,Weather/Low Visibility,City Road,Rain
+ID-1567,Chennai,13.19879,80.11452,2023-04-24,23:08,Fatal,Drunk Driving,Highway,Rain
+ID-1568,Varanasi,25.20234,83.0175,2023-08-19,22:56,Minor,Drunk Driving,City Road,Clear
+ID-1569,Nashik,20.02235,73.7187,2023-05-04,02:40,Serious,Drunk Driving,Rural Road,Dust Storm
+ID-1570,Hyderabad,17.45147,78.44573,2023-02-15,07:06,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1571,Madurai,9.88542,78.06979,2023-01-14,16:10,Serious,Signal Jumping,Rural Road,Clear
+ID-1572,Varanasi,25.31434,83.03346,2023-01-24,13:47,Serious,Signal Jumping,Highway,Rain
+ID-1573,Bangalore,12.85929,77.559,2023-03-10,19:39,Minor,Over-speeding,Rural Road,Clear
+ID-1574,Lucknow,26.88245,80.84083,2023-12-19,21:09,Minor,Weather/Low Visibility,City Road,Rain
+ID-1575,Indore,22.63428,75.70703,2023-03-22,15:05,Minor,Drunk Driving,Highway,Clear
+ID-1576,Varanasi,25.28301,82.98692,2023-10-12,23:33,Serious,Weather/Low Visibility,City Road,Fog
+ID-1577,Indore,22.70657,75.81346,2023-08-16,13:53,Fatal,Distracted Driving,City Road,Fog
+ID-1578,Chennai,13.17786,80.25966,2023-10-02,20:24,Serious,Over-speeding,Rural Road,Clear
+ID-1579,Lucknow,26.85932,80.82536,2023-02-27,17:34,Minor,Potholes,City Road,Dust Storm
+ID-1580,Mumbai,19.0742,72.94752,2023-04-29,19:34,Minor,Weather/Low Visibility,Highway,Rain
+ID-1581,Mumbai,19.08207,72.97688,2023-09-26,10:21,Minor,Potholes,City Road,Clear
+ID-1582,Hyderabad,17.35223,78.40978,2023-04-16,06:54,Minor,Drunk Driving,Rural Road,Rain
+ID-1583,Jaipur,26.90359,75.82497,2023-02-11,23:34,Serious,Drunk Driving,City Road,Fog
+ID-1584,Nashik,20.06945,73.70599,2023-01-16,17:01,Serious,Over-speeding,Highway,Fog
+ID-1585,Mumbai,19.07575,72.81653,2023-10-03,12:50,Fatal,Signal Jumping,Highway,Fog
+ID-1586,Mumbai,19.12454,72.92097,2023-12-11,05:24,Serious,Weather/Low Visibility,City Road,Fog
+ID-1587,Mumbai,18.92551,72.96255,2023-05-28,22:30,Fatal,Over-speeding,Highway,Clear
+ID-1588,Pune,18.52433,73.70849,2023-08-28,09:27,Minor,Over-speeding,Rural Road,Clear
+ID-1589,Kolkata,22.50977,88.43241,2023-02-15,23:21,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1590,Meerut,28.92459,77.68259,2023-12-05,13:23,Serious,Over-speeding,City Road,Fog
+ID-1591,Kolkata,22.65703,88.37507,2023-08-29,00:40,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1592,Delhi,28.64568,77.03001,2023-09-27,16:54,Minor,Weather/Low Visibility,Highway,Rain
+ID-1593,Pune,18.5604,73.88563,2023-10-12,16:56,Serious,Potholes,City Road,Clear
+ID-1594,Indore,22.72512,75.75173,2023-05-08,16:31,Serious,Potholes,City Road,Rain
+ID-1595,Delhi,28.6591,76.99985,2023-12-23,18:09,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1596,Mumbai,19.07143,72.9339,2023-01-11,15:10,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1597,Jaipur,26.94445,75.86901,2023-05-09,12:49,Fatal,Over-speeding,Highway,Dust Storm
+ID-1598,Mumbai,19.19466,72.87798,2023-07-26,08:11,Minor,Weather/Low Visibility,City Road,Fog
+ID-1599,Pune,18.43739,73.73833,2023-07-13,18:30,Minor,Distracted Driving,City Road,Dust Storm
+ID-1600,Chennai,13.05389,80.29199,2023-02-25,19:46,Minor,Distracted Driving,Rural Road,Rain
+ID-1601,Varanasi,25.30375,83.06608,2023-11-09,17:29,Serious,Signal Jumping,Rural Road,Clear
+ID-1602,Delhi,28.6753,76.81877,2023-04-15,20:15,Minor,Weather/Low Visibility,City Road,Rain
+ID-1603,Pune,18.50524,73.81742,2023-03-14,15:14,Serious,Over-speeding,Highway,Clear
+ID-1604,Mumbai,19.03642,72.89329,2023-05-04,12:12,Minor,Potholes,Rural Road,Clear
+ID-1605,Varanasi,25.33576,82.99852,2023-01-21,20:14,Minor,Over-speeding,Rural Road,Clear
+ID-1606,Lucknow,26.89124,80.98363,2023-02-18,15:24,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1607,Kolkata,22.60489,88.30168,2023-02-24,18:37,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1608,Hyderabad,17.46752,78.40477,2023-08-30,17:21,Serious,Signal Jumping,City Road,Dust Storm
+ID-1609,Hyderabad,17.46461,78.41921,2023-04-20,09:43,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1610,Mumbai,18.94018,72.81159,2023-09-27,02:55,Fatal,Drunk Driving,Highway,Fog
+ID-1611,Kolkata,22.5794,88.39547,2023-03-29,13:12,Serious,Signal Jumping,Highway,Rain
+ID-1612,Pune,18.50117,73.7147,2023-02-09,14:26,Serious,Over-speeding,Highway,Fog
+ID-1613,Madurai,9.85879,78.10394,2023-01-11,12:40,Serious,Distracted Driving,City Road,Rain
+ID-1614,Lucknow,26.78573,80.99326,2023-03-01,05:06,Serious,Signal Jumping,City Road,Rain
+ID-1615,Bangalore,12.80539,77.50843,2023-07-19,19:23,Fatal,Distracted Driving,Highway,Clear
+ID-1616,Pune,18.4308,73.79113,2023-04-22,18:11,Minor,Weather/Low Visibility,City Road,Fog
+ID-1617,Meerut,28.98596,77.71006,2023-09-06,12:40,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1618,Mumbai,19.05735,72.85276,2023-10-11,12:19,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1619,Delhi,28.49497,77.23142,2023-01-24,11:26,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1620,Mumbai,19.11716,72.81068,2023-01-10,08:44,Minor,Potholes,Rural Road,Clear
+ID-1621,Lucknow,26.77365,80.91289,2023-04-04,05:36,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1622,Delhi,28.46624,77.17811,2023-11-16,05:26,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1623,Delhi,28.62108,77.10233,2023-08-22,04:43,Serious,Weather/Low Visibility,Highway,Fog
+ID-1624,Indore,22.67324,75.77682,2023-02-22,07:36,Serious,Distracted Driving,Rural Road,Clear
+ID-1625,Delhi,28.75494,77.08474,2023-04-25,13:11,Minor,Weather/Low Visibility,City Road,Rain
+ID-1626,Bangalore,12.96795,77.68751,2023-08-31,17:35,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1627,Bangalore,13.02914,77.69447,2023-04-21,00:47,Serious,Drunk Driving,Rural Road,Rain
+ID-1628,Varanasi,25.33251,83.08157,2023-10-15,19:42,Serious,Over-speeding,Highway,Fog
+ID-1629,Kolkata,22.67746,88.32356,2023-06-24,22:27,Serious,Weather/Low Visibility,City Road,Rain
+ID-1630,Hyderabad,17.43531,78.38683,2023-07-13,16:36,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1631,Bangalore,13.04876,77.50299,2023-12-18,12:53,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1632,Delhi,28.53474,77.26191,2023-10-05,13:25,Minor,Drunk Driving,Rural Road,Rain
+ID-1633,Kolkata,22.56215,88.40181,2023-04-25,12:30,Serious,Over-speeding,Rural Road,Clear
+ID-1634,Bangalore,13.05566,77.58685,2023-07-18,18:07,Minor,Weather/Low Visibility,Highway,Rain
+ID-1635,Hyderabad,17.33867,78.42238,2023-01-29,00:33,Fatal,Weather/Low Visibility,Highway,Fog
+ID-1636,Varanasi,25.37157,82.96428,2023-04-11,13:33,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1637,Delhi,28.45746,77.16499,2023-09-11,20:01,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1638,Pune,18.43246,73.84286,2023-07-30,07:48,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1639,Lucknow,26.70389,80.95973,2023-08-31,17:52,Minor,Signal Jumping,Highway,Clear
+ID-1640,Kolkata,22.63986,88.42036,2023-10-01,22:43,Fatal,Drunk Driving,Highway,Clear
+ID-1641,Delhi,28.58155,76.84459,2023-03-29,14:59,Serious,Weather/Low Visibility,City Road,Fog
+ID-1642,Lucknow,26.80894,80.81583,2023-02-10,23:06,Fatal,Drunk Driving,Highway,Rain
+ID-1643,Mumbai,19.02657,72.96503,2023-10-07,21:31,Minor,Weather/Low Visibility,City Road,Fog
+ID-1644,Kolkata,22.54365,88.31487,2023-10-31,05:16,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-1645,Hyderabad,17.32817,78.37912,2023-05-26,06:17,Minor,Weather/Low Visibility,City Road,Rain
+ID-1646,Delhi,28.50005,76.85081,2023-08-26,10:57,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1647,Chennai,13.17455,80.11504,2023-10-29,12:57,Fatal,Distracted Driving,Highway,Rain
+ID-1648,Delhi,28.50444,77.26529,2023-09-09,16:21,Minor,Signal Jumping,Highway,Dust Storm
+ID-1649,Nashik,20.07332,73.74633,2023-10-06,04:11,Serious,Weather/Low Visibility,City Road,Fog
+ID-1650,Chennai,12.96867,80.25005,2023-10-06,23:37,Fatal,Signal Jumping,City Road,Dust Storm
+ID-1651,Varanasi,25.29071,83.04002,2023-03-17,21:33,Minor,Weather/Low Visibility,Highway,Fog
+ID-1652,Jaipur,26.82873,75.83178,2023-06-17,13:22,Minor,Signal Jumping,Highway,Rain
+ID-1653,Bangalore,13.00362,77.63191,2023-02-23,16:59,Serious,Weather/Low Visibility,City Road,Fog
+ID-1654,Madurai,9.9465,78.10457,2023-10-18,06:20,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1655,Lucknow,26.81151,80.90685,2023-11-08,05:39,Serious,Potholes,Rural Road,Fog
+ID-1656,Bangalore,13.08593,77.52537,2023-04-28,12:44,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1657,Kolkata,22.63828,88.40147,2023-11-07,20:56,Minor,Distracted Driving,Rural Road,Clear
+ID-1658,Chennai,12.9252,80.16936,2023-01-19,21:51,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1659,Nashik,19.93581,73.87904,2023-10-04,09:12,Minor,Signal Jumping,Highway,Rain
+ID-1660,Mumbai,19.0356,72.87609,2023-12-06,12:40,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1661,Chennai,13.01534,80.12998,2023-03-20,22:31,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1662,Lucknow,26.84995,80.95811,2023-07-24,08:00,Fatal,Signal Jumping,Rural Road,Rain
+ID-1663,Bangalore,12.87124,77.51037,2023-07-19,17:48,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1664,Bangalore,12.81149,77.6346,2023-06-25,16:49,Minor,Weather/Low Visibility,City Road,Fog
+ID-1665,Nashik,20.00472,73.79214,2023-11-10,07:52,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1666,Kolkata,22.69033,88.43671,2023-04-24,14:53,Minor,Drunk Driving,City Road,Clear
+ID-1667,Chennai,13.02147,80.15215,2023-06-22,14:34,Fatal,Signal Jumping,Highway,Dust Storm
+ID-1668,Jaipur,26.86867,75.73354,2023-12-22,22:14,Fatal,Drunk Driving,Rural Road,Fog
+ID-1669,Bangalore,12.83067,77.67209,2023-07-09,23:25,Serious,Distracted Driving,Rural Road,Clear
+ID-1670,Hyderabad,17.35257,78.37726,2023-09-07,22:20,Serious,Drunk Driving,City Road,Fog
+ID-1671,Nagpur,21.12563,78.93599,2023-02-27,18:59,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1672,Hyderabad,17.40431,78.44094,2023-07-06,14:05,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1673,Delhi,28.51746,76.85376,2023-03-30,19:46,Minor,Weather/Low Visibility,City Road,Rain
+ID-1674,Pune,18.56918,73.8049,2023-01-09,15:02,Minor,Distracted Driving,Highway,Fog
+ID-1675,Mumbai,19.09299,72.82182,2023-07-16,19:29,Minor,Potholes,Rural Road,Clear
+ID-1676,Delhi,28.63669,77.03644,2023-09-02,19:48,Minor,Weather/Low Visibility,City Road,Fog
+ID-1677,Hyderabad,17.46894,78.40536,2023-06-19,19:59,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1678,Delhi,28.52978,77.18646,2023-05-24,09:28,Minor,Weather/Low Visibility,Highway,Rain
+ID-1679,Hyderabad,17.36758,78.36746,2023-06-23,11:40,Serious,Signal Jumping,City Road,Dust Storm
+ID-1680,Bangalore,12.8952,77.64254,2023-06-05,22:08,Serious,Distracted Driving,Highway,Clear
+ID-1681,Meerut,28.98562,77.66646,2023-06-07,12:09,Serious,Distracted Driving,Rural Road,Rain
+ID-1682,Nashik,19.94642,73.89169,2023-06-12,12:55,Minor,Weather/Low Visibility,Highway,Rain
+ID-1683,Meerut,28.99611,77.70436,2023-04-04,05:47,Fatal,Signal Jumping,City Road,Clear
+ID-1684,Lucknow,26.76065,80.97022,2023-11-14,10:37,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1685,Delhi,28.74014,77.29523,2023-08-14,01:50,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1686,Delhi,28.45189,77.22298,2023-04-18,13:18,Serious,Over-speeding,Highway,Rain
+ID-1687,Chennai,12.93176,80.12675,2023-11-27,00:09,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1688,Delhi,28.40325,76.84493,2023-04-15,21:10,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1689,Pune,18.43301,73.79433,2023-04-01,12:29,Serious,Weather/Low Visibility,City Road,Fog
+ID-1690,Nashik,19.95207,73.89466,2023-07-14,14:08,Minor,Drunk Driving,City Road,Clear
+ID-1691,Madurai,9.82849,78.01805,2023-12-03,21:57,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1692,Hyderabad,17.31062,78.47381,2023-03-31,09:30,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1693,Delhi,28.57716,77.1586,2023-01-15,17:11,Serious,Weather/Low Visibility,Highway,Rain
+ID-1694,Bangalore,13.08656,77.68193,2023-08-07,15:06,Minor,Distracted Driving,Rural Road,Clear
+ID-1695,Delhi,28.52128,77.07657,2023-07-06,13:41,Fatal,Signal Jumping,Rural Road,Rain
+ID-1696,Mumbai,19.06205,72.86404,2023-11-27,15:31,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1697,Mumbai,19.01792,72.84943,2023-05-10,14:55,Fatal,Potholes,Rural Road,Dust Storm
+ID-1698,Bangalore,12.83494,77.67865,2023-10-20,18:11,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1699,Bangalore,12.89933,77.63334,2023-02-27,16:46,Minor,Drunk Driving,Rural Road,Dust Storm
+ID-1700,Delhi,28.53075,77.08979,2023-01-15,19:09,Minor,Signal Jumping,Highway,Clear
+ID-1701,Delhi,28.71729,76.99857,2023-01-20,06:11,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1702,Pune,18.56217,73.8372,2023-10-19,03:55,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1703,Chennai,13.11149,80.17444,2023-10-01,19:40,Fatal,Over-speeding,Highway,Clear
+ID-1704,Meerut,29.0956,77.64726,2023-10-21,11:54,Minor,Distracted Driving,City Road,Clear
+ID-1705,Pune,18.41328,73.86704,2023-02-17,17:57,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-1706,Meerut,29.05584,77.74595,2023-02-17,23:01,Serious,Weather/Low Visibility,City Road,Rain
+ID-1707,Mumbai,19.05341,72.81134,2023-02-12,16:30,Minor,Drunk Driving,Highway,Dust Storm
+ID-1708,Hyderabad,17.32303,78.37956,2023-04-17,19:07,Minor,Drunk Driving,Rural Road,Clear
+ID-1709,Chennai,13.1772,80.29202,2023-02-28,19:03,Serious,Distracted Driving,Highway,Clear
+ID-1710,Chennai,12.93381,80.18054,2023-01-17,12:39,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-1711,Nagpur,21.14852,79.05875,2023-04-20,13:47,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1712,Pune,18.47606,73.74168,2023-12-07,13:41,Minor,Distracted Driving,Highway,Clear
+ID-1713,Mumbai,19.12931,72.85641,2023-10-13,06:50,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1714,Mumbai,19.17658,72.97197,2023-11-02,04:09,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1715,Hyderabad,17.46465,78.33873,2023-02-03,17:53,Minor,Signal Jumping,Highway,Clear
+ID-1716,Pune,18.54313,73.81377,2023-01-09,22:31,Serious,Drunk Driving,City Road,Rain
+ID-1717,Nashik,19.98477,73.7718,2023-03-08,14:19,Minor,Drunk Driving,City Road,Clear
+ID-1718,Chennai,13.18245,80.27762,2023-01-28,01:59,Serious,Drunk Driving,City Road,Clear
+ID-1719,Chennai,12.96924,80.19897,2023-08-15,22:03,Serious,Signal Jumping,City Road,Clear
+ID-1720,Varanasi,25.31816,82.98247,2023-02-24,22:41,Serious,Drunk Driving,City Road,Fog
+ID-1721,Bangalore,13.06358,77.62635,2023-05-27,23:55,Minor,Weather/Low Visibility,Highway,Rain
+ID-1722,Chennai,13.17239,80.18111,2023-08-05,17:23,Minor,Distracted Driving,City Road,Clear
+ID-1723,Jaipur,26.88856,75.83541,2023-03-30,08:53,Minor,Drunk Driving,City Road,Fog
+ID-1724,Delhi,28.45474,77.20504,2023-10-12,03:02,Serious,Drunk Driving,Rural Road,Clear
+ID-1725,Bangalore,12.86217,77.66122,2023-08-19,16:06,Serious,Weather/Low Visibility,Highway,Fog
+ID-1726,Bangalore,12.92714,77.50852,2023-07-07,10:42,Serious,Signal Jumping,Highway,Clear
+ID-1727,Meerut,28.9061,77.74396,2023-04-11,12:05,Serious,Potholes,City Road,Clear
+ID-1728,Pune,18.49059,73.7493,2023-01-25,20:05,Serious,Distracted Driving,Rural Road,Fog
+ID-1729,Jaipur,26.89841,75.7399,2023-01-13,23:12,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1730,Delhi,28.67055,77.02341,2023-01-16,20:31,Fatal,Drunk Driving,Rural Road,Clear
+ID-1731,Pune,18.40109,73.73979,2023-08-14,21:10,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1732,Delhi,28.45957,76.97662,2023-09-01,19:44,Serious,Over-speeding,Highway,Clear
+ID-1733,Mumbai,19.0209,72.88511,2023-02-04,08:01,Minor,Over-speeding,City Road,Clear
+ID-1734,Delhi,28.63541,77.13327,2023-12-02,08:47,Serious,Distracted Driving,Rural Road,Rain
+ID-1735,Kolkata,22.61041,88.46411,2023-05-19,17:44,Fatal,Potholes,City Road,Clear
+ID-1736,Bangalore,12.87479,77.6995,2023-11-09,08:16,Serious,Potholes,Rural Road,Clear
+ID-1737,Chennai,12.98929,80.26603,2023-11-24,22:31,Serious,Drunk Driving,Highway,Clear
+ID-1738,Bangalore,12.93171,77.52406,2023-05-30,16:47,Minor,Over-speeding,City Road,Dust Storm
+ID-1739,Varanasi,25.22969,82.99699,2023-05-08,22:17,Serious,Drunk Driving,City Road,Rain
+ID-1740,Bangalore,13.00667,77.60308,2023-02-28,10:36,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1741,Nagpur,21.16451,78.97923,2023-08-28,18:13,Minor,Over-speeding,Rural Road,Dust Storm
+ID-1742,Bangalore,12.83171,77.58215,2023-11-19,23:01,Serious,Signal Jumping,Highway,Fog
+ID-1743,Delhi,28.6183,77.28662,2023-11-11,23:44,Fatal,Drunk Driving,Highway,Dust Storm
+ID-1744,Chennai,13.03334,80.10448,2023-12-05,17:18,Minor,Distracted Driving,Highway,Clear
+ID-1745,Lucknow,26.8941,80.98562,2023-03-03,16:10,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1746,Bangalore,13.07813,77.61422,2023-01-06,14:59,Minor,Distracted Driving,Highway,Rain
+ID-1747,Jaipur,26.8519,75.70936,2023-04-03,23:05,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1748,Kolkata,22.5183,88.42959,2023-10-30,21:43,Minor,Distracted Driving,Rural Road,Rain
+ID-1749,Mumbai,19.06791,72.90094,2023-09-02,22:42,Serious,Drunk Driving,City Road,Clear
+ID-1750,Bangalore,12.90639,77.64268,2023-07-01,16:07,Serious,Signal Jumping,City Road,Clear
+ID-1751,Pune,18.52847,73.73541,2023-04-25,22:35,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1752,Hyderabad,17.41621,78.4718,2023-05-30,05:11,Serious,Signal Jumping,Rural Road,Clear
+ID-1753,Hyderabad,17.48525,78.4404,2023-05-08,15:34,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1754,Hyderabad,17.35313,78.40234,2023-10-15,15:09,Serious,Distracted Driving,City Road,Clear
+ID-1755,Hyderabad,17.32847,78.49625,2023-05-21,10:26,Minor,Weather/Low Visibility,Highway,Rain
+ID-1756,Nashik,20.01477,73.85787,2023-12-23,21:34,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-1757,Nagpur,21.08718,79.1955,2023-11-05,22:28,Serious,Drunk Driving,City Road,Clear
+ID-1758,Delhi,28.73321,76.84459,2023-05-08,22:57,Fatal,Drunk Driving,Highway,Rain
+ID-1759,Pune,18.44267,73.84394,2023-05-11,19:02,Serious,Distracted Driving,City Road,Clear
+ID-1760,Hyderabad,17.36649,78.46601,2023-06-04,00:48,Serious,Drunk Driving,City Road,Rain
+ID-1761,Chennai,12.99537,80.10631,2023-10-18,11:01,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1762,Delhi,28.69613,77.24829,2023-05-13,19:44,Minor,Potholes,Rural Road,Clear
+ID-1763,Mumbai,19.06231,72.98151,2023-02-19,09:09,Fatal,Distracted Driving,City Road,Clear
+ID-1764,Nashik,19.95417,73.80339,2023-07-21,14:11,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1765,Kolkata,22.62329,88.40768,2023-11-13,21:44,Minor,Potholes,City Road,Dust Storm
+ID-1766,Kolkata,22.57623,88.36247,2023-06-10,00:16,Fatal,Drunk Driving,Highway,Clear
+ID-1767,Delhi,28.45391,77.09955,2023-05-07,06:23,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1768,Mumbai,18.93402,72.8949,2023-11-02,17:14,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1769,Kolkata,22.54971,88.49517,2023-05-14,22:37,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1770,Delhi,28.41966,77.09706,2023-09-29,19:19,Serious,Weather/Low Visibility,Highway,Fog
+ID-1771,Kolkata,22.6841,88.49973,2023-08-11,17:39,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1772,Bangalore,13.03675,77.55243,2023-07-06,21:55,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1773,Lucknow,26.70584,80.89012,2023-09-17,19:50,Minor,Potholes,City Road,Clear
+ID-1774,Meerut,28.92617,77.77141,2023-03-08,02:50,Serious,Drunk Driving,City Road,Rain
+ID-1775,Kolkata,22.52168,88.42652,2023-01-28,10:59,Fatal,Over-speeding,Highway,Dust Storm
+ID-1776,Meerut,28.93043,77.63621,2023-08-31,23:42,Serious,Distracted Driving,Highway,Dust Storm
+ID-1777,Delhi,28.55606,76.85183,2023-07-10,17:05,Minor,Potholes,Rural Road,Fog
+ID-1778,Jaipur,26.92788,75.89867,2023-10-29,12:30,Fatal,Potholes,City Road,Dust Storm
+ID-1779,Chennai,13.19749,80.12557,2023-07-03,16:56,Minor,Distracted Driving,City Road,Clear
+ID-1780,Kolkata,22.52698,88.44366,2023-03-17,17:04,Minor,Signal Jumping,Highway,Clear
+ID-1781,Delhi,28.42139,77.06438,2023-08-09,20:14,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1782,Hyderabad,17.41082,78.49474,2023-03-31,14:32,Minor,Distracted Driving,Highway,Rain
+ID-1783,Kolkata,22.63894,88.34651,2023-01-17,20:03,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1784,Delhi,28.54697,77.1261,2023-02-09,19:54,Fatal,Weather/Low Visibility,Highway,Rain
+ID-1785,Pune,18.54259,73.78949,2023-12-16,23:31,Minor,Potholes,City Road,Clear
+ID-1786,Chennai,13.13207,80.25283,2023-12-14,14:41,Serious,Weather/Low Visibility,City Road,Rain
+ID-1787,Indore,22.63833,75.86652,2023-02-07,09:52,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1788,Indore,22.70858,75.86024,2023-01-22,19:52,Serious,Distracted Driving,Rural Road,Fog
+ID-1789,Pune,18.40664,73.82178,2023-03-16,08:32,Fatal,Distracted Driving,City Road,Rain
+ID-1790,Madurai,9.97622,78.00236,2023-02-05,18:32,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1791,Indore,22.65732,75.881,2023-05-11,13:16,Minor,Weather/Low Visibility,City Road,Fog
+ID-1792,Delhi,28.42139,77.06587,2023-11-05,18:30,Serious,Potholes,City Road,Rain
+ID-1793,Mumbai,18.90467,72.93725,2023-11-02,11:41,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-1794,Delhi,28.60094,77.13054,2023-10-24,15:36,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1795,Delhi,28.52243,77.29264,2023-09-03,03:53,Serious,Drunk Driving,City Road,Fog
+ID-1796,Nagpur,21.04651,79.14307,2023-12-30,16:24,Minor,Weather/Low Visibility,City Road,Rain
+ID-1797,Bangalore,12.86112,77.61135,2023-05-01,01:33,Minor,Drunk Driving,Highway,Clear
+ID-1798,Kolkata,22.69707,88.43191,2023-10-18,15:56,Minor,Drunk Driving,Rural Road,Rain
+ID-1799,Jaipur,26.98483,75.84234,2023-01-23,07:07,Fatal,Over-speeding,Highway,Clear
+ID-1800,Delhi,28.75559,76.80814,2023-07-14,10:27,Serious,Over-speeding,Highway,Clear
+ID-1801,Indore,22.72628,75.83429,2023-03-04,23:24,Serious,Drunk Driving,City Road,Clear
+ID-1802,Mumbai,19.01511,72.81859,2023-06-13,11:18,Minor,Signal Jumping,Rural Road,Rain
+ID-1803,Pune,18.51793,73.85102,2023-03-12,22:41,Serious,Weather/Low Visibility,City Road,Fog
+ID-1804,Indore,22.66328,75.83526,2023-01-09,00:46,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1805,Indore,22.65579,75.76588,2023-02-08,10:53,Minor,Distracted Driving,Rural Road,Clear
+ID-1806,Bangalore,12.81382,77.58657,2023-02-07,20:05,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1807,Mumbai,18.92596,72.81806,2023-06-15,21:34,Serious,Over-speeding,Rural Road,Dust Storm
+ID-1808,Mumbai,19.17489,72.85377,2023-01-08,12:39,Minor,Weather/Low Visibility,City Road,Rain
+ID-1809,Delhi,28.48092,77.07698,2023-11-15,22:36,Minor,Weather/Low Visibility,City Road,Rain
+ID-1810,Madurai,9.90559,78.10799,2023-03-02,10:36,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1811,Mumbai,18.90919,72.96057,2023-02-09,07:54,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1812,Lucknow,26.81894,80.8253,2023-07-03,15:48,Minor,Weather/Low Visibility,City Road,Rain
+ID-1813,Meerut,29.09556,77.71066,2023-08-25,10:04,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1814,Bangalore,13.0872,77.59211,2023-03-12,17:42,Serious,Weather/Low Visibility,City Road,Fog
+ID-1815,Madurai,9.95681,78.01931,2023-02-17,11:17,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1816,Delhi,28.47081,76.87046,2023-08-19,22:04,Serious,Drunk Driving,Rural Road,Fog
+ID-1817,Mumbai,18.93957,72.96466,2023-01-24,20:31,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1818,Varanasi,25.36898,82.92831,2023-01-10,23:36,Serious,Signal Jumping,Highway,Clear
+ID-1819,Mumbai,18.96587,72.94083,2023-03-29,14:29,Fatal,Drunk Driving,City Road,Rain
+ID-1820,Delhi,28.588,76.88881,2023-05-24,10:56,Fatal,Over-speeding,Highway,Clear
+ID-1821,Nagpur,21.13039,79.17372,2023-08-20,07:16,Fatal,Drunk Driving,Highway,Clear
+ID-1822,Kolkata,22.69874,88.3145,2023-01-31,08:04,Fatal,Distracted Driving,Highway,Clear
+ID-1823,Mumbai,18.93485,72.87436,2023-02-25,21:56,Minor,Signal Jumping,City Road,Clear
+ID-1824,Bangalore,12.85578,77.51617,2023-08-14,19:52,Minor,Weather/Low Visibility,Highway,Rain
+ID-1825,Jaipur,26.89248,75.86193,2023-09-05,18:00,Minor,Distracted Driving,Rural Road,Clear
+ID-1826,Mumbai,19.0722,72.86245,2023-11-27,05:14,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1827,Pune,18.51462,73.87304,2023-05-23,22:16,Serious,Drunk Driving,City Road,Clear
+ID-1828,Mumbai,19.08732,72.94419,2023-10-03,20:51,Minor,Over-speeding,Rural Road,Rain
+ID-1829,Meerut,28.9071,77.66646,2023-07-26,23:39,Fatal,Drunk Driving,Highway,Rain
+ID-1830,Mumbai,19.19125,72.95673,2023-05-04,20:33,Serious,Weather/Low Visibility,City Road,Rain
+ID-1831,Madurai,9.88113,78.0546,2023-08-18,12:27,Minor,Drunk Driving,Rural Road,Rain
+ID-1832,Chennai,13.1673,80.28619,2023-06-12,16:11,Serious,Drunk Driving,Rural Road,Dust Storm
+ID-1833,Lucknow,26.75958,80.983,2023-08-17,20:03,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1834,Mumbai,19.00803,72.92397,2023-04-16,21:10,Serious,Potholes,Rural Road,Rain
+ID-1835,Mumbai,19.06225,72.86666,2023-12-25,02:40,Serious,Distracted Driving,Rural Road,Clear
+ID-1836,Madurai,9.82034,78.04671,2023-02-18,22:24,Fatal,Drunk Driving,Highway,Clear
+ID-1837,Mumbai,18.98848,72.98849,2023-04-01,23:44,Fatal,Drunk Driving,City Road,Clear
+ID-1838,Chennai,13.01128,80.14676,2023-01-01,23:11,Fatal,Drunk Driving,Highway,Rain
+ID-1839,Indore,22.75878,75.81318,2023-12-25,06:48,Minor,Over-speeding,City Road,Clear
+ID-1840,Chennai,12.9333,80.14292,2023-12-18,14:43,Fatal,Potholes,City Road,Fog
+ID-1841,Delhi,28.64705,76.816,2023-08-15,18:48,Serious,Weather/Low Visibility,Highway,Rain
+ID-1842,Nagpur,21.11015,79.17923,2023-11-26,23:23,Serious,Drunk Driving,Rural Road,Rain
+ID-1843,Mumbai,18.90292,72.87853,2023-01-07,20:49,Minor,Drunk Driving,Highway,Clear
+ID-1844,Madurai,9.85549,78.02521,2023-11-10,15:32,Minor,Weather/Low Visibility,Highway,Fog
+ID-1845,Delhi,28.51996,77.10672,2023-11-12,20:56,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1846,Mumbai,19.12799,72.84873,2023-01-24,11:09,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-1847,Bangalore,12.92227,77.59738,2023-10-20,18:25,Serious,Signal Jumping,Highway,Clear
+ID-1848,Delhi,28.55474,77.01962,2023-09-14,17:30,Minor,Distracted Driving,Rural Road,Rain
+ID-1849,Kolkata,22.54356,88.33877,2023-04-26,16:23,Serious,Over-speeding,City Road,Clear
+ID-1850,Meerut,28.99816,77.6754,2023-03-24,18:13,Serious,Weather/Low Visibility,Highway,Fog
+ID-1851,Delhi,28.48501,76.98974,2023-02-24,02:18,Fatal,Weather/Low Visibility,Highway,Fog
+ID-1852,Pune,18.5323,73.81454,2023-02-18,20:21,Serious,Over-speeding,Rural Road,Clear
+ID-1853,Indore,22.75749,75.81426,2023-05-06,17:22,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1854,Lucknow,26.70279,80.97728,2023-04-23,06:28,Serious,Drunk Driving,City Road,Clear
+ID-1855,Kolkata,22.67928,88.3669,2023-10-06,03:50,Serious,Drunk Driving,Rural Road,Fog
+ID-1856,Pune,18.51868,73.81872,2023-04-29,21:02,Serious,Drunk Driving,Rural Road,Dust Storm
+ID-1857,Nagpur,21.03584,78.90254,2023-09-24,15:22,Minor,Drunk Driving,City Road,Clear
+ID-1858,Pune,18.49239,73.79267,2023-08-16,19:00,Serious,Over-speeding,City Road,Clear
+ID-1859,Kolkata,22.66837,88.34513,2023-12-25,19:27,Serious,Drunk Driving,Rural Road,Clear
+ID-1860,Delhi,28.7181,77.16278,2023-03-05,01:50,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1861,Nashik,19.91889,73.72128,2023-07-10,10:34,Serious,Distracted Driving,Rural Road,Clear
+ID-1862,Lucknow,26.81771,80.86259,2023-12-27,17:10,Minor,Signal Jumping,City Road,Clear
+ID-1863,Mumbai,19.0668,72.80889,2023-12-25,21:34,Minor,Weather/Low Visibility,Highway,Rain
+ID-1864,Nashik,19.97509,73.88852,2023-09-18,15:51,Minor,Distracted Driving,City Road,Fog
+ID-1865,Delhi,28.66294,77.29771,2023-01-01,01:10,Serious,Drunk Driving,Rural Road,Rain
+ID-1866,Pune,18.42549,73.88532,2023-05-10,17:03,Minor,Weather/Low Visibility,City Road,Fog
+ID-1867,Chennai,12.98363,80.14228,2023-02-03,23:07,Serious,Drunk Driving,Rural Road,Fog
+ID-1868,Lucknow,26.70204,80.82531,2023-11-21,11:02,Minor,Drunk Driving,City Road,Clear
+ID-1869,Pune,18.58742,73.83918,2023-09-12,07:28,Serious,Distracted Driving,Rural Road,Rain
+ID-1870,Kolkata,22.54874,88.44357,2023-06-21,18:26,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1871,Nashik,19.90058,73.89687,2023-08-14,22:14,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1872,Mumbai,19.08333,72.84485,2023-11-03,23:10,Serious,Over-speeding,Rural Road,Dust Storm
+ID-1873,Meerut,29.04846,77.69394,2023-09-29,12:37,Serious,Drunk Driving,Highway,Clear
+ID-1874,Pune,18.45273,73.86843,2023-07-18,18:39,Minor,Weather/Low Visibility,Highway,Rain
+ID-1875,Hyderabad,17.46029,78.3406,2023-01-29,18:32,Minor,Distracted Driving,Rural Road,Dust Storm
+ID-1876,Hyderabad,17.49377,78.38354,2023-12-25,09:14,Serious,Weather/Low Visibility,Highway,Rain
+ID-1877,Mumbai,19.14125,72.87241,2023-05-11,20:49,Serious,Distracted Driving,City Road,Clear
+ID-1878,Varanasi,25.39306,82.9783,2023-04-07,14:49,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1879,Pune,18.40171,73.82944,2023-03-28,07:08,Serious,Weather/Low Visibility,City Road,Rain
+ID-1880,Delhi,28.44699,76.94776,2023-03-12,21:42,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1881,Nagpur,21.06411,79.10205,2023-01-21,11:40,Serious,Potholes,Rural Road,Dust Storm
+ID-1882,Chennai,13.08531,80.24798,2023-06-09,19:46,Minor,Signal Jumping,Rural Road,Clear
+ID-1883,Chennai,13.08024,80.23654,2023-05-03,13:21,Fatal,Drunk Driving,City Road,Fog
+ID-1884,Meerut,28.93733,77.67313,2023-05-06,19:14,Serious,Distracted Driving,Highway,Rain
+ID-1885,Pune,18.44818,73.71574,2023-01-15,11:25,Minor,Distracted Driving,City Road,Fog
+ID-1886,Mumbai,19.13351,72.87808,2023-06-19,20:31,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1887,Jaipur,26.94411,75.89807,2023-05-03,19:23,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1888,Kolkata,22.67145,88.37861,2023-02-02,21:51,Minor,Weather/Low Visibility,City Road,Rain
+ID-1889,Mumbai,18.95312,72.85711,2023-06-20,18:36,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1890,Lucknow,26.76834,80.95208,2023-07-15,20:36,Minor,Weather/Low Visibility,City Road,Fog
+ID-1891,Bangalore,13.05603,77.54791,2023-10-29,13:23,Serious,Weather/Low Visibility,Highway,Fog
+ID-1892,Delhi,28.77325,76.94296,2023-04-11,22:37,Serious,Drunk Driving,City Road,Rain
+ID-1893,Bangalore,12.89502,77.56179,2023-04-23,15:26,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-1894,Jaipur,26.98149,75.88073,2023-03-04,23:46,Fatal,Drunk Driving,Highway,Fog
+ID-1895,Mumbai,19.01051,72.9098,2023-04-18,20:10,Minor,Distracted Driving,Rural Road,Fog
+ID-1896,Delhi,28.57318,77.25292,2023-12-14,23:41,Fatal,Drunk Driving,Highway,Clear
+ID-1897,Bangalore,13.08946,77.67394,2023-06-24,22:26,Minor,Signal Jumping,Highway,Rain
+ID-1898,Chennai,12.93962,80.18599,2023-08-28,19:12,Serious,Over-speeding,City Road,Clear
+ID-1899,Nagpur,21.18221,79.09371,2023-03-20,17:52,Minor,Distracted Driving,Highway,Clear
+ID-1900,Madurai,9.8651,78.10383,2023-12-16,00:30,Fatal,Drunk Driving,Highway,Rain
+ID-1901,Indore,22.73251,75.88907,2023-04-27,22:19,Serious,Distracted Driving,Highway,Clear
+ID-1902,Nagpur,21.10582,79.08826,2023-03-04,18:12,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1903,Varanasi,25.34184,83.00362,2023-11-27,03:38,Fatal,Weather/Low Visibility,Highway,Dust Storm
+ID-1904,Pune,18.59327,73.77045,2023-03-28,13:09,Minor,Drunk Driving,Highway,Dust Storm
+ID-1905,Delhi,28.47604,77.06111,2023-08-31,20:23,Minor,Weather/Low Visibility,City Road,Rain
+ID-1906,Delhi,28.49065,77.01341,2023-02-16,12:25,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1907,Kolkata,22.57782,88.39957,2023-01-20,19:24,Fatal,Over-speeding,City Road,Clear
+ID-1908,Pune,18.42494,73.77929,2023-10-13,16:57,Serious,Weather/Low Visibility,Rural Road,Rain
+ID-1909,Delhi,28.74361,77.13311,2023-05-13,20:34,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1910,Lucknow,26.85075,80.8262,2023-03-24,17:09,Fatal,Signal Jumping,Rural Road,Clear
+ID-1911,Kolkata,22.52123,88.42149,2023-10-17,07:42,Minor,Drunk Driving,Highway,Rain
+ID-1912,Kolkata,22.57075,88.31143,2023-12-02,10:23,Serious,Over-speeding,Highway,Dust Storm
+ID-1913,Hyderabad,17.44441,78.4729,2023-01-29,01:34,Serious,Drunk Driving,Rural Road,Dust Storm
+ID-1914,Mumbai,19.1483,72.80126,2023-03-04,22:19,Minor,Weather/Low Visibility,Highway,Fog
+ID-1915,Meerut,28.94395,77.67707,2023-05-27,12:50,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1916,Lucknow,26.84402,80.93137,2023-09-01,06:17,Minor,Weather/Low Visibility,City Road,Fog
+ID-1917,Delhi,28.42909,76.88714,2023-08-08,12:05,Minor,Weather/Low Visibility,Highway,Fog
+ID-1918,Indore,22.75329,75.83465,2023-12-10,02:36,Fatal,Over-speeding,Rural Road,Dust Storm
+ID-1919,Mumbai,19.03526,72.89933,2023-03-12,18:51,Fatal,Weather/Low Visibility,Highway,Fog
+ID-1920,Jaipur,26.83166,75.70298,2023-12-05,11:08,Minor,Weather/Low Visibility,City Road,Rain
+ID-1921,Nagpur,21.04036,78.9731,2023-09-30,09:29,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1922,Jaipur,26.99098,75.79491,2023-09-05,21:57,Fatal,Drunk Driving,Rural Road,Clear
+ID-1923,Nashik,20.09702,73.73707,2023-01-15,15:48,Fatal,Weather/Low Visibility,Rural Road,Fog
+ID-1924,Chennai,13.05913,80.22433,2023-11-23,10:15,Minor,Weather/Low Visibility,Highway,Fog
+ID-1925,Lucknow,26.71834,80.95399,2023-12-11,08:32,Minor,Weather/Low Visibility,Highway,Fog
+ID-1926,Nagpur,21.02895,78.94756,2023-06-28,18:49,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1927,Varanasi,25.31261,82.99122,2023-01-01,12:03,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1928,Indore,22.66123,75.80895,2023-08-18,15:36,Serious,Potholes,City Road,Dust Storm
+ID-1929,Hyderabad,17.31781,78.46324,2023-05-12,23:02,Minor,Distracted Driving,Highway,Clear
+ID-1930,Chennai,13.0059,80.23981,2023-07-17,12:47,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1931,Pune,18.49288,73.71582,2023-10-19,10:08,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1932,Hyderabad,17.30991,78.37419,2023-06-29,12:23,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-1933,Mumbai,19.02406,72.84127,2023-05-29,20:39,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1934,Mumbai,19.17678,72.88279,2023-05-15,14:48,Serious,Distracted Driving,City Road,Rain
+ID-1935,Delhi,28.71423,77.19585,2023-11-05,12:36,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1936,Pune,18.54114,73.87154,2023-10-22,15:14,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1937,Chennai,13.12772,80.26735,2023-01-25,10:14,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1938,Hyderabad,17.42109,78.39541,2023-09-25,22:41,Fatal,Drunk Driving,Highway,Fog
+ID-1939,Jaipur,26.8016,75.87884,2023-03-30,04:44,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1940,Nagpur,21.06027,79.15549,2023-07-31,14:45,Minor,Distracted Driving,City Road,Fog
+ID-1941,Mumbai,18.93957,72.95555,2023-05-23,18:19,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1942,Mumbai,18.91923,72.94471,2023-07-02,18:09,Serious,Weather/Low Visibility,Highway,Rain
+ID-1943,Lucknow,26.87275,80.86666,2023-07-20,16:38,Minor,Weather/Low Visibility,Rural Road,Fog
+ID-1944,Delhi,28.67102,77.03568,2023-10-21,10:59,Serious,Weather/Low Visibility,Highway,Rain
+ID-1945,Delhi,28.5442,76.94917,2023-04-24,11:24,Serious,Over-speeding,Highway,Clear
+ID-1946,Meerut,29.01015,77.60961,2023-07-28,13:53,Minor,Drunk Driving,Highway,Rain
+ID-1947,Pune,18.43898,73.7915,2023-02-25,08:41,Serious,Over-speeding,Highway,Fog
+ID-1948,Kolkata,22.58314,88.44829,2023-01-15,22:53,Serious,Drunk Driving,Rural Road,Fog
+ID-1949,Jaipur,26.97207,75.77629,2023-11-28,04:05,Fatal,Signal Jumping,City Road,Dust Storm
+ID-1950,Delhi,28.42576,76.93175,2023-03-21,20:03,Minor,Weather/Low Visibility,Highway,Fog
+ID-1951,Nagpur,21.16301,79.08285,2023-08-18,15:11,Serious,Weather/Low Visibility,Highway,Rain
+ID-1952,Mumbai,19.05609,72.83066,2023-06-19,06:08,Serious,Over-speeding,Highway,Clear
+ID-1953,Lucknow,26.74594,80.84389,2023-12-21,15:04,Minor,Weather/Low Visibility,City Road,Dust Storm
+ID-1954,Delhi,28.72631,77.01877,2023-06-27,15:39,Minor,Weather/Low Visibility,Rural Road,Rain
+ID-1955,Kolkata,22.5556,88.37404,2023-10-25,19:47,Minor,Weather/Low Visibility,City Road,Fog
+ID-1956,Delhi,28.41162,76.93543,2023-08-23,22:18,Fatal,Over-speeding,Highway,Clear
+ID-1957,Mumbai,18.94902,72.95941,2023-07-31,14:28,Serious,Distracted Driving,Rural Road,Dust Storm
+ID-1958,Kolkata,22.52032,88.48347,2023-05-14,21:20,Minor,Signal Jumping,Rural Road,Clear
+ID-1959,Pune,18.58714,73.73658,2023-10-05,02:40,Fatal,Drunk Driving,Highway,Dust Storm
+ID-1960,Mumbai,18.9445,72.90116,2023-01-21,00:38,Serious,Weather/Low Visibility,City Road,Fog
+ID-1961,Delhi,28.68504,77.25743,2023-05-08,19:31,Minor,Weather/Low Visibility,City Road,Rain
+ID-1962,Mumbai,19.18215,72.95889,2023-03-03,12:03,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1963,Hyderabad,17.43938,78.4965,2023-12-09,17:03,Fatal,Over-speeding,Highway,Dust Storm
+ID-1964,Delhi,28.67743,77.19897,2023-10-28,10:06,Fatal,Weather/Low Visibility,Rural Road,Fog
+ID-1965,Kolkata,22.61964,88.44704,2023-03-14,00:11,Serious,Drunk Driving,Rural Road,Dust Storm
+ID-1966,Hyderabad,17.39088,78.33271,2023-07-12,13:07,Minor,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1967,Mumbai,19.14327,72.91822,2023-01-01,09:47,Serious,Signal Jumping,Highway,Rain
+ID-1968,Pune,18.45889,73.78856,2023-09-18,08:31,Fatal,Weather/Low Visibility,Highway,Fog
+ID-1969,Meerut,28.90416,77.63324,2023-09-17,02:49,Minor,Signal Jumping,Highway,Fog
+ID-1970,Nagpur,21.03789,79.10456,2023-04-04,08:57,Fatal,Weather/Low Visibility,Rural Road,Dust Storm
+ID-1971,Delhi,28.46398,77.23882,2023-04-05,19:17,Serious,Weather/Low Visibility,City Road,Dust Storm
+ID-1972,Varanasi,25.2341,83.08241,2023-07-24,21:05,Serious,Distracted Driving,Highway,Clear
+ID-1973,Mumbai,19.14286,72.82676,2023-03-22,23:59,Serious,Weather/Low Visibility,Highway,Fog
+ID-1974,Delhi,28.78202,77.1843,2023-06-11,22:20,Serious,Weather/Low Visibility,Highway,Dust Storm
+ID-1975,Madurai,9.94404,78.03083,2023-12-07,23:18,Fatal,Drunk Driving,City Road,Clear
+ID-1976,Varanasi,25.26704,82.95184,2023-06-23,06:35,Fatal,Over-speeding,Highway,Rain
+ID-1977,Chennai,13.06149,80.27027,2023-04-25,00:54,Fatal,Drunk Driving,Highway,Rain
+ID-1978,Delhi,28.7402,76.84718,2023-09-19,14:18,Serious,Signal Jumping,Rural Road,Clear
+ID-1979,Nagpur,21.0745,78.9461,2023-07-25,22:31,Serious,Distracted Driving,Highway,Clear
+ID-1980,Bangalore,12.83292,77.56534,2023-06-06,12:19,Serious,Drunk Driving,Highway,Clear
+ID-1981,Nagpur,21.15892,78.9533,2023-09-03,23:33,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1982,Bangalore,12.91632,77.58035,2023-11-02,11:07,Minor,Weather/Low Visibility,Highway,Rain
+ID-1983,Delhi,28.47212,77.10526,2023-04-09,19:04,Minor,Drunk Driving,City Road,Clear
+ID-1984,Chennai,13.10705,80.10909,2023-02-27,14:13,Minor,Distracted Driving,Rural Road,Dust Storm
+ID-1985,Pune,18.51367,73.87237,2023-03-20,06:28,Serious,Weather/Low Visibility,Rural Road,Fog
+ID-1986,Indore,22.61931,75.73218,2023-01-11,23:35,Serious,Drunk Driving,City Road,Rain
+ID-1987,Nashik,20.03764,73.73362,2023-04-11,20:59,Fatal,Weather/Low Visibility,Rural Road,Rain
+ID-1988,Pune,18.50879,73.73771,2023-06-17,23:02,Minor,Drunk Driving,Highway,Fog
+ID-1989,Kolkata,22.60997,88.30038,2023-08-02,10:59,Minor,Potholes,Rural Road,Rain
+ID-1990,Lucknow,26.71249,80.89022,2023-08-23,04:52,Serious,Weather/Low Visibility,Highway,Rain
+ID-1991,Mumbai,19.06674,72.97791,2023-04-15,15:50,Fatal,Drunk Driving,City Road,Dust Storm
+ID-1992,Chennai,12.92499,80.16724,2023-07-23,16:11,Minor,Distracted Driving,Highway,Clear
+ID-1993,Kolkata,22.61043,88.49303,2023-12-06,19:09,Serious,Distracted Driving,Highway,Rain
+ID-1994,Delhi,28.68676,76.87618,2023-06-28,23:14,Serious,Drunk Driving,Rural Road,Dust Storm
+ID-1995,Meerut,29.00567,77.66507,2023-09-04,21:57,Minor,Weather/Low Visibility,Highway,Dust Storm
+ID-1996,Meerut,28.9845,77.72583,2023-10-03,02:40,Serious,Potholes,Rural Road,Clear
+ID-1997,Kolkata,22.54947,88.31501,2023-03-01,16:26,Minor,Signal Jumping,City Road,Clear
+ID-1998,Delhi,28.5676,77.22661,2023-06-29,16:19,Minor,Signal Jumping,Highway,Dust Storm
+ID-1999,Kolkata,22.50333,88.44324,2023-07-08,07:24,Serious,Weather/Low Visibility,Rural Road,Dust Storm
+ID-2000,Indore,22.63416,75.87398,2023-04-15,06:28,Minor,Weather/Low Visibility,City Road,Rain
